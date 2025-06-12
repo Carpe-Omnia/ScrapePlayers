@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Special Teams">
+  <Position name="PK">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Spencer Shrader</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4571557/spencer-shrader</URL>
+      <UID>s:20~l:28~a:4571557</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Maddux Trujillo</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4879326/maddux-trujillo</URL>
+      <UID>s:20~l:28~a:4879326</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="P">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Rigoberto Sanchez</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3914922/rigoberto-sanchez</URL>
+      <UID>s:20~l:28~a:3914922</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="H">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Rigoberto Sanchez</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3914922/rigoberto-sanchez</URL>
+      <UID>s:20~l:28~a:3914922</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="PR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Anthony Gould</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429684/anthony-gould</URL>
+      <UID>s:20~l:28~a:4429684</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Josh Downs</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4688813/josh-downs</URL>
+      <UID>s:20~l:28~a:4688813</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="KR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Anthony Gould</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429684/anthony-gould</URL>
+      <UID>s:20~l:28~a:4429684</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Ashton Dulin</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4061956/ashton-dulin</URL>
+      <UID>s:20~l:28~a:4061956</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Khalil Herbert</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4035886/khalil-herbert</URL>
+      <UID>s:20~l:28~a:4035886</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Tyler Goodson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429676/tyler-goodson</URL>
+      <UID>s:20~l:28~a:4429676</UID>
+    </Player>
+  </Position>
+  <Position name="LS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Luke Rhodes</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2566045/luke-rhodes</URL>
+      <UID>s:20~l:28~a:2566045</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

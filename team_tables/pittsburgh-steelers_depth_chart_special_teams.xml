@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Special Teams">
+  <Position name="PK">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Chris Boswell</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/17372/chris-boswell</URL>
+      <UID>s:20~l:28~a:17372</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Ben Sauls</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4566158/ben-sauls</URL>
+      <UID>s:20~l:28~a:4566158</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="P">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Cameron Johnston</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3051397/cameron-johnston</URL>
+      <UID>s:20~l:28~a:3051397</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Corliss Waitman</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3125280/corliss-waitman</URL>
+      <UID>s:20~l:28~a:3125280</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="H">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Cameron Johnston</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3051397/cameron-johnston</URL>
+      <UID>s:20~l:28~a:3051397</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Corliss Waitman</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3125280/corliss-waitman</URL>
+      <UID>s:20~l:28~a:3125280</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="PR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Calvin Austin III</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4243389/calvin-austin-iii</URL>
+      <UID>s:20~l:28~a:4243389</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Scotty Miller</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3914397/scotty-miller</URL>
+      <UID>s:20~l:28~a:3914397</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="KR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Kenneth Gainwell</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4371733/kenneth-gainwell</URL>
+      <UID>s:20~l:28~a:4371733</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Cordarrelle Patterson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/15807/cordarrelle-patterson</URL>
+      <UID>s:20~l:28~a:15807</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jaylen Warren</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4569987/jaylen-warren</URL>
+      <UID>s:20~l:28~a:4569987</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Max Hurleman</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4694237/max-hurleman</URL>
+      <UID>s:20~l:28~a:4694237</UID>
+    </Player>
+  </Position>
+  <Position name="LS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Christian Kuntz</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2978524/christian-kuntz</URL>
+      <UID>s:20~l:28~a:2978524</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

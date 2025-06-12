@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Special Teams">
+  <Position name="PK">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Evan McPherson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4360234/evan-mcpherson</URL>
+      <UID>s:20~l:28~a:4360234</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Cade York</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4428963/cade-york</URL>
+      <UID>s:20~l:28~a:4428963</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="P">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Ryan Rehkow</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4608820/ryan-rehkow</URL>
+      <UID>s:20~l:28~a:4608820</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="H">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Ryan Rehkow</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4608820/ryan-rehkow</URL>
+      <UID>s:20~l:28~a:4608820</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="PR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Charlie Jones</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4257188/charlie-jones</URL>
+      <UID>s:20~l:28~a:4257188</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Isaiah Williams</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4569371/isaiah-williams</URL>
+      <UID>s:20~l:28~a:4569371</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="KR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Charlie Jones</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4257188/charlie-jones</URL>
+      <UID>s:20~l:28~a:4257188</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Samaje Perine</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3116389/samaje-perine</URL>
+      <UID>s:20~l:28~a:3116389</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jermaine Burton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429033/jermaine-burton</URL>
+      <UID>s:20~l:28~a:4429033</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="LS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Cal Adomitis</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4240719/cal-adomitis</URL>
+      <UID>s:20~l:28~a:4240719</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>William Wagner</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4572051/william-wagner</URL>
+      <UID>s:20~l:28~a:4572051</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

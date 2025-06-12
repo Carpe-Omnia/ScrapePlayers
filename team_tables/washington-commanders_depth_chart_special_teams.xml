@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Special Teams">
+  <Position name="PK">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Matt Gay</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4249087/matt-gay</URL>
+      <UID>s:20~l:28~a:4249087</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="P">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Tress Way</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/16166/tress-way</URL>
+      <UID>s:20~l:28~a:16166</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="H">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Tress Way</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/16166/tress-way</URL>
+      <UID>s:20~l:28~a:16166</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="PR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Jaylin Lane</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4602667/jaylin-lane</URL>
+      <UID>s:20~l:28~a:4602667</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="KR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Austin Ekeler</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3068267/austin-ekeler</URL>
+      <UID>s:20~l:28~a:3068267</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Deebo Samuel Sr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3126486/deebo-samuel-sr</URL>
+      <UID>s:20~l:28~a:3126486</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Luke McCaffrey</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4426948/luke-mccaffrey</URL>
+      <UID>s:20~l:28~a:4426948</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Jeremy McNichols</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3127586/jeremy-mcnichols</URL>
+      <UID>s:20~l:28~a:3127586</UID>
+    </Player>
+  </Position>
+  <Position name="LS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Tyler Ott</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/17378/tyler-ott</URL>
+      <UID>s:20~l:28~a:17378</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

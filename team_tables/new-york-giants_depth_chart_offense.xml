@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="3WR 1TE">
+  <Position name="QB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Russell Wilson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/14881/russell-wilson</URL>
+      <UID>s:20~l:28~a:14881</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Jameis Winston</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2969939/jameis-winston</URL>
+      <UID>s:20~l:28~a:2969939</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jaxson Dart</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4689114/jaxson-dart</URL>
+      <UID>s:20~l:28~a:4689114</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Tommy DeVito</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4240391/tommy-devito</URL>
+      <UID>s:20~l:28~a:4240391</UID>
+    </Player>
+  </Position>
+  <Position name="RB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Tyrone Tracy Jr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4360516/tyrone-tracy-jr</URL>
+      <UID>s:20~l:28~a:4360516</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Devin Singletary</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4040761/devin-singletary</URL>
+      <UID>s:20~l:28~a:4040761</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Cam Skattebo</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4696981/cam-skattebo</URL>
+      <UID>s:20~l:28~a:4696981</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Eric Gray</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4570561/eric-gray</URL>
+      <UID>s:20~l:28~a:4570561</UID>
+    </Player>
+  </Position>
+  <Position name="WR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Malik Nabers</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4595348/malik-nabers</URL>
+      <UID>s:20~l:28~a:4595348</UID>
+      <Status>Q</Status>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Jalin Hyatt</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4692590/jalin-hyatt</URL>
+      <UID>s:20~l:28~a:4692590</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Ihmir Smith-Marsette</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4240573/ihmir-smith-marsette</URL>
+      <UID>s:20~l:28~a:4240573</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Da'Quan Felton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4575348/daquan-felton</URL>
+      <UID>s:20~l:28~a:4575348</UID>
+    </Player>
+  </Position>
+  <Position name="WR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Wan'Dale Robinson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4569587/wandale-robinson</URL>
+      <UID>s:20~l:28~a:4569587</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Lil'Jordan Humphrey</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4039057/liljordan-humphrey</URL>
+      <UID>s:20~l:28~a:4039057</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Bryce Ford-Wheaton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4362227/bryce-ford-wheaton</URL>
+      <UID>s:20~l:28~a:4362227</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Beaux Collins</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4431210/beaux-collins</URL>
+      <UID>s:20~l:28~a:4431210</UID>
+    </Player>
+  </Position>
+  <Position name="WR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Darius Slayton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3916945/darius-slayton</URL>
+      <UID>s:20~l:28~a:3916945</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Zach Pascal</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2978109/zach-pascal</URL>
+      <UID>s:20~l:28~a:2978109</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Montrell Washington</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4248822/montrell-washington</URL>
+      <UID>s:20~l:28~a:4248822</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Antwane Wells Jr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4696062/antwane-wells-jr</URL>
+      <UID>s:20~l:28~a:4696062</UID>
+    </Player>
+  </Position>
+  <Position name="TE">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Theo Johnson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429148/theo-johnson</URL>
+      <UID>s:20~l:28~a:4429148</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Daniel Bellinger</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4361516/daniel-bellinger</URL>
+      <UID>s:20~l:28~a:4361516</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Chris Manhertz</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2531358/chris-manhertz</URL>
+      <UID>s:20~l:28~a:2531358</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Greg Dulcich</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4367209/greg-dulcich</URL>
+      <UID>s:20~l:28~a:4367209</UID>
+    </Player>
+  </Position>
+  <Position name="LT">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Andrew Thomas</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4259566/andrew-thomas</URL>
+      <UID>s:20~l:28~a:4259566</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Joshua Ezeudu</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4373280/joshua-ezeudu</URL>
+      <UID>s:20~l:28~a:4373280</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>James Hudson III</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4258181/james-hudson-iii</URL>
+      <UID>s:20~l:28~a:4258181</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Jaison Williams</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4430738/jaison-williams</URL>
+      <UID>s:20~l:28~a:4430738</UID>
+    </Player>
+  </Position>
+  <Position name="LG">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Jon Runyan</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3929936/jon-runyan</URL>
+      <UID>s:20~l:28~a:3929936</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Evan Neal</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4567134/evan-neal</URL>
+      <UID>s:20~l:28~a:4567134</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Aaron Stinnie</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3049339/aaron-stinnie</URL>
+      <UID>s:20~l:28~a:3049339</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="C">
+    <Player>
+      <Depth>1</Depth>
+      <Name>John Michael Schmitz Jr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4240771/john-michael-schmitz-jr</URL>
+      <UID>s:20~l:28~a:4240771</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Austin Schlottmann</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4038544/austin-schlottmann</URL>
+      <UID>s:20~l:28~a:4038544</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jimmy Morrissey</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4046165/jimmy-morrissey</URL>
+      <UID>s:20~l:28~a:4046165</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Bryan Hudson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4426489/bryan-hudson</URL>
+      <UID>s:20~l:28~a:4426489</UID>
+    </Player>
+  </Position>
+  <Position name="RG">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Greg Van Roten</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/15718/greg-van-roten</URL>
+      <UID>s:20~l:28~a:15718</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Marcus Mbow</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4686362/marcus-mbow</URL>
+      <UID>s:20~l:28~a:4686362</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jake Kubas</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4383405/jake-kubas</URL>
+      <UID>s:20~l:28~a:4383405</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="RT">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Jermaine Eluemunor</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3115303/jermaine-eluemunor</URL>
+      <UID>s:20~l:28~a:3115303</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Stone Forsythe</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4034962/stone-forsythe</URL>
+      <UID>s:20~l:28~a:4034962</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

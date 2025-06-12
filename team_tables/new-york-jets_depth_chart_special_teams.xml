@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Special Teams">
+  <Position name="PK">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Anders Carlson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4242519/anders-carlson</URL>
+      <UID>s:20~l:28~a:4242519</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Caden Davis</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4570688/caden-davis</URL>
+      <UID>s:20~l:28~a:4570688</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="P">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Austin McNamara</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4427982/austin-mcnamara</URL>
+      <UID>s:20~l:28~a:4427982</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Kai Kroeger</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4570033/kai-kroeger</URL>
+      <UID>s:20~l:28~a:4570033</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="H">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Austin McNamara</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4427982/austin-mcnamara</URL>
+      <UID>s:20~l:28~a:4427982</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Kai Kroeger</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4570033/kai-kroeger</URL>
+      <UID>s:20~l:28~a:4570033</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="PR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Xavier Gipson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4427278/xavier-gipson</URL>
+      <UID>s:20~l:28~a:4427278</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Isaiah Davis</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4695404/isaiah-davis</URL>
+      <UID>s:20~l:28~a:4695404</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Kene Nwangwu</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4035537/kene-nwangwu</URL>
+      <UID>s:20~l:28~a:4035537</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="KR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Xavier Gipson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4427278/xavier-gipson</URL>
+      <UID>s:20~l:28~a:4427278</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Isaiah Davis</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4695404/isaiah-davis</URL>
+      <UID>s:20~l:28~a:4695404</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Kene Nwangwu</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4035537/kene-nwangwu</URL>
+      <UID>s:20~l:28~a:4035537</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="LS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Thomas Hennessy</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2983155/thomas-hennessy</URL>
+      <UID>s:20~l:28~a:2983155</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

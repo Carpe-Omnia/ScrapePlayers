@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Special Teams">
+  <Position name="PK">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Younghoe Koo</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3049899/younghoe-koo</URL>
+      <UID>s:20~l:28~a:3049899</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Lenny Krieg</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/5277116/lenny-krieg</URL>
+      <UID>s:20~l:28~a:5277116</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="P">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Bradley Pinion</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2977680/bradley-pinion</URL>
+      <UID>s:20~l:28~a:2977680</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="H">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Bradley Pinion</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2977680/bradley-pinion</URL>
+      <UID>s:20~l:28~a:2977680</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="PR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Jamal Agnew</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3061612/jamal-agnew</URL>
+      <UID>s:20~l:28~a:3061612</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="KR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Ray-Ray McCloud III</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3728262/ray-ray-mccloud-iii</URL>
+      <UID>s:20~l:28~a:3728262</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Jamal Agnew</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3061612/jamal-agnew</URL>
+      <UID>s:20~l:28~a:3061612</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="LS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Liam McCullough</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3915528/liam-mccullough</URL>
+      <UID>s:20~l:28~a:3915528</UID>
+    </Player>
+    <Player depth="2" status="Empty Slot"/>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

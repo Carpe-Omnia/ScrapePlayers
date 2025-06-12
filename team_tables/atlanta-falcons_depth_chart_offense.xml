@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="3WR 1TE">
+  <Position name="QB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Michael Penix Jr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr</URL>
+      <UID>s:20~l:28~a:4360423</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Kirk Cousins</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/14880/kirk-cousins</URL>
+      <UID>s:20~l:28~a:14880</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Easton Stick</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3120590/easton-stick</URL>
+      <UID>s:20~l:28~a:3120590</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Emory Jones</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4360230/emory-jones</URL>
+      <UID>s:20~l:28~a:4360230</UID>
+    </Player>
+  </Position>
+  <Position name="RB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Bijan Robinson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4430807/bijan-robinson</URL>
+      <UID>s:20~l:28~a:4430807</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Tyler Allgeier</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4373626/tyler-allgeier</URL>
+      <UID>s:20~l:28~a:4373626</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jase McClellan</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429001/jase-mcclellan</URL>
+      <UID>s:20~l:28~a:4429001</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Carlos Washington Jr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4248425/carlos-washington-jr</URL>
+      <UID>s:20~l:28~a:4248425</UID>
+    </Player>
+  </Position>
+  <Position name="WR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Drake London</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4426502/drake-london</URL>
+      <UID>s:20~l:28~a:4426502</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>KhaDarel Hodge</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3047876/khadarel-hodge</URL>
+      <UID>s:20~l:28~a:3047876</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Chris Blair</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4369886/chris-blair</URL>
+      <UID>s:20~l:28~a:4369886</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>David Sills V</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3871102/david-sills-v</URL>
+      <UID>s:20~l:28~a:3871102</UID>
+    </Player>
+  </Position>
+  <Position name="WR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Darnell Mooney</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4040655/darnell-mooney</URL>
+      <UID>s:20~l:28~a:4040655</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Casey Washington</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4428796/casey-washington</URL>
+      <UID>s:20~l:28~a:4428796</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Dylan Drummond</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4363551/dylan-drummond</URL>
+      <UID>s:20~l:28~a:4363551</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Nick Nash</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4570242/nick-nash</URL>
+      <UID>s:20~l:28~a:4570242</UID>
+    </Player>
+  </Position>
+  <Position name="WR">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Ray-Ray McCloud III</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3728262/ray-ray-mccloud-iii</URL>
+      <UID>s:20~l:28~a:3728262</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Jamal Agnew</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3061612/jamal-agnew</URL>
+      <UID>s:20~l:28~a:3061612</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jesse Matthews</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4379569/jesse-matthews</URL>
+      <UID>s:20~l:28~a:4379569</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Makai Polk</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4430325/makai-polk</URL>
+      <UID>s:20~l:28~a:4430325</UID>
+    </Player>
+  </Position>
+  <Position name="TE">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Kyle Pitts</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4360248/kyle-pitts</URL>
+      <UID>s:20~l:28~a:4360248</UID>
+      <Status>Q</Status>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Charlie Woerner</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4035020/charlie-woerner</URL>
+      <UID>s:20~l:28~a:4035020</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Feleipe Franks</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4034948/feleipe-franks</URL>
+      <UID>s:20~l:28~a:4034948</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Teagan Quitoriano</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4374045/teagan-quitoriano</URL>
+      <UID>s:20~l:28~a:4374045</UID>
+    </Player>
+  </Position>
+  <Position name="LT">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Jake Matthews</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/16713/jake-matthews</URL>
+      <UID>s:20~l:28~a:16713</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Storm Norton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/2973014/storm-norton</URL>
+      <UID>s:20~l:28~a:2973014</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jack Nelson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4693369/jack-nelson</URL>
+      <UID>s:20~l:28~a:4693369</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Kilian Zierer</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4689088/kilian-zierer</URL>
+      <UID>s:20~l:28~a:4689088</UID>
+    </Player>
+  </Position>
+  <Position name="LG">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Matthew Bergeron</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4568510/matthew-bergeron</URL>
+      <UID>s:20~l:28~a:4568510</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Elijah Wilkinson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3059839/elijah-wilkinson</URL>
+      <UID>s:20~l:28~a:3059839</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Joshua Gray</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4570485/joshua-gray</URL>
+      <UID>s:20~l:28~a:4570485</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="C">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Ryan Neuzil</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4036444/ryan-neuzil</URL>
+      <UID>s:20~l:28~a:4036444</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Jovaughn Gwyn</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4362845/jovaughn-gwyn</URL>
+      <UID>s:20~l:28~a:4362845</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Matthew Cindric</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4372738/matthew-cindric</URL>
+      <UID>s:20~l:28~a:4372738</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Michael Gonzalez</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4431548/michael-gonzalez</URL>
+      <UID>s:20~l:28~a:4431548</UID>
+    </Player>
+  </Position>
+  <Position name="RG">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Chris Lindstrom</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3672833/chris-lindstrom</URL>
+      <UID>s:20~l:28~a:3672833</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Kyle Hinton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4682831/kyle-hinton</URL>
+      <UID>s:20~l:28~a:4682831</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="RT">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Kaleb McGary</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3127304/kaleb-mcgary</URL>
+      <UID>s:20~l:28~a:3127304</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Brandon Parker</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3072292/brandon-parker</URL>
+      <UID>s:20~l:28~a:3072292</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Tyrone Wheatley Jr.</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3929922/tyrone-wheatley-jr</URL>
+      <UID>s:20~l:28~a:3929922</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Jordan Williams</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3928939/jordan-williams</URL>
+      <UID>s:20~l:28~a:3928939</UID>
+    </Player>
+  </Position>
+</DepthChartFormation>

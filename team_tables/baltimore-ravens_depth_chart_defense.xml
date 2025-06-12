@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepthChartFormation name="Base 3-4 D">
+  <Position name="LDE">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Nnamdi Madubuike</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4035245/nnamdi-madubuike</URL>
+      <UID>s:20~l:28~a:4035245</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Aeneas Peebles</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4565311/aeneas-peebles</URL>
+      <UID>s:20~l:28~a:4565311</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="NT">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Travis Jones</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4362139/travis-jones</URL>
+      <UID>s:20~l:28~a:4362139</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>John Jenkins</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/15846/john-jenkins</URL>
+      <UID>s:20~l:28~a:15846</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>CJ Okoye</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/5144942/cj-okoye</URL>
+      <UID>s:20~l:28~a:5144942</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Jayson Jones</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4431184/jayson-jones</URL>
+      <UID>s:20~l:28~a:4431184</UID>
+    </Player>
+  </Position>
+  <Position name="RDE">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Broderick Washington</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3915837/broderick-washington</URL>
+      <UID>s:20~l:28~a:3915837</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>C.J. Ravenell</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4700676/cj-ravenell</URL>
+      <UID>s:20~l:28~a:4700676</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Adedayo Odeleye</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/5066095/adedayo-odeleye</URL>
+      <UID>s:20~l:28~a:5066095</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="WLB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Kyle Van Noy</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/16772/kyle-van-noy</URL>
+      <UID>s:20~l:28~a:16772</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Tavius Robinson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4690179/tavius-robinson</URL>
+      <UID>s:20~l:28~a:4690179</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>David Ojabo</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4426507/david-ojabo</URL>
+      <UID>s:20~l:28~a:4426507</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Malik Hamm</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4369994/malik-hamm</URL>
+      <UID>s:20~l:28~a:4369994</UID>
+    </Player>
+  </Position>
+  <Position name="LILB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Roquan Smith</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3915189/roquan-smith</URL>
+      <UID>s:20~l:28~a:3915189</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Jacob Hummel</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4241250/jacob-hummel</URL>
+      <UID>s:20~l:28~a:4241250</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jay Higgins</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4565350/jay-higgins</URL>
+      <UID>s:20~l:28~a:4565350</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="RILB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Trenton Simpson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4430831/trenton-simpson</URL>
+      <UID>s:20~l:28~a:4430831</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Teddye Buchanan</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4698244/teddye-buchanan</URL>
+      <UID>s:20~l:28~a:4698244</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>William Kwenkeu</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4044132/william-kwenkeu</URL>
+      <UID>s:20~l:28~a:4044132</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Chandler Martin</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4695086/chandler-martin</URL>
+      <UID>s:20~l:28~a:4695086</UID>
+    </Player>
+  </Position>
+  <Position name="SLB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Odafe Oweh</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4361422/odafe-oweh</URL>
+      <UID>s:20~l:28~a:4361422</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Mike Green</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4683188/mike-green</URL>
+      <UID>s:20~l:28~a:4683188</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Adisa Isaac</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4426372/adisa-isaac</URL>
+      <UID>s:20~l:28~a:4426372</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Diwun Black</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4875185/diwun-black</URL>
+      <UID>s:20~l:28~a:4875185</UID>
+    </Player>
+  </Position>
+  <Position name="LCB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Nate Wiggins</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4601278/nate-wiggins</URL>
+      <UID>s:20~l:28~a:4601278</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>T.J. Tampa</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4575483/tj-tampa</URL>
+      <UID>s:20~l:28~a:4575483</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Jalyn Armour-Davis</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4372017/jalyn-armour-davis</URL>
+      <UID>s:20~l:28~a:4372017</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Marquise Robinson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/5082541/marquise-robinson</URL>
+      <UID>s:20~l:28~a:5082541</UID>
+    </Player>
+  </Position>
+  <Position name="SS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Kyle Hamilton</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4575517/kyle-hamilton</URL>
+      <UID>s:20~l:28~a:4575517</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Sanoussi Kane</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4430118/sanoussi-kane</URL>
+      <UID>s:20~l:28~a:4430118</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Desmond Igbinosun</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4683464/desmond-igbinosun</URL>
+      <UID>s:20~l:28~a:4683464</UID>
+    </Player>
+    <Player>
+      <Depth>4</Depth>
+      <Name>Ar'Darius Washington</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4362492/ardarius-washington</URL>
+      <UID>s:20~l:28~a:4362492</UID>
+      <Status>O</Status>
+    </Player>
+  </Position>
+  <Position name="FS">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Malaki Starks</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4685530/malaki-starks</URL>
+      <UID>s:20~l:28~a:4685530</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Beau Brade</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4429291/beau-brade</URL>
+      <UID>s:20~l:28~a:4429291</UID>
+      <Status>Q</Status>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Keondre Jackson</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4878287/keondre-jackson</URL>
+      <UID>s:20~l:28~a:4878287</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="RCB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Chidobe Awuzie</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3052101/chidobe-awuzie</URL>
+      <UID>s:20~l:28~a:3052101</UID>
+      <Status>Q</Status>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Bilhal Kone</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/5083656/bilhal-kone</URL>
+      <UID>s:20~l:28~a:5083656</UID>
+    </Player>
+    <Player depth="3" status="Empty Slot"/>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+  <Position name="NB">
+    <Player>
+      <Depth>1</Depth>
+      <Name>Marlon Humphrey</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/3126356/marlon-humphrey</URL>
+      <UID>s:20~l:28~a:3126356</UID>
+    </Player>
+    <Player>
+      <Depth>2</Depth>
+      <Name>Robert Longerbeam</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4575860/robert-longerbeam</URL>
+      <UID>s:20~l:28~a:4575860</UID>
+    </Player>
+    <Player>
+      <Depth>3</Depth>
+      <Name>Reuben Lowery III</Name>
+      <URL>https://www.espn.com/nfl/player/_/id/4692970/reuben-lowery-iii</URL>
+      <UID>s:20~l:28~a:4692970</UID>
+    </Player>
+    <Player depth="4" status="Empty Slot"/>
+  </Position>
+</DepthChartFormation>

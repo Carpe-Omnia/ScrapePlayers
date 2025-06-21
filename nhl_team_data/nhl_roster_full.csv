@@ -1,0 +1,873 @@
+team_name,team_abbrev,player_name,position_name,age,height,weight,shot,birth_place,birthdate,depth_label,status,player_url,section_title
+Anaheim Ducks,ana,Leo Carlsson,C,20,"6' 3""",203 lbs,L,"Karlstad, SWE",12/26/04,Roster,,https://www.espn.com/nhl/player/_/id/5149153,Centers
+Anaheim Ducks,ana,Robby Fabbri,C,29,"5' 11""",185 lbs,L,"Mississauga, CAN",01/22/96,Roster,,https://www.espn.com/nhl/player/_/id/3114774,Centers
+Anaheim Ducks,ana,Jansen Harkins,C,28,"6' 1""",199 lbs,L,"Cleveland, OH",05/23/97,Roster,,https://www.espn.com/nhl/player/_/id/3900154,Centers
+Anaheim Ducks,ana,Isac Lundestrom,C,25,"6' 0""",191 lbs,L,"Gallivare, SWE",11/06/99,Roster,,https://www.espn.com/nhl/player/_/id/4352775,Centers
+Anaheim Ducks,ana,Mason McTavish,C,22,"6' 1""",219 lbs,L,"Carp, CAN",01/30/03,Roster,,https://www.espn.com/nhl/player/_/id/4874718,Centers
+Anaheim Ducks,ana,Ryan Strome,C,31,"6' 1""",192 lbs,R,"Mississauga, CAN",07/11/93,Roster,,https://www.espn.com/nhl/player/_/id/2562636,Centers
+Anaheim Ducks,ana,Tim Washe,C,23,"6' 3""",215 lbs,L,"Clarkston, MI",08/25/01,Roster,,https://www.espn.com/nhl/player/_/id/4996085,Centers
+Anaheim Ducks,ana,Trevor Zegras,C,24,"6' 0""",185 lbs,L,"Bedford, NY",03/20/01,Roster,,https://www.espn.com/nhl/player/_/id/4565230,Centers
+Anaheim Ducks,ana,Cutter Gauthier,LW,21,"6' 2""",201 lbs,L,"Scottsdale, AZ",01/19/04,Roster,,https://www.espn.com/nhl/player/_/id/5080145,Left Wings
+Anaheim Ducks,ana,Ross Johnston,LW,31,"6' 5""",232 lbs,L,"Charlottetown, CAN",02/18/94,Roster,,https://www.espn.com/nhl/player/_/id/3067822,Left Wings
+Anaheim Ducks,ana,Alex Killorn,LW,35,"6' 1""",192 lbs,L,"Halifax, CAN",09/14/89,Roster,,https://www.espn.com/nhl/player/_/id/4968,Left Wings
+Anaheim Ducks,ana,Chris Kreider,LW,34,"6' 3""",230 lbs,L,"Boxford, MA",04/30/91,Roster,,https://www.espn.com/nhl/player/_/id/5833,Left Wings
+Anaheim Ducks,ana,Brock McGinn,LW,31,"6' 0""",191 lbs,L,"Fergus, CAN",02/02/94,Roster,,https://www.espn.com/nhl/player/_/id/3067868,Left Wings
+Anaheim Ducks,ana,Brett Leason,RW,26,"6' 5""",220 lbs,R,"Calgary, CAN",04/30/99,Roster,,https://www.espn.com/nhl/player/_/id/4565278,Right Wings
+Anaheim Ducks,ana,Troy Terry,RW,27,"6' 0""",191 lbs,R,"Denver, CO",09/10/97,Roster,,https://www.espn.com/nhl/player/_/id/3942905,Right Wings
+Anaheim Ducks,ana,Frank Vatrano,RW,31,"5' 11""",206 lbs,L,"Springfield, MA",03/14/94,Roster,,https://www.espn.com/nhl/player/_/id/3527554,Right Wings
+Anaheim Ducks,ana,Radko Gudas,D,35,"6' 0""",208 lbs,R,"Prague, Czechoslovakia",06/05/90,Roster,,https://www.espn.com/nhl/player/_/id/5502,Defense
+Anaheim Ducks,ana,Drew Helleson,D,24,"6' 3""",213 lbs,R,"Farmington, MN",03/26/01,Roster,,https://www.espn.com/nhl/player/_/id/4565270,Defense
+Anaheim Ducks,ana,Oliver Kylington,D,28,"6' 0""",183 lbs,L,"Stockholm, SWE",05/19/97,Roster,,https://www.espn.com/nhl/player/_/id/3900247,Defense
+Anaheim Ducks,ana,Jackson LaCombe,D,24,"6' 2""",205 lbs,L,"Eden Prairie, MN",01/09/01,Roster,,https://www.espn.com/nhl/player/_/id/4565262,Defense
+Anaheim Ducks,ana,Pavel Mintyukov,D,21,"6' 1""",200 lbs,L,"Moscow, RUS",11/25/03,Roster,,https://www.espn.com/nhl/player/_/id/5080154,Defense
+Anaheim Ducks,ana,Ian Moore,D,23,"6' 3""",203 lbs,R,"Salt Lake City, UT",01/04/02,Roster,,https://www.espn.com/nhl/player/_/id/5188523,Defense
+Anaheim Ducks,ana,Jacob Trouba,D,31,"6' 3""",212 lbs,R,"Rochester, MI",02/26/94,Roster,,https://www.espn.com/nhl/player/_/id/2976839,Defense
+Anaheim Ducks,ana,Olen Zellweger,D,21,"5' 10""",187 lbs,L,"Fort Saskatchewan, CAN",09/10/03,Roster,,https://www.espn.com/nhl/player/_/id/4874863,Defense
+Anaheim Ducks,ana,Lukas Dostal,G,24,"6' 2""",190 lbs,L,"Brno, CZE",06/22/00,Roster,,https://www.espn.com/nhl/player/_/id/4588165,Goalies
+Anaheim Ducks,ana,John Gibson,G,31,"6' 2""",214 lbs,L,"Pittsburgh, PA",07/14/93,Roster,,https://www.espn.com/nhl/player/_/id/2590824,Goalies
+Boston Bruins,bos,Johnny Beecher,C,24,"6' 3""",220 lbs,L,"Elmira, NY",04/05/01,Roster,,https://www.espn.com/nhl/player/_/id/4565251,Centers
+Boston Bruins,bos,Morgan Geekie,C,26,"6' 3""",208 lbs,R,"Strathclair, CAN",07/20/98,Roster,,https://www.espn.com/nhl/player/_/id/4268466,Centers
+Boston Bruins,bos,Mark Kastelic,C,26,"6' 4""",227 lbs,R,"Phoenix, AZ",03/11/99,Roster,,https://www.espn.com/nhl/player/_/id/4587985,Centers
+Boston Bruins,bos,Marat Khusnutdinov,C,22,"5' 11""",176 lbs,L,"Moscow, RUS",07/17/02,Roster,,https://www.espn.com/nhl/player/_/id/4697442,Centers
+Boston Bruins,bos,Jakub Lauko,C,25,"6' 1""",193 lbs,L,"Prague, CZE",03/28/00,Roster,,https://www.espn.com/nhl/player/_/id/4391789,Centers
+Boston Bruins,bos,Elias Lindholm,C,30,"6' 1""",202 lbs,R,"Boden, SWE",12/02/94,Roster,,https://www.espn.com/nhl/player/_/id/3041994,Centers
+Boston Bruins,bos,Casey Mittelstadt,C,26,"6' 1""",195 lbs,L,"Eden Prairie, MN",11/22/98,Roster,,https://www.espn.com/nhl/player/_/id/4233575,Centers
+Boston Bruins,bos,Pavel Zacha,C,28,"6' 3""",206 lbs,L,"Brno, CZE",04/06/97,Roster,,https://www.espn.com/nhl/player/_/id/3899949,Centers
+Boston Bruins,bos,Cole Koepke,LW,27,"6' 1""",207 lbs,L,"Two Harbors, MN",05/17/98,Roster,,https://www.espn.com/nhl/player/_/id/4419679,Left Wings
+Boston Bruins,bos,Jeffrey Viel,LW,28,"6' 0""",197 lbs,L,"Rimouski, CAN",01/28/97,Roster,,https://www.espn.com/nhl/player/_/id/4588188,Left Wings
+Boston Bruins,bos,David Pastrnak,RW,29,"6' 0""",200 lbs,L,"Havirov, CZE",05/25/96,Roster,,https://www.espn.com/nhl/player/_/id/3114778,Right Wings
+Boston Bruins,bos,Henri Jokiharju,D,26,"6' 0""",200 lbs,R,"Oulu, FIN",06/17/99,Roster,,https://www.espn.com/nhl/player/_/id/4233705,Defense
+Boston Bruins,bos,Hampus Lindholm,D,31,"6' 4""",224 lbs,L,"Helsingborg, SWE",01/20/94,Roster,,https://www.espn.com/nhl/player/_/id/2968818,Defense
+Boston Bruins,bos,Mason Lohrei,D,24,"6' 5""",220 lbs,L,"Madison, WI",01/17/01,Roster,,https://www.espn.com/nhl/player/_/id/4697461,Defense
+Boston Bruins,bos,Charlie McAvoy,D,27,"6' 1""",213 lbs,R,"Long Beach, NY",12/21/97,Roster,,https://www.espn.com/nhl/player/_/id/3988803,Defense
+Boston Bruins,bos,Andrew Peeke,D,27,"6' 3""",214 lbs,R,"Parkland, FL",03/17/98,Roster,,https://www.espn.com/nhl/player/_/id/4064936,Defense
+Boston Bruins,bos,Victor Soderstrom,D,24,"6' 0""",183 lbs,R,"Gavle, SWE",02/26/01,Roster,,https://www.espn.com/nhl/player/_/id/4565232,Defense
+Boston Bruins,bos,Parker Wotherspoon,D,27,"6' 1""",192 lbs,L,"Surrey, CAN",08/24/97,Roster,,https://www.espn.com/nhl/player/_/id/3942638,Defense
+Boston Bruins,bos,Nikita Zadorov,D,30,"6' 6""",248 lbs,L,"Moscow, RUS",04/16/95,Roster,,https://www.espn.com/nhl/player/_/id/3042021,Defense
+Boston Bruins,bos,Joonas Korpisalo,G,31,"6' 3""",199 lbs,L,"Pori, FIN",04/28/94,Roster,,https://www.espn.com/nhl/player/_/id/3069266,Goalies
+Boston Bruins,bos,Jeremy Swayman,G,26,"6' 3""",195 lbs,L,"Anchorage, AK",11/24/98,Roster,,https://www.espn.com/nhl/player/_/id/4712036,Goalies
+Buffalo Sabres,buf,Peyton Krebs,C,24,"6' 0""",187 lbs,L,"Calgary, CAN",01/26/01,Roster,,https://www.espn.com/nhl/player/_/id/4565238,Centers
+Buffalo Sabres,buf,Sam Lafferty,C,30,"6' 2""",205 lbs,R,"Hollidaysburg, PA",03/06/95,Roster,,https://www.espn.com/nhl/player/_/id/3151322,Centers
+Buffalo Sabres,buf,Ryan McLeod,C,25,"6' 3""",188 lbs,L,"Mississauga, CAN",09/21/99,Roster,,https://www.espn.com/nhl/player/_/id/4378669,Centers
+Buffalo Sabres,buf,Josh Norris,C,26,"6' 2""",196 lbs,L,"Oxford, MI",05/05/99,Roster,,https://www.espn.com/nhl/player/_/id/4233627,Centers
+Buffalo Sabres,buf,Tage Thompson,C,27,"6' 6""",220 lbs,R,"Phoenix, AZ",10/30/97,Roster,,https://www.espn.com/nhl/player/_/id/4024988,Centers
+Buffalo Sabres,buf,Zach Benson,LW,20,"5' 10""",170 lbs,L,"Chilliwack, CAN",05/12/05,Roster,,https://www.espn.com/nhl/player/_/id/5149186,Left Wings
+Buffalo Sabres,buf,Jordan Greenway,LW,28,"6' 6""",231 lbs,L,"Canton, NY",02/16/97,Roster,,https://www.espn.com/nhl/player/_/id/3900260,Left Wings
+Buffalo Sabres,buf,Beck Malenstyn,LW,27,"6' 3""",200 lbs,L,"Delta, CAN",02/04/98,Roster,,https://www.espn.com/nhl/player/_/id/4063240,Left Wings
+Buffalo Sabres,buf,Jason Zucker,LW,33,"5' 11""",192 lbs,L,"Newport Beach, CA",01/16/92,Roster,,https://www.espn.com/nhl/player/_/id/2593315,Left Wings
+Buffalo Sabres,buf,JJ Peterka,RW,23,"6' 0""",189 lbs,L,"Munich, GER",01/14/02,Roster,,https://www.espn.com/nhl/player/_/id/4697438,Right Wings
+Buffalo Sabres,buf,Jack Quinn,RW,23,"6' 1""",185 lbs,R,"Ottawa, CAN",09/19/01,Roster,,https://www.espn.com/nhl/player/_/id/4697389,Right Wings
+Buffalo Sabres,buf,Alex Tuch,RW,29,"6' 4""",215 lbs,R,"Syracuse, NY",05/10/96,Roster,,https://www.espn.com/nhl/player/_/id/3114766,Right Wings
+Buffalo Sabres,buf,Jacob Bernard-Docker,D,24,"6' 1""",198 lbs,R,"Canmore, CAN",06/30/00,Roster,,https://www.espn.com/nhl/player/_/id/4352798,Defense
+Buffalo Sabres,buf,Jacob Bryson,D,27,"5' 9""",174 lbs,L,"London, CAN",11/18/97,Roster,,https://www.espn.com/nhl/player/_/id/4197014,Defense
+Buffalo Sabres,buf,Bowen Byram,D,24,"6' 1""",190 lbs,L,"Cranbrook, CAN",06/13/01,Roster,,https://www.espn.com/nhl/player/_/id/4565225,Defense
+Buffalo Sabres,buf,Connor Clifton,D,30,"5' 11""",192 lbs,R,"Matawan, NJ",04/28/95,Roster,,https://www.espn.com/nhl/player/_/id/3042191,Defense
+Buffalo Sabres,buf,Rasmus Dahlin,D,25,"6' 3""",204 lbs,L,"Lidkoping, SWE",04/13/00,Roster,,https://www.espn.com/nhl/player/_/id/4294163,Defense
+Buffalo Sabres,buf,Owen Power,D,22,"6' 6""",221 lbs,L,"Mississauga, CAN",11/22/02,Roster,,https://www.espn.com/nhl/player/_/id/4781556,Defense
+Buffalo Sabres,buf,Mattias Samuelsson,D,25,"6' 4""",224 lbs,L,"Philadelphia, PA",03/14/00,Roster,,https://www.espn.com/nhl/player/_/id/4378656,Defense
+Buffalo Sabres,buf,Ukko-Pekka Luukkonen,G,26,"6' 5""",217 lbs,L,"Espoo, FIN",03/09/99,Roster,,https://www.espn.com/nhl/player/_/id/4233889,Goalies
+Buffalo Sabres,buf,James Reimer,G,37,"6' 2""",200 lbs,L,"Morweena, CAN",03/15/88,Roster,,https://www.espn.com/nhl/player/_/id/3870,Goalies
+Calgary Flames,cgy,Mikael Backlund,C,36,"6' 0""",206 lbs,L,"Vasteras, SWE",03/17/89,Roster,,https://www.espn.com/nhl/player/_/id/3797,Centers
+Calgary Flames,cgy,Morgan Frost,C,26,"6' 0""",193 lbs,L,"Aurora, CAN",05/14/99,Roster,,https://www.espn.com/nhl/player/_/id/4233685,Centers
+Calgary Flames,cgy,Nazem Kadri,C,34,"6' 0""",185 lbs,L,"London, CAN",10/06/90,Roster,,https://www.espn.com/nhl/player/_/id/5349,Centers
+Calgary Flames,cgy,Martin Pospisil,C,25,"6' 2""",173 lbs,L,"Zvolen, SVK",11/19/99,Roster,,https://www.espn.com/nhl/player/_/id/4392883,Centers
+Calgary Flames,cgy,Kevin Rooney,C,32,"6' 2""",190 lbs,L,"Canton, MA",05/21/93,Roster,,https://www.espn.com/nhl/player/_/id/3096235,Centers
+Calgary Flames,cgy,Yegor Sharangovich,C,27,"6' 2""",196 lbs,L,"Minsk, BLR",06/06/98,Roster,,https://www.espn.com/nhl/player/_/id/4587843,Centers
+Calgary Flames,cgy,Connor Zary,C,23,"6' 0""",178 lbs,L,"Saskatoon, CAN",09/25/01,Roster,,https://www.espn.com/nhl/player/_/id/4697407,Centers
+Calgary Flames,cgy,Blake Coleman,LW,33,"5' 11""",199 lbs,L,"Plano, TX",11/28/91,Roster,,https://www.espn.com/nhl/player/_/id/2563026,Left Wings
+Calgary Flames,cgy,Joel Farabee,LW,25,"6' 0""",186 lbs,L,"Syracuse, NY",02/25/00,Roster,,https://www.espn.com/nhl/player/_/id/4352750,Left Wings
+Calgary Flames,cgy,Jonathan Huberdeau,LW,32,"6' 1""",200 lbs,L,"Saint-Jerome, CAN",06/04/93,Roster,,https://www.espn.com/nhl/player/_/id/2562606,Left Wings
+Calgary Flames,cgy,Ryan Lomberg,LW,30,"5' 9""",184 lbs,L,"Richmond Hill, CAN",12/09/94,Roster,,https://www.espn.com/nhl/player/_/id/3942548,Left Wings
+Calgary Flames,cgy,Aydar Suniev,LW,20,"6' 2""",192 lbs,L,"Kazan, RUS",11/16/04,Roster,,https://www.espn.com/nhl/player/_/id/5188613,Left Wings
+Calgary Flames,cgy,Matt Coronato,RW,22,"5' 10""",183 lbs,R,"New York, NY",11/14/02,Roster,,https://www.espn.com/nhl/player/_/id/4874730,Right Wings
+Calgary Flames,cgy,Anthony Mantha,RW,30,"6' 5""",234 lbs,L,"Longueuil, CAN",09/16/94,Roster,,https://www.espn.com/nhl/player/_/id/3042037,Right Wings
+Calgary Flames,cgy,Rasmus Andersson,D,28,"6' 1""",202 lbs,R,"Malmo, SWE",10/27/96,Roster,,https://www.espn.com/nhl/player/_/id/3904186,Defense
+Calgary Flames,cgy,Kevin Bahl,D,24,"6' 6""",230 lbs,L,"New Westminster, CAN",06/27/00,Roster,,https://www.espn.com/nhl/player/_/id/4378686,Defense
+Calgary Flames,cgy,Jake Bean,D,27,"6' 1""",191 lbs,L,"Calgary, CAN",06/09/98,Roster,,https://www.espn.com/nhl/player/_/id/4024916,Defense
+Calgary Flames,cgy,Joel Hanley,D,34,"5' 11""",186 lbs,R,"Keswick, CAN",06/08/91,Roster,,https://www.espn.com/nhl/player/_/id/3149612,Defense
+Calgary Flames,cgy,Daniil Miromanov,D,27,"6' 4""",207 lbs,R,"Moscow, RUS",07/11/97,Roster,,https://www.espn.com/nhl/player/_/id/4894820,Defense
+Calgary Flames,cgy,Brayden Pachal,D,25,"6' 2""",202 lbs,R,"Estevan, CAN",08/23/99,Roster,,https://www.espn.com/nhl/player/_/id/4392769,Defense
+Calgary Flames,cgy,Zayne Parekh,D,19,"6' 0""",178 lbs,R,"Nobleton, CAN",02/15/06,Roster,,https://www.espn.com/nhl/player/_/id/5216878,Defense
+Calgary Flames,cgy,MacKenzie Weegar,D,31,"6' 0""",206 lbs,R,"Ottawa, CAN",01/07/94,Roster,,https://www.espn.com/nhl/player/_/id/3042269,Defense
+Calgary Flames,cgy,Dan Vladar,G,27,"6' 5""",209 lbs,L,"Prague, CZE",08/20/97,Roster,,https://www.espn.com/nhl/player/_/id/3942459,Goalies
+Calgary Flames,cgy,Dustin Wolf,G,24,"6' 0""",166 lbs,L,"Gilroy, CA",04/16/01,Roster,,https://www.espn.com/nhl/player/_/id/4587952,Goalies
+Carolina Hurricanes,car,Sebastian Aho,C,27,"6' 0""",180 lbs,L,"Rauma, FIN",07/26/97,Roster,,https://www.espn.com/nhl/player/_/id/3904173,Centers
+Carolina Hurricanes,car,Mark Jankowski,C,30,"6' 4""",212 lbs,L,"Hamilton, CAN",09/13/94,Roster,,https://www.espn.com/nhl/player/_/id/2976849,Centers
+Carolina Hurricanes,car,Seth Jarvis,C,23,"5' 10""",184 lbs,R,"Winnipeg, CAN",02/01/02,Roster,,https://www.espn.com/nhl/player/_/id/4697396,Centers
+Carolina Hurricanes,car,Tyson Jost,C,27,"5' 11""",187 lbs,L,"St. Albert, CAN",03/14/98,Roster,,https://www.espn.com/nhl/player/_/id/4024879,Centers
+Carolina Hurricanes,car,Jesperi Kotkaniemi,C,24,"6' 3""",203 lbs,L,"Forssa, FIN",07/06/00,Roster,,https://www.espn.com/nhl/player/_/id/4352692,Centers
+Carolina Hurricanes,car,Jack Roslovic,C,28,"6' 1""",198 lbs,R,"Columbus, OH",01/29/97,Roster,,https://www.espn.com/nhl/player/_/id/3904098,Centers
+Carolina Hurricanes,car,Jordan Staal,C,36,"6' 4""",220 lbs,L,"Thunder Bay, CAN",09/10/88,Roster,,https://www.espn.com/nhl/player/_/id/3541,Centers
+Carolina Hurricanes,car,Logan Stankoven,C,22,"5' 8""",165 lbs,R,"Kamloops, CAN",02/26/03,Roster,,https://www.espn.com/nhl/player/_/id/4874899,Centers
+Carolina Hurricanes,car,William Carrier,LW,30,"6' 2""",220 lbs,L,"La Salle, CAN",12/20/94,Roster,,https://www.espn.com/nhl/player/_/id/3042054,Left Wings
+Carolina Hurricanes,car,Taylor Hall,LW,33,"6' 1""",210 lbs,L,"Calgary, CAN",11/14/91,Roster,,https://www.espn.com/nhl/player/_/id/5428,Left Wings
+Carolina Hurricanes,car,Juha Jaaska,LW,27,"6' 0""",196 lbs,L,"Helsinki, FIN",02/09/98,Roster,,https://www.espn.com/nhl/player/_/id/5209443,Left Wings
+Carolina Hurricanes,car,Jordan Martinook,LW,32,"6' 1""",208 lbs,L,"Brandon, CAN",07/25/92,Roster,,https://www.espn.com/nhl/player/_/id/2989376,Left Wings
+Carolina Hurricanes,car,Eric Robinson,LW,30,"6' 2""",211 lbs,L,"Bellmawr, NJ",06/14/95,Roster,,https://www.espn.com/nhl/player/_/id/4319879,Left Wings
+Carolina Hurricanes,car,Jackson Blake,RW,21,"5' 11""",178 lbs,R,"Eden Prairie, MN",08/03/03,Roster,,https://www.espn.com/nhl/player/_/id/5103645,Right Wings
+Carolina Hurricanes,car,Jesper Fast,RW,33,"6' 1""",191 lbs,R,"Nassjo, SWE",12/02/91,Roster,,https://www.espn.com/nhl/player/_/id/2590847,Right Wings
+Carolina Hurricanes,car,Andrei Svechnikov,RW,25,"6' 3""",199 lbs,L,"Barnaul, RUS",03/26/00,Roster,,https://www.espn.com/nhl/player/_/id/4352683,Right Wings
+Carolina Hurricanes,car,Brent Burns,D,40,"6' 5""",228 lbs,R,"Barrie, CAN",03/09/85,Roster,,https://www.espn.com/nhl/player/_/id/2300,Defense
+Carolina Hurricanes,car,Jalen Chatfield,D,29,"6' 1""",199 lbs,R,"Ypsilanti, MI",05/15/96,Roster,,https://www.espn.com/nhl/player/_/id/4063449,Defense
+Carolina Hurricanes,car,Shayne Gostisbehere,D,32,"5' 11""",183 lbs,L,"Pembroke Pines, FL",04/20/93,Roster,,https://www.espn.com/nhl/player/_/id/3025662,Defense
+Carolina Hurricanes,car,Scott Morrow,D,22,"6' 2""",210 lbs,R,"Darien, CT",11/01/02,Roster,,https://www.espn.com/nhl/player/_/id/4874882,Defense
+Carolina Hurricanes,car,Alexander Nikishin,D,23,"6' 4""",216 lbs,L,"Oryol, RUS",10/02/01,Roster,,https://www.espn.com/nhl/player/_/id/5188393,Defense
+Carolina Hurricanes,car,Dmitry Orlov,D,33,"5' 11""",214 lbs,L,"Novokuznetsk, USSR",07/23/91,Roster,,https://www.espn.com/nhl/player/_/id/5646,Defense
+Carolina Hurricanes,car,Jaccob Slavin,D,31,"6' 3""",207 lbs,L,"Denver, CO",05/01/94,Roster,,https://www.espn.com/nhl/player/_/id/3069836,Defense
+Carolina Hurricanes,car,Ty Smith,D,25,"5' 11""",175 lbs,L,"Lloydminster, CAN",03/24/00,Roster,,https://www.espn.com/nhl/player/_/id/4352757,Defense
+Carolina Hurricanes,car,Riley Stillman,D,27,"6' 1""",196 lbs,L,"Peterborough, CAN",03/09/98,Roster,,https://www.espn.com/nhl/player/_/id/4063378,Defense
+Carolina Hurricanes,car,Sean Walker,D,30,"5' 11""",191 lbs,R,"Keswick, CAN",11/13/94,Roster,,https://www.espn.com/nhl/player/_/id/4272905,Defense
+Carolina Hurricanes,car,Frederik Andersen,G,35,"6' 4""",229 lbs,L,"Herning, DEN",10/02/89,Roster,,https://www.espn.com/nhl/player/_/id/2517899,Goalies
+Carolina Hurricanes,car,Pyotr Kochetkov,G,25,"6' 3""",193 lbs,L,"Penza, RUS",06/25/99,Roster,,https://www.espn.com/nhl/player/_/id/4565259,Goalies
+Carolina Hurricanes,car,Spencer Martin,G,30,"6' 3""",191 lbs,L,"Oakville, CAN",06/08/95,Roster,,https://www.espn.com/nhl/player/_/id/3042069,Goalies
+Carolina Hurricanes,car,Nikita Quapp,G,22,"6' 3""",187 lbs,L,--,01/25/03,Roster,,https://www.espn.com/nhl/player/_/id/4894470,Goalies
+Chicago Blackhawks,chi,Connor Bedard,C,19,"5' 10""",185 lbs,R,"North Vancouver, CAN",07/17/05,Roster,,https://www.espn.com/nhl/player/_/id/5149125,Centers
+Chicago Blackhawks,chi,Jason Dickinson,C,29,"6' 2""",200 lbs,L,"Georgetown, CAN",07/04/95,Roster,,https://www.espn.com/nhl/player/_/id/3042062,Centers
+Chicago Blackhawks,chi,Ryan Donato,C,29,"6' 0""",190 lbs,L,"Boston, MA",04/09/96,Roster,,https://www.espn.com/nhl/player/_/id/3115033,Centers
+Chicago Blackhawks,chi,Ryan Greene,C,21,"6' 1""",195 lbs,R,"Paradise Hill, CAN",10/21/03,Roster,,https://www.espn.com/nhl/player/_/id/5080227,Centers
+Chicago Blackhawks,chi,Philipp Kurashev,C,25,"6' 0""",190 lbs,L,"Davos, SUI",10/12/99,Roster,,https://www.espn.com/nhl/player/_/id/4392541,Centers
+Chicago Blackhawks,chi,Oliver Moore,C,20,"6' 0""",185 lbs,L,"Mounds View, MN",01/22/05,Roster,,https://www.espn.com/nhl/player/_/id/5149194,Centers
+Chicago Blackhawks,chi,Frank Nazar,C,21,"5' 10""",190 lbs,R,"Mount Clemens, MI",01/14/04,Roster,,https://www.espn.com/nhl/player/_/id/5080157,Centers
+Chicago Blackhawks,chi,Teuvo Teravainen,C,30,"5' 11""",191 lbs,L,"Helsinki, FIN",09/11/94,Roster,,https://www.espn.com/nhl/player/_/id/2592095,Centers
+Chicago Blackhawks,chi,Joe Veleno,C,25,"6' 1""",201 lbs,L,"Montreal, CAN",01/13/00,Roster,,https://www.espn.com/nhl/player/_/id/4352804,Centers
+Chicago Blackhawks,chi,Tyler Bertuzzi,LW,30,"6' 2""",200 lbs,L,"Sudbury, CAN",02/24/95,Roster,,https://www.espn.com/nhl/player/_/id/3042056,Left Wings
+Chicago Blackhawks,chi,Nick Foligno,LW,37,"6' 0""",210 lbs,L,"Buffalo, NY",10/31/87,Roster,,https://www.espn.com/nhl/player/_/id/3535,Left Wings
+Chicago Blackhawks,chi,Pat Maroon,LW,37,"6' 3""",234 lbs,L,"St. Louis, MO",04/23/88,Roster,,https://www.espn.com/nhl/player/_/id/3853,Left Wings
+Chicago Blackhawks,chi,Lukas Reichel,LW,23,"6' 0""",170 lbs,L,"Nuremberg, GER",05/17/02,Roster,,https://www.espn.com/nhl/player/_/id/4697400,Left Wings
+Chicago Blackhawks,chi,Landon Slaggert,LW,22,"6' 0""",180 lbs,L,"South Bend, IN",06/25/02,Roster,,https://www.espn.com/nhl/player/_/id/4697787,Left Wings
+Chicago Blackhawks,chi,Ilya Mikheyev,RW,30,"6' 2""",192 lbs,L,"Omsk, RUS",10/10/94,Roster,,https://www.espn.com/nhl/player/_/id/4422415,Right Wings
+Chicago Blackhawks,chi,TJ Brodie,D,35,"6' 2""",187 lbs,L,"Chatham, CAN",06/07/90,Roster,,https://www.espn.com/nhl/player/_/id/5162,Defense
+Chicago Blackhawks,chi,Louis Crevier,D,24,"6' 8""",228 lbs,R,"Quebec City, CAN",05/04/01,Roster,,https://www.espn.com/nhl/player/_/id/4697681,Defense
+Chicago Blackhawks,chi,Wyatt Kaiser,D,22,"6' 0""",173 lbs,L,"Andover, MN",07/31/02,Roster,,https://www.espn.com/nhl/player/_/id/4697717,Defense
+Chicago Blackhawks,chi,Alec Martinez,D,37,"6' 1""",210 lbs,L,"Rochester Hills, MI",07/26/87,Roster,,https://www.espn.com/nhl/player/_/id/3927,Defense
+Chicago Blackhawks,chi,Ryan Mast,D,22,"6' 5""",213 lbs,R,"Bloomfield Hills, MI",01/14/03,Roster,,https://www.espn.com/nhl/player/_/id/5103278,Defense
+Chicago Blackhawks,chi,Connor Murphy,D,32,"6' 4""",212 lbs,R,"Dublin, OH",03/26/93,Roster,,https://www.espn.com/nhl/player/_/id/2562618,Defense
+Chicago Blackhawks,chi,Sam Rinzel,D,20,"6' 5""",190 lbs,R,"Chanhassen, MN",06/25/04,Roster,,https://www.espn.com/nhl/player/_/id/5080173,Defense
+Chicago Blackhawks,chi,Alex Vlasic,D,24,"6' 6""",217 lbs,L,"Wilmette, IL",06/05/01,Roster,,https://www.espn.com/nhl/player/_/id/4565266,Defense
+Chicago Blackhawks,chi,Shea Weber,D,39,"6' 4""",229 lbs,R,"Sicamous, CAN",08/14/85,Roster,,https://www.espn.com/nhl/player/_/id/2278,Defense
+Chicago Blackhawks,chi,Laurent Brossoit,G,32,"6' 3""",203 lbs,L,"Port Alberni, CAN",03/23/93,Roster,,https://www.espn.com/nhl/player/_/id/3026526,Goalies
+Chicago Blackhawks,chi,Spencer Knight,G,24,"6' 3""",191 lbs,L,"Darien, CT",04/19/01,Roster,,https://www.espn.com/nhl/player/_/id/4565234,Goalies
+Chicago Blackhawks,chi,Arvid Soderblom,G,25,"6' 3""",180 lbs,L,"Goteborg, SWE",08/19/99,Roster,,https://www.espn.com/nhl/player/_/id/4894729,Goalies
+Colorado Avalanche,col,Ross Colton,C,28,"6' 0""",194 lbs,L,"Robbinsville, NJ",09/11/96,Roster,,https://www.espn.com/nhl/player/_/id/4392471,Centers
+Colorado Avalanche,col,Charlie Coyle,C,33,"6' 3""",215 lbs,R,"Weymouth, MA",03/02/92,Roster,,https://www.espn.com/nhl/player/_/id/2555315,Centers
+Colorado Avalanche,col,Jack Drury,C,25,"5' 11""",186 lbs,R,"New York, NY",02/03/00,Roster,,https://www.espn.com/nhl/player/_/id/4378671,Centers
+Colorado Avalanche,col,Parker Kelly,C,26,"6' 1""",185 lbs,L,"Camrose, CAN",05/14/99,Roster,,https://www.espn.com/nhl/player/_/id/4392309,Centers
+Colorado Avalanche,col,Nathan MacKinnon,C,29,"6' 0""",200 lbs,R,"Halifax, CAN",09/01/95,Roster,,https://www.espn.com/nhl/player/_/id/3041969,Centers
+Colorado Avalanche,col,Martin Necas,C,26,"6' 3""",195 lbs,R,"Nove Mesto na Morave, CZE",01/15/99,Roster,,https://www.espn.com/nhl/player/_/id/4233586,Centers
+Colorado Avalanche,col,Brock Nelson,C,33,"6' 4""",205 lbs,L,"Warroad, MN",10/15/91,Roster,,https://www.espn.com/nhl/player/_/id/5798,Centers
+Colorado Avalanche,col,Matt Stienburg,C,24,"6' 1""",182 lbs,R,"Halifax, CAN",10/07/00,Roster,,https://www.espn.com/nhl/player/_/id/5136731,Centers
+Colorado Avalanche,col,Jonathan Drouin,LW,30,"5' 11""",198 lbs,L,"Saint-Agathe-des-Monts, CAN",03/28/95,Roster,,https://www.espn.com/nhl/player/_/id/3041971,Left Wings
+Colorado Avalanche,col,Joel Kiviranta,LW,29,"5' 11""",185 lbs,L,"Vantaa, FIN",03/23/96,Roster,,https://www.espn.com/nhl/player/_/id/4587910,Left Wings
+Colorado Avalanche,col,Gabriel Landeskog,LW,32,"6' 1""",215 lbs,L,"Stockholm, SWE",11/23/92,Roster,,https://www.espn.com/nhl/player/_/id/2562609,Left Wings
+Colorado Avalanche,col,Artturi Lehkonen,LW,29,"5' 11""",179 lbs,L,"Piikkio, FIN",07/04/95,Roster,,https://www.espn.com/nhl/player/_/id/3042050,Left Wings
+Colorado Avalanche,col,Jimmy Vesey,LW,32,"6' 2""",203 lbs,L,"Boston, MA",05/26/93,Roster,,https://www.espn.com/nhl/player/_/id/3069397,Left Wings
+Colorado Avalanche,col,Miles Wood,LW,29,"6' 2""",195 lbs,L,"Buffalo, NY",09/13/95,Roster,,https://www.espn.com/nhl/player/_/id/3042110,Left Wings
+Colorado Avalanche,col,Valeri Nichushkin,RW,30,"6' 4""",210 lbs,L,"Chelyabinsk, RUS",03/04/95,Roster,,https://www.espn.com/nhl/player/_/id/3042003,Right Wings
+Colorado Avalanche,col,Logan O'Connor,RW,28,"6' 0""",175 lbs,R,"Missouri City, TX",08/14/96,Roster,,https://www.espn.com/nhl/player/_/id/3988782,Right Wings
+Colorado Avalanche,col,Jason Polin,RW,26,"6' 1""",198 lbs,R,"Holt, MI",06/17/99,Roster,,https://www.espn.com/nhl/player/_/id/4996083,Right Wings
+Colorado Avalanche,col,Samuel Girard,D,27,"5' 10""",170 lbs,L,"Roberval, CAN",05/12/98,Roster,,https://www.espn.com/nhl/player/_/id/4063401,Defense
+Colorado Avalanche,col,Erik Johnson,D,37,"6' 4""",225 lbs,R,"Bloomington, MN",03/21/88,Roster,,https://www.espn.com/nhl/player/_/id/3649,Defense
+Colorado Avalanche,col,Ryan Lindgren,D,27,"6' 0""",194 lbs,L,"Burnsville, MN",02/11/98,Roster,,https://www.espn.com/nhl/player/_/id/4271998,Defense
+Colorado Avalanche,col,Cale Makar,D,26,"6' 0""",187 lbs,R,"Calgary, CAN",10/30/98,Roster,,https://www.espn.com/nhl/player/_/id/4233563,Defense
+Colorado Avalanche,col,Sam Malinski,D,26,"5' 11""",190 lbs,R,"Lakeville, MN",07/27/98,Roster,,https://www.espn.com/nhl/player/_/id/5136735,Defense
+Colorado Avalanche,col,Josh Manson,D,33,"6' 3""",218 lbs,R,"Hinsdale, IL",10/07/91,Roster,,https://www.espn.com/nhl/player/_/id/2590829,Defense
+Colorado Avalanche,col,Keaton Middleton,D,27,"6' 6""",240 lbs,L,"Edmonton, CAN",02/10/98,Roster,,https://www.espn.com/nhl/player/_/id/4271557,Defense
+Colorado Avalanche,col,Devon Toews,D,31,"6' 1""",191 lbs,L,"Abbotsford, CAN",02/21/94,Roster,,https://www.espn.com/nhl/player/_/id/3096249,Defense
+Colorado Avalanche,col,Mackenzie Blackwood,G,28,"6' 4""",225 lbs,L,"Thunder Bay, CAN",12/09/96,Roster,,https://www.espn.com/nhl/player/_/id/3904177,Goalies
+Colorado Avalanche,col,Scott Wedgewood,G,32,"6' 2""",201 lbs,L,"Etobicoke, CAN",08/14/92,Roster,,https://www.espn.com/nhl/player/_/id/5622,Goalies
+Columbus Blue Jackets,cbj,Zachary Aston-Reese,C,30,"6' 1""",200 lbs,L,"Staten Island, NY",08/10/94,Roster,,https://www.espn.com/nhl/player/_/id/3988830,Centers
+Columbus Blue Jackets,cbj,Adam Fantilli,C,20,"6' 2""",199 lbs,L,"Nobleton, CAN",10/12/04,Roster,,https://www.espn.com/nhl/player/_/id/5136617,Centers
+Columbus Blue Jackets,cbj,Boone Jenner,C,32,"6' 2""",203 lbs,L,"Dorchester, CAN",06/15/93,Roster,,https://www.espn.com/nhl/player/_/id/2563054,Centers
+Columbus Blue Jackets,cbj,Kent Johnson,C,22,"6' 0""",180 lbs,L,"Port Moody, CAN",10/18/02,Roster,,https://www.espn.com/nhl/player/_/id/4781553,Centers
+Columbus Blue Jackets,cbj,Luke Kunin,C,27,"6' 0""",197 lbs,R,"Chesterfield, MO",12/04/97,Roster,,https://www.espn.com/nhl/player/_/id/4024933,Centers
+Columbus Blue Jackets,cbj,Sean Kuraly,C,32,"6' 2""",215 lbs,L,"Dublin, OH",01/20/93,Roster,,https://www.espn.com/nhl/player/_/id/2564154,Centers
+Columbus Blue Jackets,cbj,Sean Monahan,C,30,"6' 2""",197 lbs,L,"Brampton, CAN",10/12/94,Roster,,https://www.espn.com/nhl/player/_/id/3041996,Centers
+Columbus Blue Jackets,cbj,Cole Sillinger,C,22,"6' 1""",202 lbs,L,"Columbus, OH",05/16/03,Roster,,https://www.espn.com/nhl/player/_/id/4874725,Centers
+Columbus Blue Jackets,cbj,Jack Williams,C,23,"5' 11""",185 lbs,R,"Biddeford, ME",03/02/02,Roster,,https://www.espn.com/nhl/player/_/id/5275582,Centers
+Columbus Blue Jackets,cbj,James van Riemsdyk,LW,36,"6' 3""",209 lbs,L,"Middletown, NJ",05/04/89,Roster,,https://www.espn.com/nhl/player/_/id/3822,Left Wings
+Columbus Blue Jackets,cbj,Dmitri Voronkov,LW,24,"6' 5""",227 lbs,L,"Angarsk, RUS",09/10/00,Roster,,https://www.espn.com/nhl/player/_/id/4915856,Left Wings
+Columbus Blue Jackets,cbj,Yegor Chinakhov,RW,24,"6' 1""",201 lbs,L,"Omsk, RUS",02/01/01,Roster,,https://www.espn.com/nhl/player/_/id/4697404,Right Wings
+Columbus Blue Jackets,cbj,Justin Danforth,RW,32,"5' 8""",188 lbs,R,"Oshawa, CAN",03/15/93,Roster,,https://www.espn.com/nhl/player/_/id/4894355,Right Wings
+Columbus Blue Jackets,cbj,Christian Fischer,RW,28,"6' 2""",212 lbs,R,"Chicago, IL",04/15/97,Roster,,https://www.espn.com/nhl/player/_/id/3904170,Right Wings
+Columbus Blue Jackets,cbj,Kevin Labanc,RW,29,"5' 11""",185 lbs,R,"Brooklyn, NY",12/12/95,Roster,,https://www.espn.com/nhl/player/_/id/3151792,Right Wings
+Columbus Blue Jackets,cbj,Kirill Marchenko,RW,24,"6' 3""",197 lbs,R,"Barnaul, RUS",08/21/00,Roster,,https://www.espn.com/nhl/player/_/id/4587996,Right Wings
+Columbus Blue Jackets,cbj,Mathieu Olivier,RW,28,"6' 1""",226 lbs,R,"Biloxi, MS",02/11/97,Roster,,https://www.espn.com/nhl/player/_/id/4064781,Right Wings
+Columbus Blue Jackets,cbj,Jake Christiansen,D,25,"6' 0""",197 lbs,L,"West Vancouver, CAN",09/12/99,Roster,,https://www.espn.com/nhl/player/_/id/4392782,Defense
+Columbus Blue Jackets,cbj,Dante Fabbro,D,27,"6' 0""",189 lbs,R,"Coquitlam, CAN",06/20/98,Roster,,https://www.espn.com/nhl/player/_/id/4024959,Defense
+Columbus Blue Jackets,cbj,Erik Gudbranson,D,33,"6' 5""",222 lbs,R,"Ottawa, CAN",01/07/92,Roster,,https://www.espn.com/nhl/player/_/id/5503,Defense
+Columbus Blue Jackets,cbj,Jordan Harris,D,24,"5' 11""",187 lbs,L,"Haverhill, MA",07/07/00,Roster,,https://www.espn.com/nhl/player/_/id/4419724,Defense
+Columbus Blue Jackets,cbj,Jack Johnson,D,38,"6' 2""",225 lbs,L,"Indianapolis, IN",01/13/87,Roster,,https://www.espn.com/nhl/player/_/id/3583,Defense
+Columbus Blue Jackets,cbj,Ivan Provorov,D,28,"6' 1""",213 lbs,L,"Yaroslavl, RUS",01/13/97,Roster,,https://www.espn.com/nhl/player/_/id/3899939,Defense
+Columbus Blue Jackets,cbj,Damon Severson,D,30,"6' 2""",204 lbs,R,"Melville, CAN",08/07/94,Roster,,https://www.espn.com/nhl/player/_/id/3068087,Defense
+Columbus Blue Jackets,cbj,Zach Werenski,D,27,"6' 2""",211 lbs,L,"Grosse Pointe, MI",07/19/97,Roster,,https://www.espn.com/nhl/player/_/id/3899972,Defense
+Columbus Blue Jackets,cbj,Elvis Merzlikins,G,31,"6' 3""",190 lbs,L,"Riga, LAT",04/13/94,Roster,,https://www.espn.com/nhl/player/_/id/3151038,Goalies
+Columbus Blue Jackets,cbj,Daniil Tarasov,G,26,"6' 5""",203 lbs,L,"Novosibirsk, RUS",03/27/99,Roster,,https://www.espn.com/nhl/player/_/id/4587994,Goalies
+Dallas Stars,dal,Oskar Back,C,25,"6' 4""",202 lbs,L,"Karlstad, SWE",03/12/00,Roster,,https://www.espn.com/nhl/player/_/id/4894398,Centers
+Dallas Stars,dal,Colin Blackwell,C,32,"5' 8""",190 lbs,R,"Lawrence, MA",03/28/93,Roster,,https://www.espn.com/nhl/player/_/id/2590857,Centers
+Dallas Stars,dal,Mavrik Bourque,C,23,"5' 11""",181 lbs,R,"Plessisville, CAN",01/08/02,Roster,,https://www.espn.com/nhl/player/_/id/4697413,Centers
+Dallas Stars,dal,Matt Duchene,C,34,"5' 11""",212 lbs,L,"Halliburton, CAN",01/16/91,Roster,,https://www.espn.com/nhl/player/_/id/5161,Centers
+Dallas Stars,dal,Mikael Granlund,C,33,"5' 10""",185 lbs,L,"Oulu, FIN",02/26/92,Roster,,https://www.espn.com/nhl/player/_/id/5831,Centers
+Dallas Stars,dal,Roope Hintz,C,28,"6' 3""",213 lbs,L,"Tampere, FIN",11/17/96,Roster,,https://www.espn.com/nhl/player/_/id/3904183,Centers
+Dallas Stars,dal,Cameron Hughes,C,28,"5' 11""",160 lbs,L,"Edmonton, CAN",10/09/96,Roster,,https://www.espn.com/nhl/player/_/id/3942461,Centers
+Dallas Stars,dal,Wyatt Johnston,C,22,"6' 1""",185 lbs,R,"Leaside, CAN",05/14/03,Roster,,https://www.espn.com/nhl/player/_/id/4874740,Centers
+Dallas Stars,dal,Tyler Seguin,C,33,"6' 2""",201 lbs,R,"Brampton, CAN",01/31/92,Roster,,https://www.espn.com/nhl/player/_/id/5430,Centers
+Dallas Stars,dal,Sam Steel,C,27,"6' 0""",189 lbs,L,"Edmonton, CAN",02/03/98,Roster,,https://www.espn.com/nhl/player/_/id/4024998,Centers
+Dallas Stars,dal,Jamie Benn,LW,35,"6' 3""",206 lbs,L,"Victoria, CAN",07/18/89,Roster,,https://www.espn.com/nhl/player/_/id/3998,Left Wings
+Dallas Stars,dal,Jason Robertson,LW,25,"6' 3""",207 lbs,L,"Northville, MI",07/22/99,Roster,,https://www.espn.com/nhl/player/_/id/4233875,Left Wings
+Dallas Stars,dal,Evgenii Dadonov,RW,36,"5' 11""",188 lbs,L,"Chelyabinsk, RUS",03/12/89,Roster,,https://www.espn.com/nhl/player/_/id/4969,Right Wings
+Dallas Stars,dal,Mikko Rantanen,RW,28,"6' 4""",215 lbs,L,"Nousiainen, FIN",10/29/96,Roster,,https://www.espn.com/nhl/player/_/id/3899938,Right Wings
+Dallas Stars,dal,Lian Bichsel,D,21,"6' 7""",231 lbs,L,"Olten, SUI",05/18/04,Roster,,https://www.espn.com/nhl/player/_/id/5080162,Defense
+Dallas Stars,dal,Cody Ceci,D,31,"6' 3""",210 lbs,R,"Ottawa, CAN",12/21/93,Roster,,https://www.espn.com/nhl/player/_/id/2976843,Defense
+Dallas Stars,dal,Matt Dumba,D,30,"6' 1""",185 lbs,R,"Calgary, CAN",07/25/94,Roster,,https://www.espn.com/nhl/player/_/id/2970689,Defense
+Dallas Stars,dal,Thomas Harley,D,23,"6' 3""",211 lbs,L,"Syracuse, NY",08/19/01,Roster,,https://www.espn.com/nhl/player/_/id/4565239,Defense
+Dallas Stars,dal,Miro Heiskanen,D,25,"6' 2""",197 lbs,L,"Espoo, FIN",07/18/99,Roster,,https://www.espn.com/nhl/player/_/id/4233536,Defense
+Dallas Stars,dal,Esa Lindell,D,31,"6' 3""",217 lbs,L,"Vantaa, FIN",05/23/94,Roster,,https://www.espn.com/nhl/player/_/id/3069352,Defense
+Dallas Stars,dal,Nils Lundkvist,D,24,"6' 1""",191 lbs,R,"Pieta, SWE",07/27/00,Roster,,https://www.espn.com/nhl/player/_/id/4352800,Defense
+Dallas Stars,dal,Ilya Lyubushkin,D,31,"6' 2""",200 lbs,R,"Moscow, RUS",04/06/94,Roster,,https://www.espn.com/nhl/player/_/id/4342107,Defense
+Dallas Stars,dal,Alexander Petrovic,D,33,"6' 5""",211 lbs,R,"Edmonton, CAN",03/03/92,Roster,,https://www.espn.com/nhl/player/_/id/5620,Defense
+Dallas Stars,dal,Brendan Smith,D,36,"6' 2""",200 lbs,L,"Mimico, CAN",02/08/89,Roster,,https://www.espn.com/nhl/player/_/id/4973,Defense
+Dallas Stars,dal,Casey DeSmith,G,33,"6' 0""",180 lbs,L,"Rochester, NH",08/13/91,Roster,,https://www.espn.com/nhl/player/_/id/3025540,Goalies
+Dallas Stars,dal,Jake Oettinger,G,26,"6' 6""",224 lbs,L,"Lakeville, MN",12/18/98,Roster,,https://www.espn.com/nhl/player/_/id/4196914,Goalies
+Dallas Stars,dal,Remi Poirier,G,23,"6' 2""",200 lbs,L,"Farnham, CAN",10/06/01,Roster,,https://www.espn.com/nhl/player/_/id/4697829,Goalies
+Detroit Red Wings,det,Andrew Copp,C,30,"6' 1""",203 lbs,L,"Ann Arbor, MI",07/08/94,Roster,,https://www.espn.com/nhl/player/_/id/3042114,Centers
+Detroit Red Wings,det,Marco Kasper,C,21,"6' 1""",183 lbs,L,"Innsbruck, AUT",04/08/04,Roster,,https://www.espn.com/nhl/player/_/id/5080152,Centers
+Detroit Red Wings,det,Dylan Larkin,C,28,"6' 1""",199 lbs,L,"Waterford, MI",07/30/96,Roster,,https://www.espn.com/nhl/player/_/id/3114755,Centers
+Detroit Red Wings,det,Tyler Motte,C,30,"5' 10""",194 lbs,L,"Saint Clair, MI",03/10/95,Roster,,https://www.espn.com/nhl/player/_/id/3042138,Centers
+Detroit Red Wings,det,Michael Rasmussen,C,26,"6' 6""",220 lbs,L,"Surrey, CAN",04/17/99,Roster,,https://www.espn.com/nhl/player/_/id/4233576,Centers
+Detroit Red Wings,det,Craig Smith,C,35,"6' 1""",203 lbs,R,"Madison, WI",09/05/89,Roster,,https://www.espn.com/nhl/player/_/id/2570752,Centers
+Detroit Red Wings,det,J.T. Compher,LW,30,"6' 0""",190 lbs,R,"Northbrook, IL",04/08/95,Roster,,https://www.espn.com/nhl/player/_/id/3041995,Left Wings
+Detroit Red Wings,det,Carter Mazur,LW,23,"6' 0""",170 lbs,R,"Jackson, MI",03/28/02,Roster,,https://www.espn.com/nhl/player/_/id/4997026,Left Wings
+Detroit Red Wings,det,Lucas Raymond,LW,23,"5' 11""",188 lbs,R,"Goteborg, SWE",03/28/02,Roster,,https://www.espn.com/nhl/player/_/id/4697385,Left Wings
+Detroit Red Wings,det,Jonatan Berggren,RW,24,"5' 11""",197 lbs,L,"Uppsala, SWE",07/16/00,Roster,,https://www.espn.com/nhl/player/_/id/4378660,Right Wings
+Detroit Red Wings,det,Alex DeBrincat,RW,27,"5' 8""",180 lbs,R,"Farmington Hills, MI",12/18/97,Roster,,https://www.espn.com/nhl/player/_/id/4063433,Right Wings
+Detroit Red Wings,det,Patrick Kane,RW,36,"5' 10""",177 lbs,L,"Buffalo, NY",11/19/88,Roster,,https://www.espn.com/nhl/player/_/id/3735,Right Wings
+Detroit Red Wings,det,Vladimir Tarasenko,RW,33,"6' 1""",219 lbs,L,"Yaroslavl, RUS",12/13/91,Roster,,https://www.espn.com/nhl/player/_/id/5837,Right Wings
+Detroit Red Wings,det,Ben Chiarot,D,34,"6' 3""",224 lbs,L,"Hamilton, CAN",05/09/91,Roster,,https://www.espn.com/nhl/player/_/id/5246,Defense
+Detroit Red Wings,det,Simon Edvinsson,D,22,"6' 6""",209 lbs,L,"Onsala, SWE",02/05/03,Roster,,https://www.espn.com/nhl/player/_/id/4874720,Defense
+Detroit Red Wings,det,Erik Gustafsson,D,33,"6' 1""",189 lbs,L,"Nynashamn, SWE",03/14/92,Roster,,https://www.espn.com/nhl/player/_/id/3891922,Defense
+Detroit Red Wings,det,Justin Holl,D,33,"6' 4""",194 lbs,R,"Shorewood, MN",01/30/92,Roster,,https://www.espn.com/nhl/player/_/id/5763,Defense
+Detroit Red Wings,det,Albert Johansson,D,24,"6' 0""",168 lbs,L,"Karlstad, SWE",01/04/01,Roster,,https://www.espn.com/nhl/player/_/id/4565282,Defense
+Detroit Red Wings,det,William Lagesson,D,29,"6' 2""",211 lbs,L,"Gothenburg, SWE",02/22/96,Roster,,https://www.espn.com/nhl/player/_/id/3151168,Defense
+Detroit Red Wings,det,Jeff Petry,D,37,"6' 3""",208 lbs,R,"Ann Arbor, MI",12/09/87,Roster,,https://www.espn.com/nhl/player/_/id/5407,Defense
+Detroit Red Wings,det,Brogan Rafferty,D,30,"6' 0""",195 lbs,R,"Dundee, IL",05/28/95,Roster,,https://www.espn.com/nhl/player/_/id/4420803,Defense
+Detroit Red Wings,det,Moritz Seider,D,24,"6' 3""",205 lbs,R,"Zell, GER",04/06/01,Roster,,https://www.espn.com/nhl/player/_/id/4565227,Defense
+Detroit Red Wings,det,Alex Lyon,G,32,"6' 1""",196 lbs,L,"Baudette, MN",12/09/92,Roster,,https://www.espn.com/nhl/player/_/id/3654006,Goalies
+Detroit Red Wings,det,Petr Mrazek,G,33,"6' 2""",188 lbs,L,"Ostrava, CZE",02/14/92,Roster,,https://www.espn.com/nhl/player/_/id/5619,Goalies
+Detroit Red Wings,det,Cam Talbot,G,37,"6' 4""",200 lbs,L,"Caledonia, CAN",07/05/87,Roster,,https://www.espn.com/nhl/player/_/id/5734,Goalies
+Edmonton Oilers,edm,Leon Draisaitl,C,29,"6' 2""",209 lbs,L,"Cologne, GER",10/27/95,Roster,,https://www.espn.com/nhl/player/_/id/3114727,Centers
+Edmonton Oilers,edm,Trent Frederic,C,27,"6' 3""",221 lbs,L,"St. Louis, MO",02/11/98,Roster,,https://www.espn.com/nhl/player/_/id/4024997,Centers
+Edmonton Oilers,edm,Adam Henrique,C,35,"6' 0""",195 lbs,L,"Brantford, CAN",02/06/90,Roster,,https://www.espn.com/nhl/player/_/id/5074,Centers
+Edmonton Oilers,edm,Mattias Janmark,C,32,"6' 2""",205 lbs,L,"Danderyd, SWE",12/08/92,Roster,,https://www.espn.com/nhl/player/_/id/3042085,Centers
+Edmonton Oilers,edm,Connor McDavid,C,28,"6' 1""",194 lbs,L,"Richmond Hill, CAN",01/13/97,Roster,,https://www.espn.com/nhl/player/_/id/3895074,Centers
+Edmonton Oilers,edm,Ryan Nugent-Hopkins,C,32,"6' 1""",192 lbs,L,"Burnaby, CAN",04/12/93,Roster,,https://www.espn.com/nhl/player/_/id/2562624,Centers
+Edmonton Oilers,edm,Noah Philp,C,26,"6' 3""",198 lbs,R,"Canmore, CAN",08/31/98,Roster,,https://www.espn.com/nhl/player/_/id/5103537,Centers
+Edmonton Oilers,edm,Derek Ryan,C,38,"5' 10""",185 lbs,R,"Spokane, WA",12/29/86,Roster,,https://www.espn.com/nhl/player/_/id/3902133,Centers
+Edmonton Oilers,edm,Matt Savoie,C,21,"5' 9""",179 lbs,R,"St. Albert, CAN",01/01/04,Roster,,https://www.espn.com/nhl/player/_/id/5080153,Centers
+Edmonton Oilers,edm,Viktor Arvidsson,LW,32,"5' 10""",185 lbs,R,"Skelleftea, SWE",04/08/93,Roster,,https://www.espn.com/nhl/player/_/id/3120307,Left Wings
+Edmonton Oilers,edm,James Hamblin,LW,26,"5' 9""",176 lbs,L,"Edmonton, CAN",04/27/99,Roster,,https://www.espn.com/nhl/player/_/id/4588749,Left Wings
+Edmonton Oilers,edm,Zach Hyman,LW,33,"6' 1""",206 lbs,R,"Toronto, CAN",06/09/92,Roster,,https://www.espn.com/nhl/player/_/id/5509,Left Wings
+Edmonton Oilers,edm,Roby Jarventie,LW,22,"6' 2""",184 lbs,L,"Tampere, FIN",08/08/02,Roster,,https://www.espn.com/nhl/player/_/id/4697437,Left Wings
+Edmonton Oilers,edm,Max Jones,LW,27,"6' 3""",216 lbs,L,"Rochester, MI",02/17/98,Roster,,https://www.espn.com/nhl/player/_/id/4024980,Left Wings
+Edmonton Oilers,edm,Evander Kane,LW,33,"6' 2""",218 lbs,L,"Vancouver, CAN",08/02/91,Roster,,https://www.espn.com/nhl/player/_/id/5251,Left Wings
+Edmonton Oilers,edm,Jeff Skinner,LW,33,"5' 11""",200 lbs,L,"Toronto, CAN",05/16/92,Roster,,https://www.espn.com/nhl/player/_/id/5540,Left Wings
+Edmonton Oilers,edm,Connor Brown,RW,31,"6' 0""",184 lbs,R,"Toronto, CAN",01/14/94,Roster,,https://www.espn.com/nhl/player/_/id/3067951,Right Wings
+Edmonton Oilers,edm,Quinn Hutson,RW,23,"5' 11""",170 lbs,R,"North Barrington, IL",01/01/02,Roster,,https://www.espn.com/nhl/player/_/id/5136660,Right Wings
+Edmonton Oilers,edm,Kasperi Kapanen,RW,28,"6' 1""",194 lbs,R,"Kuopio, FIN",07/23/96,Roster,,https://www.espn.com/nhl/player/_/id/3114775,Right Wings
+Edmonton Oilers,edm,Corey Perry,RW,40,"6' 3""",208 lbs,R,"Peterborough, CAN",05/16/85,Roster,,https://www.espn.com/nhl/player/_/id/2273,Right Wings
+Edmonton Oilers,edm,Vasily Podkolzin,RW,23,"6' 1""",190 lbs,L,"Moscow, RUS",06/24/01,Roster,,https://www.espn.com/nhl/player/_/id/4565231,Right Wings
+Edmonton Oilers,edm,Evan Bouchard,D,25,"6' 3""",192 lbs,R,"Oakville, CAN",10/20/99,Roster,,https://www.espn.com/nhl/player/_/id/4352722,Defense
+Edmonton Oilers,edm,Joshua Brown,D,31,"6' 5""",220 lbs,R,"London, CAN",01/21/94,Roster,,https://www.espn.com/nhl/player/_/id/3042228,Defense
+Edmonton Oilers,edm,Connor Carrick,D,31,"5' 11""",192 lbs,R,"Orland Park, IL",04/13/94,Roster,,https://www.espn.com/nhl/player/_/id/3067849,Defense
+Edmonton Oilers,edm,Cam Dineen,D,27,"5' 11""",188 lbs,L,"Toms River, NJ",06/19/98,Roster,,https://www.espn.com/nhl/player/_/id/4063294,Defense
+Edmonton Oilers,edm,Mattias Ekholm,D,35,"6' 5""",225 lbs,L,"Borlange, SWE",05/24/90,Roster,,https://www.espn.com/nhl/player/_/id/2558631,Defense
+Edmonton Oilers,edm,Ty Emberson,D,25,"6' 2""",193 lbs,R,"Eau Claire, WI",05/23/00,Roster,,https://www.espn.com/nhl/player/_/id/4587566,Defense
+Edmonton Oilers,edm,Philip Kemp,D,26,"6' 3""",202 lbs,R,"Greenwich, CT",02/12/99,Roster,,https://www.espn.com/nhl/player/_/id/4587924,Defense
+Edmonton Oilers,edm,John Klingberg,D,32,"6' 2""",185 lbs,R,"Gothenburg, SWE",08/14/92,Roster,,https://www.espn.com/nhl/player/_/id/2590751,Defense
+Edmonton Oilers,edm,Brett Kulak,D,31,"6' 2""",192 lbs,L,"Edmonton, CAN",01/06/94,Roster,,https://www.espn.com/nhl/player/_/id/3068665,Defense
+Edmonton Oilers,edm,Darnell Nurse,D,30,"6' 4""",215 lbs,L,"Hamilton, CAN",02/04/95,Roster,,https://www.espn.com/nhl/player/_/id/3041997,Defense
+Edmonton Oilers,edm,Alec Regula,D,24,"6' 4""",208 lbs,R,"West Bloomfield, MI",08/06/00,Roster,,https://www.espn.com/nhl/player/_/id/4331611,Defense
+Edmonton Oilers,edm,Troy Stecher,D,31,"5' 10""",184 lbs,R,"Richmond, CAN",04/07/94,Roster,,https://www.espn.com/nhl/player/_/id/3096102,Defense
+Edmonton Oilers,edm,Jake Walman,D,29,"6' 1""",218 lbs,L,"Toronto, CAN",02/20/96,Roster,,https://www.espn.com/nhl/player/_/id/3151136,Defense
+Edmonton Oilers,edm,Collin Delia,G,31,"6' 2""",208 lbs,L,"Rancho Cucamonga, CA",06/20/94,Roster,,https://www.espn.com/nhl/player/_/id/4244101,Goalies
+Edmonton Oilers,edm,Calvin Pickard,G,33,"6' 1""",206 lbs,L,"Moncton, CAN",04/15/92,Roster,,https://www.espn.com/nhl/player/_/id/5524,Goalies
+Edmonton Oilers,edm,Olivier Rodrigue,G,24,"6' 1""",158 lbs,L,"Chicoutimi, CAN",07/06/00,Roster,,https://www.espn.com/nhl/player/_/id/4378697,Goalies
+Edmonton Oilers,edm,Stuart Skinner,G,26,"6' 4""",230 lbs,L,"Edmonton, CAN",11/01/98,Roster,,https://www.espn.com/nhl/player/_/id/4268767,Goalies
+Florida Panthers,fla,Aleksander Barkov,C,29,"6' 3""",214 lbs,L,"Tampere, FIN",09/02/95,Roster,,https://www.espn.com/nhl/player/_/id/3041970,Centers
+Florida Panthers,fla,Sam Bennett,C,28,"6' 1""",193 lbs,L,"Holland Landing, CAN",06/20/96,Roster,,https://www.espn.com/nhl/player/_/id/3114732,Centers
+Florida Panthers,fla,Jesper Boqvist,C,26,"6' 1""",190 lbs,L,"Falun, SWE",10/30/98,Roster,,https://www.espn.com/nhl/player/_/id/4233872,Centers
+Florida Panthers,fla,Anton Lundell,C,23,"6' 1""",196 lbs,L,"Espoo, FIN",10/03/01,Roster,,https://www.espn.com/nhl/player/_/id/4697395,Centers
+Florida Panthers,fla,Eetu Luostarinen,C,26,"6' 3""",191 lbs,L,"Kuopio, FIN",09/02/98,Roster,,https://www.espn.com/nhl/player/_/id/4233877,Centers
+Florida Panthers,fla,Brad Marchand,C,37,"5' 9""",180 lbs,L,"Halifax, CAN",05/11/88,Roster,,https://www.espn.com/nhl/player/_/id/3852,Centers
+Florida Panthers,fla,Sam Reinhart,C,29,"6' 1""",196 lbs,R,"Vancouver, CAN",11/06/95,Roster,,https://www.espn.com/nhl/player/_/id/3114722,Centers
+Florida Panthers,fla,Evan Rodrigues,C,31,"5' 11""",182 lbs,R,"Toronto, CAN",07/28/93,Roster,,https://www.espn.com/nhl/player/_/id/3648008,Centers
+Florida Panthers,fla,Nico Sturm,C,30,"6' 3""",209 lbs,L,"Augsburg, GER",05/03/95,Roster,,https://www.espn.com/nhl/player/_/id/4320625,Centers
+Florida Panthers,fla,Carter Verhaeghe,C,29,"6' 2""",183 lbs,L,"Toronto, CAN",08/14/95,Roster,,https://www.espn.com/nhl/player/_/id/3042088,Centers
+Florida Panthers,fla,Jonah Gadjovich,LW,26,"6' 3""",211 lbs,L,"Whitby, CAN",10/12/98,Roster,,https://www.espn.com/nhl/player/_/id/4233890,Left Wings
+Florida Panthers,fla,A.J. Greer,LW,28,"6' 3""",209 lbs,L,"Joliette, CAN",12/14/96,Roster,,https://www.espn.com/nhl/player/_/id/3648015,Left Wings
+Florida Panthers,fla,Tomas Nosek,LW,32,"6' 3""",199 lbs,L,"Pardubice, Czechoslovakia",09/01/92,Roster,,https://www.espn.com/nhl/player/_/id/3112266,Left Wings
+Florida Panthers,fla,Matthew Tkachuk,LW,27,"6' 2""",202 lbs,L,"Scottsdale, AZ",12/11/97,Roster,,https://www.espn.com/nhl/player/_/id/4024854,Left Wings
+Florida Panthers,fla,Mackie Samoskevich,RW,22,"5' 11""",180 lbs,R,"Sandy Hook, CT",11/15/02,Roster,,https://www.espn.com/nhl/player/_/id/4874741,Right Wings
+Florida Panthers,fla,Uvis Balinskis,D,28,"6' 0""",196 lbs,L,"Ventspils, LAT",08/01/96,Roster,,https://www.espn.com/nhl/player/_/id/5142461,Defense
+Florida Panthers,fla,Aaron Ekblad,D,29,"6' 4""",215 lbs,R,"Belle River, CAN",02/07/96,Roster,,https://www.espn.com/nhl/player/_/id/3114717,Defense
+Florida Panthers,fla,Gustav Forsling,D,29,"6' 1""",199 lbs,L,"Linkoping, SWE",06/12/96,Roster,,https://www.espn.com/nhl/player/_/id/3151784,Defense
+Florida Panthers,fla,Seth Jones,D,30,"6' 4""",213 lbs,R,"Arlington, TX",10/03/94,Roster,,https://www.espn.com/nhl/player/_/id/3041992,Defense
+Florida Panthers,fla,Dmitry Kulikov,D,34,"6' 1""",212 lbs,L,"Lipetsk, USSR",10/29/90,Roster,,https://www.espn.com/nhl/player/_/id/5328,Defense
+Florida Panthers,fla,Jaycob Megna,D,32,"6' 6""",220 lbs,L,"Northbrook, IL",12/10/92,Roster,,https://www.espn.com/nhl/player/_/id/3020228,Defense
+Florida Panthers,fla,Niko Mikkola,D,29,"6' 6""",204 lbs,L,"Imatra, FIN",04/27/96,Roster,,https://www.espn.com/nhl/player/_/id/3942354,Defense
+Florida Panthers,fla,Nate Schmidt,D,33,"6' 0""",197 lbs,L,"Saint Cloud, MN",07/16/91,Roster,,https://www.espn.com/nhl/player/_/id/3024798,Defense
+Florida Panthers,fla,Sergei Bobrovsky,G,36,"6' 2""",180 lbs,L,"Novokuznetsk, USSR",09/20/88,Roster,,https://www.espn.com/nhl/player/_/id/5571,Goalies
+Florida Panthers,fla,Evan Cormier,G,27,"6' 3""",200 lbs,L,"Bowmanville, CAN",11/06/97,Roster,,https://www.espn.com/nhl/player/_/id/4064851,Goalies
+Florida Panthers,fla,Vitek Vanecek,G,29,"6' 2""",184 lbs,L,"Havlickuv Brod, CZE",01/09/96,Roster,,https://www.espn.com/nhl/player/_/id/3114996,Goalies
+Los Angeles Kings,la,Phillip Danault,C,32,"6' 1""",200 lbs,L,"Victoriaville, CAN",02/24/93,Roster,,https://www.espn.com/nhl/player/_/id/2562602,Centers
+Los Angeles Kings,la,Samuel Helenius,C,22,"6' 6""",201 lbs,L,"Jarvenpaa, FIN",11/26/02,Roster,,https://www.espn.com/nhl/player/_/id/4874923,Centers
+Los Angeles Kings,la,Anze Kopitar,C,37,"6' 3""",225 lbs,L,"Jesenice, YUG",08/24/87,Roster,,https://www.espn.com/nhl/player/_/id/3183,Centers
+Los Angeles Kings,la,Trevor Lewis,C,38,"6' 1""",205 lbs,R,"Salt Lake City, UT",01/08/87,Roster,,https://www.espn.com/nhl/player/_/id/3454,Centers
+Los Angeles Kings,la,Francesco Pinelli,C,22,"6' 0""",185 lbs,L,"Hamilton, CAN",04/11/03,Roster,,https://www.espn.com/nhl/player/_/id/4874884,Centers
+Los Angeles Kings,la,Jack Studnicka,C,26,"6' 1""",187 lbs,R,"Tecumseh, CAN",02/18/99,Roster,,https://www.espn.com/nhl/player/_/id/4233888,Centers
+Los Angeles Kings,la,Akil Thomas,C,25,"6' 0""",195 lbs,R,"Toronto, CAN",01/02/00,Roster,,https://www.espn.com/nhl/player/_/id/4378682,Centers
+Los Angeles Kings,la,Alex Turcotte,C,24,"5' 11""",185 lbs,L,"Island Lake, IL",02/26/01,Roster,,https://www.espn.com/nhl/player/_/id/4565226,Centers
+Los Angeles Kings,la,Kevin Fiala,LW,28,"6' 0""",205 lbs,L,"St. Gallen, SUI",07/22/96,Roster,,https://www.espn.com/nhl/player/_/id/3114743,Left Wings
+Los Angeles Kings,la,Warren Foegele,LW,29,"6' 2""",204 lbs,L,"Markham, CAN",04/01/96,Roster,,https://www.espn.com/nhl/player/_/id/3151036,Left Wings
+Los Angeles Kings,la,Tanner Jeannot,LW,28,"6' 2""",220 lbs,L,"Oxbow, CAN",05/29/97,Roster,,https://www.espn.com/nhl/player/_/id/4064780,Left Wings
+Los Angeles Kings,la,Andrei Kuzmenko,LW,29,"5' 11""",194 lbs,R,"Yakutsk, RUS",02/04/96,Roster,,https://www.espn.com/nhl/player/_/id/5077308,Left Wings
+Los Angeles Kings,la,Andre Lee,LW,24,"6' 5""",206 lbs,L,"Karlstad, SWE",07/26/00,Roster,,https://www.espn.com/nhl/player/_/id/4997131,Left Wings
+Los Angeles Kings,la,Jeff Malott,LW,28,"6' 3""",201 lbs,L,--,08/07/96,Roster,,https://www.espn.com/nhl/player/_/id/4895214,Left Wings
+Los Angeles Kings,la,Trevor Moore,LW,30,"5' 11""",195 lbs,L,"Thousand Oaks, CA",03/31/95,Roster,,https://www.espn.com/nhl/player/_/id/3096186,Left Wings
+Los Angeles Kings,la,Quinton Byfield,RW,22,"6' 5""",225 lbs,L,"Newmarket, CAN",08/19/02,Roster,,https://www.espn.com/nhl/player/_/id/4697383,Right Wings
+Los Angeles Kings,la,Martin Chromiak,RW,22,"6' 0""",187 lbs,R,"Ilava, Czechoslovakia",08/20/02,Roster,,https://www.espn.com/nhl/player/_/id/4697667,Right Wings
+Los Angeles Kings,la,Adrian Kempe,RW,28,"6' 2""",200 lbs,L,"Ornskoldsvik, SWE",09/13/96,Roster,,https://www.espn.com/nhl/player/_/id/3114802,Right Wings
+Los Angeles Kings,la,Alex Laferriere,RW,23,"6' 1""",205 lbs,R,"Chatham, NJ",10/28/01,Roster,,https://www.espn.com/nhl/player/_/id/4697725,Right Wings
+Los Angeles Kings,la,Taylor Ward,RW,27,"6' 2""",207 lbs,R,"Kelowna, CAN",03/31/98,Roster,,https://www.espn.com/nhl/player/_/id/4781650,Right Wings
+Los Angeles Kings,la,Mikey Anderson,D,26,"6' 0""",195 lbs,L,"Fridley, MN",05/25/99,Roster,,https://www.espn.com/nhl/player/_/id/4588178,Defense
+Los Angeles Kings,la,Kyle Burroughs,D,29,"6' 0""",193 lbs,R,"Vancouver, CAN",07/12/95,Roster,,https://www.espn.com/nhl/player/_/id/3042255,Defense
+Los Angeles Kings,la,Brandt Clarke,D,22,"6' 2""",200 lbs,R,"Ottawa, CAN",02/09/03,Roster,,https://www.espn.com/nhl/player/_/id/4874722,Defense
+Los Angeles Kings,la,Drew Doughty,D,35,"6' 1""",210 lbs,R,"London, CAN",12/08/89,Roster,,https://www.espn.com/nhl/player/_/id/3995,Defense
+Los Angeles Kings,la,Joel Edmundson,D,31,"6' 5""",221 lbs,L,"Brandon, CAN",06/28/93,Roster,,https://www.espn.com/nhl/player/_/id/2563034,Defense
+Los Angeles Kings,la,Vladislav Gavrikov,D,29,"6' 3""",220 lbs,L,"Yaroslavl, RUS",11/21/95,Roster,,https://www.espn.com/nhl/player/_/id/3942292,Defense
+Los Angeles Kings,la,Caleb Jones,D,28,"6' 1""",194 lbs,L,"Arlington, TX",06/06/97,Roster,,https://www.espn.com/nhl/player/_/id/3941970,Defense
+Los Angeles Kings,la,Jacob Moverare,D,26,"6' 3""",210 lbs,L,"Ostersund, SWE",08/31/98,Roster,,https://www.espn.com/nhl/player/_/id/4063280,Defense
+Los Angeles Kings,la,Jordan Spence,D,24,"5' 11""",180 lbs,R,"Manly, AUS",02/24/01,Roster,,https://www.espn.com/nhl/player/_/id/4588190,Defense
+Los Angeles Kings,la,Pheonix Copley,G,33,"6' 4""",205 lbs,L,"North Pole, AK",01/18/92,Roster,,https://www.espn.com/nhl/player/_/id/3095330,Goalies
+Los Angeles Kings,la,Carter George,G,19,"6' 1""",194 lbs,L,"Thunder Bay, CAN",05/20/06,Roster,,https://www.espn.com/nhl/player/_/id/5216932,Goalies
+Los Angeles Kings,la,Darcy Kuemper,G,35,"6' 5""",215 lbs,L,"Saskatoon, CAN",05/05/90,Roster,,https://www.espn.com/nhl/player/_/id/2610321,Goalies
+Los Angeles Kings,la,David Rittich,G,32,"6' 4""",205 lbs,L,"Jihlava, Czechoslovakia",08/19/92,Roster,,https://www.espn.com/nhl/player/_/id/4063288,Goalies
+Minnesota Wild,min,Travis Boyd,C,31,"6' 0""",190 lbs,R,"Edina, MN",09/14/93,Roster,,https://www.espn.com/nhl/player/_/id/3024784,Centers
+Minnesota Wild,min,Joel Eriksson Ek,C,28,"6' 3""",207 lbs,L,"Karlstad, SWE",01/29/97,Roster,,https://www.espn.com/nhl/player/_/id/3904091,Centers
+Minnesota Wild,min,Frederick Gaudreau,C,32,"6' 0""",184 lbs,R,"Granby, CAN",05/01/93,Roster,,https://www.espn.com/nhl/player/_/id/3149649,Centers
+Minnesota Wild,min,Brendan Gaunce,C,31,"6' 3""",219 lbs,L,"Sudbury, CAN",03/25/94,Roster,,https://www.espn.com/nhl/player/_/id/2976854,Centers
+Minnesota Wild,min,Hunter Haight,C,21,"5' 10""",174 lbs,R,"Strathroy, CAN",04/04/04,Roster,,https://www.espn.com/nhl/player/_/id/5080216,Centers
+Minnesota Wild,min,Vinnie Hinostroza,C,31,"5' 10""",183 lbs,R,"Chicago, IL",04/03/94,Roster,,https://www.espn.com/nhl/player/_/id/3069613,Centers
+Minnesota Wild,min,Ben Jones,C,26,"6' 0""",187 lbs,L,"Waterloo, CAN",02/26/99,Roster,,https://www.espn.com/nhl/player/_/id/4270546,Centers
+Minnesota Wild,min,Marco Rossi,C,23,"5' 9""",182 lbs,L,"Feldkirch, AUT",09/23/01,Roster,,https://www.espn.com/nhl/player/_/id/4697391,Centers
+Minnesota Wild,min,Devin Shore,C,30,"6' 1""",206 lbs,L,"Ajax, CAN",07/19/94,Roster,,https://www.espn.com/nhl/player/_/id/3069353,Centers
+Minnesota Wild,min,Yakov Trenin,C,28,"6' 2""",201 lbs,L,"Chelyabinsk, RUS",01/13/97,Roster,,https://www.espn.com/nhl/player/_/id/3904188,Centers
+Minnesota Wild,min,Matt Boldy,LW,24,"6' 2""",201 lbs,L,"Millis, MA",04/05/01,Roster,,https://www.espn.com/nhl/player/_/id/4565233,Left Wings
+Minnesota Wild,min,Marcus Foligno,LW,33,"6' 3""",226 lbs,L,"Buffalo, NY",08/10/91,Roster,,https://www.espn.com/nhl/player/_/id/5172,Left Wings
+Minnesota Wild,min,Marcus Johansson,LW,34,"6' 1""",203 lbs,L,"Landskrona, SWE",10/06/90,Roster,,https://www.espn.com/nhl/player/_/id/5714,Left Wings
+Minnesota Wild,min,Kirill Kaprizov,LW,28,"5' 10""",202 lbs,L,"Novokuznetsk, RUS",04/26/97,Roster,,https://www.espn.com/nhl/player/_/id/3942335,Left Wings
+Minnesota Wild,min,Liam Ohgren,LW,21,"6' 0""",187 lbs,L,"Stockholm, SWE",01/28/04,Roster,,https://www.espn.com/nhl/player/_/id/5080163,Left Wings
+Minnesota Wild,min,Justin Brazeau,RW,27,"6' 6""",227 lbs,R,"New Liskeard, CAN",02/02/98,Roster,,https://www.espn.com/nhl/player/_/id/4063605,Right Wings
+Minnesota Wild,min,Ryan Hartman,RW,30,"6' 0""",197 lbs,R,"Hilton Head Island, SC",09/20/94,Roster,,https://www.espn.com/nhl/player/_/id/3042063,Right Wings
+Minnesota Wild,min,Gustav Nyquist,RW,35,"5' 11""",180 lbs,L,"Halmstad, SWE",09/01/89,Roster,,https://www.espn.com/nhl/player/_/id/5823,Right Wings
+Minnesota Wild,min,Mats Zuccarello,RW,37,"5' 8""",181 lbs,L,"Oslo, NOR",09/01/87,Roster,,https://www.espn.com/nhl/player/_/id/5560,Right Wings
+Minnesota Wild,min,Zach Bogosian,D,34,"6' 3""",231 lbs,R,"Massena, NY",07/15/90,Roster,,https://www.espn.com/nhl/player/_/id/4002,Defense
+Minnesota Wild,min,Jonas Brodin,D,31,"6' 2""",196 lbs,L,"Karlstad, SWE",07/12/93,Roster,,https://www.espn.com/nhl/player/_/id/2562600,Defense
+Minnesota Wild,min,Zeev Buium,D,19,"6' 0""",186 lbs,L,"San Diego, CA",12/07/05,Roster,,https://www.espn.com/nhl/player/_/id/5206642,Defense
+Minnesota Wild,min,Declan Chisholm,D,25,"6' 1""",190 lbs,L,"Bowmanville, CAN",01/12/00,Roster,,https://www.espn.com/nhl/player/_/id/4587929,Defense
+Minnesota Wild,min,Cameron Crotty,D,26,"6' 3""",182 lbs,R,"Ottawa, CAN",05/05/99,Roster,,https://www.espn.com/nhl/player/_/id/4587571,Defense
+Minnesota Wild,min,Brock Faber,D,22,"6' 1""",200 lbs,R,"Maple Grove, MN",08/22/02,Roster,,https://www.espn.com/nhl/player/_/id/4697449,Defense
+Minnesota Wild,min,Carson Lambos,D,22,"6' 1""",197 lbs,L,"Winnipeg, CAN",01/14/03,Roster,,https://www.espn.com/nhl/player/_/id/4874743,Defense
+Minnesota Wild,min,Jon Merrill,D,33,"6' 3""",204 lbs,L,"Oklahoma City, OK",02/03/92,Roster,,https://www.espn.com/nhl/player/_/id/3059403,Defense
+Minnesota Wild,min,Jake Middleton,D,29,"6' 3""",219 lbs,L,"Wainwright, CAN",01/02/96,Roster,,https://www.espn.com/nhl/player/_/id/3149839,Defense
+Minnesota Wild,min,Jared Spurgeon,D,35,"5' 9""",166 lbs,R,"Edmonton, CAN",11/29/89,Roster,,https://www.espn.com/nhl/player/_/id/5079,Defense
+Minnesota Wild,min,Marc-Andre Fleury,G,40,"6' 2""",185 lbs,L,"Sorel, CAN",11/28/84,Roster,,https://www.espn.com/nhl/player/_/id/2346,Goalies
+Minnesota Wild,min,Troy Grosenick,G,35,"6' 1""",189 lbs,L,"Brookfield, WI",08/27/89,Roster,,https://www.espn.com/nhl/player/_/id/3025651,Goalies
+Minnesota Wild,min,Filip Gustavsson,G,27,"6' 2""",184 lbs,L,"Skelleftea, SWE",06/07/98,Roster,,https://www.espn.com/nhl/player/_/id/4272674,Goalies
+Minnesota Wild,min,Samuel Hlavaj,G,24,"6' 4""",218 lbs,L,"Martin, Czechoslovakia",05/29/01,Roster,,https://www.espn.com/nhl/player/_/id/5209248,Goalies
+Minnesota Wild,min,Jesper Wallstedt,G,22,"6' 3""",222 lbs,L,"Vasteras, SWE",11/14/02,Roster,,https://www.espn.com/nhl/player/_/id/4874737,Goalies
+Montreal Canadiens,mtl,Kirby Dach,C,24,"6' 4""",221 lbs,R,"Fort Saskatchewan, CAN",01/21/01,Roster,,https://www.espn.com/nhl/player/_/id/4565224,Centers
+Montreal Canadiens,mtl,Christian Dvorak,C,29,"6' 1""",190 lbs,L,"Palos, IL",02/02/96,Roster,,https://www.espn.com/nhl/player/_/id/3115035,Centers
+Montreal Canadiens,mtl,Jake Evans,C,29,"6' 0""",190 lbs,R,"Toronto, CAN",06/02/96,Roster,,https://www.espn.com/nhl/player/_/id/4393049,Centers
+Montreal Canadiens,mtl,Alex Newhook,C,24,"5' 11""",200 lbs,L,"St. John's, CAN",01/28/01,Roster,,https://www.espn.com/nhl/player/_/id/4565237,Centers
+Montreal Canadiens,mtl,Nick Suzuki,C,25,"5' 11""",207 lbs,R,"London, CAN",08/10/99,Roster,,https://www.espn.com/nhl/player/_/id/4233594,Centers
+Montreal Canadiens,mtl,Emil Heineman,LW,23,"6' 2""",198 lbs,L,"Leksand, SWE",11/16/01,Roster,,https://www.espn.com/nhl/player/_/id/4697447,Left Wings
+Montreal Canadiens,mtl,Michael Pezzetta,LW,27,"6' 1""",219 lbs,L,"Toronto, CAN",03/13/98,Roster,,https://www.espn.com/nhl/player/_/id/4392215,Left Wings
+Montreal Canadiens,mtl,Juraj Slafkovsky,LW,21,"6' 3""",225 lbs,L,"Kosice, SVK",03/30/04,Roster,,https://www.espn.com/nhl/player/_/id/4915349,Left Wings
+Montreal Canadiens,mtl,Josh Anderson,RW,31,"6' 3""",226 lbs,R,"Burlington, CAN",05/07/94,Roster,,https://www.espn.com/nhl/player/_/id/3069687,Right Wings
+Montreal Canadiens,mtl,Joel Armia,RW,32,"6' 3""",216 lbs,R,"Pori, FIN",05/31/93,Roster,,https://www.espn.com/nhl/player/_/id/2562596,Right Wings
+Montreal Canadiens,mtl,Cole Caufield,RW,24,"5' 8""",175 lbs,R,"Stevens Point, WI",01/02/01,Roster,,https://www.espn.com/nhl/player/_/id/4565236,Right Wings
+Montreal Canadiens,mtl,Ivan Demidov,RW,19,"6' 0""",192 lbs,L,"Sergiyev Posad, RUS",12/10/05,Roster,,https://www.espn.com/nhl/player/_/id/5216860,Right Wings
+Montreal Canadiens,mtl,Brendan Gallagher,RW,33,"5' 9""",185 lbs,R,"Edmonton, CAN",05/06/92,Roster,,https://www.espn.com/nhl/player/_/id/5614,Right Wings
+Montreal Canadiens,mtl,Patrik Laine,RW,27,"6' 4""",208 lbs,R,"Tampere, FIN",04/19/98,Roster,,https://www.espn.com/nhl/player/_/id/4024820,Right Wings
+Montreal Canadiens,mtl,Alexandre Carrier,D,28,"5' 11""",174 lbs,R,"Quebec City, CAN",10/08/96,Roster,,https://www.espn.com/nhl/player/_/id/3942064,Defense
+Montreal Canadiens,mtl,Kaiden Guhle,D,23,"6' 3""",202 lbs,L,"Sherwood Park, CAN",01/18/02,Roster,,https://www.espn.com/nhl/player/_/id/4697399,Defense
+Montreal Canadiens,mtl,Lane Hutson,D,21,"5' 9""",162 lbs,L,"North Barrington, IL",02/14/04,Roster,,https://www.espn.com/nhl/player/_/id/5080230,Defense
+Montreal Canadiens,mtl,Mike Matheson,D,31,"6' 2""",196 lbs,L,"Pointe-Claire, CAN",02/27/94,Roster,,https://www.espn.com/nhl/player/_/id/2976851,Defense
+Montreal Canadiens,mtl,David Savard,D,34,"6' 1""",235 lbs,R,"Saint-Hyacinthe, CAN",10/22/90,Roster,,https://www.espn.com/nhl/player/_/id/5427,Defense
+Montreal Canadiens,mtl,Jayden Struble,D,23,"6' 0""",207 lbs,L,"Cumberland, RI",09/08/01,Roster,,https://www.espn.com/nhl/player/_/id/4565269,Defense
+Montreal Canadiens,mtl,Arber Xhekaj,D,24,"6' 4""",240 lbs,L,"Hamilton, CAN",01/30/01,Roster,,https://www.espn.com/nhl/player/_/id/4893969,Defense
+Montreal Canadiens,mtl,Jakub Dobes,G,24,"6' 4""",215 lbs,L,"Ostrava, CZE",05/27/01,Roster,,https://www.espn.com/nhl/player/_/id/4697686,Goalies
+Montreal Canadiens,mtl,Sam Montembeault,G,28,"6' 3""",218 lbs,L,"Becancour, CAN",10/30/96,Roster,,https://www.espn.com/nhl/player/_/id/3942714,Goalies
+Nashville Predators,nsh,Ryan O'Reilly,C,34,"6' 1""",207 lbs,L,"Clinton, CAN",02/07/91,Roster,,https://www.espn.com/nhl/player/_/id/5208,Centers
+Nashville Predators,nsh,Colton Sissons,C,31,"6' 1""",200 lbs,R,"North Vancouver, CAN",11/05/93,Roster,,https://www.espn.com/nhl/player/_/id/2993474,Centers
+Nashville Predators,nsh,Steven Stamkos,C,35,"6' 1""",193 lbs,R,"Markham, CAN",02/07/90,Roster,,https://www.espn.com/nhl/player/_/id/5037,Centers
+Nashville Predators,nsh,Joey Willis,C,20,"5' 10""",170 lbs,L,"Elmhurst, IL",03/14/05,Roster,,https://www.espn.com/nhl/player/_/id/5173083,Centers
+Nashville Predators,nsh,Michael Bunting,LW,29,"6' 0""",186 lbs,L,"Scarborough, CAN",09/17/95,Roster,,https://www.espn.com/nhl/player/_/id/3149603,Left Wings
+Nashville Predators,nsh,Filip Forsberg,LW,30,"6' 1""",205 lbs,R,"Ostervala, SWE",08/13/94,Roster,,https://www.espn.com/nhl/player/_/id/2968772,Left Wings
+Nashville Predators,nsh,Erik Haula,LW,34,"5' 11""",191 lbs,L,"Pori, FIN",03/23/91,Roster,,https://www.espn.com/nhl/player/_/id/2593311,Left Wings
+Nashville Predators,nsh,Zachary L'Heureux,LW,22,"5' 11""",197 lbs,L,"Montreal, CAN",05/15/03,Roster,,https://www.espn.com/nhl/player/_/id/4874744,Left Wings
+Nashville Predators,nsh,Jakub Vrana,LW,29,"6' 0""",197 lbs,L,"Prague, CZE",02/28/96,Roster,,https://www.espn.com/nhl/player/_/id/3114747,Left Wings
+Nashville Predators,nsh,Luke Evangelista,RW,23,"6' 0""",183 lbs,R,"Toronto, CAN",02/21/02,Roster,,https://www.espn.com/nhl/player/_/id/4697446,Right Wings
+Nashville Predators,nsh,Jonathan Marchessault,RW,34,"5' 9""",185 lbs,R,"Cap-Rouge, CAN",12/27/90,Roster,,https://www.espn.com/nhl/player/_/id/2967072,Right Wings
+Nashville Predators,nsh,Michael McCarron,RW,30,"6' 6""",232 lbs,R,"Grosse Pointe, MI",03/07/95,Roster,,https://www.espn.com/nhl/player/_/id/3042048,Right Wings
+Nashville Predators,nsh,Cole Smith,RW,29,"6' 3""",195 lbs,L,"Brainerd, MN",10/28/95,Roster,,https://www.espn.com/nhl/player/_/id/4197130,Right Wings
+Nashville Predators,nsh,Matthew Wood,RW,20,"6' 4""",205 lbs,R,"Nanaimo, CAN",02/06/05,Roster,,https://www.espn.com/nhl/player/_/id/5149189,Right Wings
+Nashville Predators,nsh,Justin Barron,D,23,"6' 2""",198 lbs,R,"Halifax, CAN",11/15/01,Roster,,https://www.espn.com/nhl/player/_/id/4697408,Defense
+Nashville Predators,nsh,Nick Blankenburg,D,27,"5' 9""",177 lbs,R,"Washington, MI",05/12/98,Roster,,https://www.espn.com/nhl/player/_/id/4781550,Defense
+Nashville Predators,nsh,Andreas Englund,D,29,"6' 4""",200 lbs,L,"Stockholm, SWE",01/21/96,Roster,,https://www.espn.com/nhl/player/_/id/3114997,Defense
+Nashville Predators,nsh,Roman Josi,D,35,"6' 1""",201 lbs,L,"Bern, SUI",06/01/90,Roster,,https://www.espn.com/nhl/player/_/id/5436,Defense
+Nashville Predators,nsh,Jeremy Lauzon,D,28,"6' 3""",225 lbs,L,"Val-D'Or, CAN",04/28/97,Roster,,https://www.espn.com/nhl/player/_/id/3904185,Defense
+Nashville Predators,nsh,Jordan Oesterle,D,32,"6' 0""",181 lbs,L,"Dearborn Heights, MI",06/25/92,Roster,,https://www.espn.com/nhl/player/_/id/3097115,Defense
+Nashville Predators,nsh,Brady Skjei,D,31,"6' 3""",210 lbs,L,"Lakeville, MN",03/26/94,Roster,,https://www.espn.com/nhl/player/_/id/2976856,Defense
+Nashville Predators,nsh,Adam Wilsby,D,24,"6' 1""",188 lbs,L,"Stockholm, SWE",08/07/00,Roster,,https://www.espn.com/nhl/player/_/id/4697765,Defense
+Nashville Predators,nsh,Justus Annunen,G,25,"6' 4""",210 lbs,L,"Kempele, FIN",03/11/00,Roster,,https://www.espn.com/nhl/player/_/id/4393408,Goalies
+Nashville Predators,nsh,Juuse Saros,G,30,"5' 11""",180 lbs,L,"Forssa, FIN",04/19/95,Roster,,https://www.espn.com/nhl/player/_/id/3042109,Goalies
+New Jersey Devils,nj,Paul Cotter,C,25,"6' 2""",213 lbs,L,"Canton, MI",11/16/99,Roster,,https://www.espn.com/nhl/player/_/id/4331579,Centers
+New Jersey Devils,nj,Justin Dowling,C,34,"5' 10""",180 lbs,L,"Calgary, CAN",10/01/90,Roster,,https://www.espn.com/nhl/player/_/id/3067879,Centers
+New Jersey Devils,nj,Cody Glass,C,26,"6' 3""",201 lbs,R,"Winnipeg, CAN",04/01/99,Roster,,https://www.espn.com/nhl/player/_/id/4233568,Centers
+New Jersey Devils,nj,Nico Hischier,C,26,"6' 1""",175 lbs,L,"Naters, SUI",01/04/99,Roster,,https://www.espn.com/nhl/player/_/id/4233555,Centers
+New Jersey Devils,nj,Jack Hughes,C,24,"5' 11""",175 lbs,L,"Orlando, FL",05/14/01,Roster,,https://www.espn.com/nhl/player/_/id/4565222,Centers
+New Jersey Devils,nj,Curtis Lazar,C,30,"6' 0""",203 lbs,R,"Salmon Arm, CAN",02/02/95,Roster,,https://www.espn.com/nhl/player/_/id/3042023,Centers
+New Jersey Devils,nj,Marc McLaughlin,C,25,"6' 0""",202 lbs,L,"North Billerica, MA",07/26/99,Roster,,https://www.espn.com/nhl/player/_/id/4755704,Centers
+New Jersey Devils,nj,Dawson Mercer,C,23,"6' 0""",180 lbs,R,"Carbonear, CAN",10/27/01,Roster,,https://www.espn.com/nhl/player/_/id/4697401,Centers
+New Jersey Devils,nj,Jesper Bratt,LW,26,"5' 10""",175 lbs,L,"Stockholm, SWE",07/30/98,Roster,,https://www.espn.com/nhl/player/_/id/4268771,Left Wings
+New Jersey Devils,nj,Nolan Foote,LW,24,"6' 3""",196 lbs,L,"Denver, CO",11/29/00,Roster,,https://www.espn.com/nhl/player/_/id/4565248,Left Wings
+New Jersey Devils,nj,Brian Halonen,LW,26,"6' 0""",207 lbs,R,"Delano, MN",01/11/99,Roster,,https://www.espn.com/nhl/player/_/id/4997092,Left Wings
+New Jersey Devils,nj,Mike Hardman,LW,26,"6' 2""",205 lbs,L,"Hanover, MA",02/05/99,Roster,,https://www.espn.com/nhl/player/_/id/4808819,Left Wings
+New Jersey Devils,nj,Juho Lammikko,LW,29,"6' 2""",191 lbs,L,"Noormarkku, FIN",01/29/96,Roster,,https://www.espn.com/nhl/player/_/id/3150520,Left Wings
+New Jersey Devils,nj,Kurtis MacDermid,LW,31,"6' 5""",233 lbs,L,"Sauble Beach, CAN",03/25/94,Roster,,https://www.espn.com/nhl/player/_/id/2992930,Left Wings
+New Jersey Devils,nj,Ondrej Palat,LW,34,"6' 0""",194 lbs,L,"Frydek-Mistek, Czechoslovakia",03/28/91,Roster,,https://www.espn.com/nhl/player/_/id/2590389,Left Wings
+New Jersey Devils,nj,Tomas Tatar,LW,34,"5' 10""",173 lbs,L,"Ilava, Czechoslovakia",12/01/90,Roster,,https://www.espn.com/nhl/player/_/id/5227,Left Wings
+New Jersey Devils,nj,Nathan Bastian,RW,27,"6' 4""",205 lbs,R,"Kitchener, CAN",12/06/97,Roster,,https://www.espn.com/nhl/player/_/id/4063279,Right Wings
+New Jersey Devils,nj,Nathan Legare,RW,24,"6' 0""",205 lbs,R,"Montreal, CAN",01/11/01,Roster,,https://www.espn.com/nhl/player/_/id/4587901,Right Wings
+New Jersey Devils,nj,Timo Meier,RW,28,"6' 1""",220 lbs,L,"St. Gallen, SUI",10/08/96,Roster,,https://www.espn.com/nhl/player/_/id/3899978,Right Wings
+New Jersey Devils,nj,Stefan Noesen,RW,32,"6' 1""",205 lbs,R,"Plano, TX",02/12/93,Roster,,https://www.espn.com/nhl/player/_/id/2562623,Right Wings
+New Jersey Devils,nj,Daniel Sprong,RW,28,"6' 0""",195 lbs,R,"Amsterdam, NED",03/17/97,Roster,,https://www.espn.com/nhl/player/_/id/3904181,Right Wings
+New Jersey Devils,nj,Seamus Casey,D,21,"5' 10""",162 lbs,R,"Fort Myers, FL",01/08/04,Roster,,https://www.espn.com/nhl/player/_/id/5080212,Defense
+New Jersey Devils,nj,Dennis Cholowski,D,27,"6' 2""",210 lbs,L,"Langley, CAN",02/15/98,Roster,,https://www.espn.com/nhl/player/_/id/4024972,Defense
+New Jersey Devils,nj,Brenden Dillon,D,34,"6' 4""",225 lbs,L,"New Westminster, CAN",11/13/90,Roster,,https://www.espn.com/nhl/player/_/id/2554903,Defense
+New Jersey Devils,nj,Brian Dumoulin,D,33,"6' 4""",214 lbs,L,"Biddeford, ME",09/06/91,Roster,,https://www.espn.com/nhl/player/_/id/5738,Defense
+New Jersey Devils,nj,Dougie Hamilton,D,32,"6' 6""",230 lbs,R,"Toronto, CAN",06/17/93,Roster,,https://www.espn.com/nhl/player/_/id/2562605,Defense
+New Jersey Devils,nj,Luke Hughes,D,21,"6' 2""",198 lbs,L,"Canton, MI",09/09/03,Roster,,https://www.espn.com/nhl/player/_/id/4874719,Defense
+New Jersey Devils,nj,Johnathan Kovacevic,D,27,"6' 5""",223 lbs,R,"Niagara Falls, CAN",07/12/97,Roster,,https://www.espn.com/nhl/player/_/id/4587933,Defense
+New Jersey Devils,nj,Simon Nemec,D,21,"6' 1""",190 lbs,R,"Liptovsky Mikulas, Czechoslovakia",02/15/04,Roster,,https://www.espn.com/nhl/player/_/id/4915344,Defense
+New Jersey Devils,nj,Brett Pesce,D,30,"6' 3""",206 lbs,R,"Tarrytown, NY",11/15/94,Roster,,https://www.espn.com/nhl/player/_/id/3025535,Defense
+New Jersey Devils,nj,Jonas Siegenthaler,D,28,"6' 2""",218 lbs,L,"Zurich, SUI",05/06/97,Roster,,https://www.espn.com/nhl/player/_/id/3904190,Defense
+New Jersey Devils,nj,Topias Vilen,D,22,"6' 1""",194 lbs,L,"Lahti, FIN",04/01/03,Roster,,https://www.espn.com/nhl/player/_/id/5103595,Defense
+New Jersey Devils,nj,Colton White,D,28,"6' 1""",187 lbs,L,"London, CAN",05/03/97,Roster,,https://www.espn.com/nhl/player/_/id/3941125,Defense
+New Jersey Devils,nj,Jake Allen,G,34,"6' 2""",197 lbs,L,"Fredericton, CAN",08/07/90,Roster,,https://www.espn.com/nhl/player/_/id/5111,Goalies
+New Jersey Devils,nj,Nico Daws,G,24,"6' 4""",205 lbs,L,"Munich, GER",12/22/00,Roster,,https://www.espn.com/nhl/player/_/id/4697683,Goalies
+New Jersey Devils,nj,Jacob Markstrom,G,35,"6' 6""",207 lbs,L,"Gavle, SWE",01/31/90,Roster,,https://www.espn.com/nhl/player/_/id/5452,Goalies
+New Jersey Devils,nj,Isaac Poulter,G,23,"6' 2""",174 lbs,L,"Winnipeg, CAN",09/12/01,Roster,,https://www.espn.com/nhl/player/_/id/5174951,Goalies
+New York Islanders,nyi,Mathew Barzal,C,28,"6' 1""",190 lbs,R,"Coquitlam, CAN",05/26/97,Roster,,https://www.espn.com/nhl/player/_/id/3899946,Centers
+New York Islanders,nyi,Casey Cizikas,C,34,"5' 11""",194 lbs,L,"Toronto, CAN",02/27/91,Roster,,https://www.espn.com/nhl/player/_/id/5262,Centers
+New York Islanders,nyi,Marc Gatcomb,C,25,"6' 2""",195 lbs,R,"Woburn, MA",07/22/99,Roster,,https://www.espn.com/nhl/player/_/id/5103547,Centers
+New York Islanders,nyi,Bo Horvat,C,30,"6' 1""",215 lbs,L,"London, CAN",04/05/95,Roster,,https://www.espn.com/nhl/player/_/id/3042002,Centers
+New York Islanders,nyi,Kyle MacLean,C,26,"6' 1""",194 lbs,L,"Livingston, NJ",04/29/99,Roster,,https://www.espn.com/nhl/player/_/id/4393199,Centers
+New York Islanders,nyi,Jean-Gabriel Pageau,C,32,"5' 11""",195 lbs,R,"Ottawa, CAN",11/11/92,Roster,,https://www.espn.com/nhl/player/_/id/2593131,Centers
+New York Islanders,nyi,Kyle Palmieri,C,34,"5' 11""",195 lbs,R,"Smithtown, NY",02/01/91,Roster,,https://www.espn.com/nhl/player/_/id/5517,Centers
+New York Islanders,nyi,Anthony Duclair,LW,29,"6' 0""",200 lbs,L,"Pointe-Claire, CAN",08/26/95,Roster,,https://www.espn.com/nhl/player/_/id/3042086,Left Wings
+New York Islanders,nyi,Pierre Engvall,LW,29,"6' 5""",215 lbs,L,"Ljungby, SWE",05/31/96,Roster,,https://www.espn.com/nhl/player/_/id/3151763,Left Wings
+New York Islanders,nyi,Anders Lee,LW,34,"6' 3""",231 lbs,L,"Edina, MN",07/03/90,Roster,,https://www.espn.com/nhl/player/_/id/5793,Left Wings
+New York Islanders,nyi,Matt Martin,LW,36,"6' 3""",215 lbs,L,"Windsor, CAN",05/08/89,Roster,,https://www.espn.com/nhl/player/_/id/5050,Left Wings
+New York Islanders,nyi,Hudson Fasching,RW,29,"6' 3""",209 lbs,R,"Milwaukee, WI",07/28/95,Roster,,https://www.espn.com/nhl/player/_/id/3042134,Right Wings
+New York Islanders,nyi,Simon Holmstrom,RW,24,"6' 2""",215 lbs,L,"Tranas, SWE",05/24/01,Roster,,https://www.espn.com/nhl/player/_/id/4565244,Right Wings
+New York Islanders,nyi,Maxim Tsyplakov,RW,26,"6' 2""",189 lbs,L,"Moscow, RUS",09/19/98,Roster,,https://www.espn.com/nhl/player/_/id/5212753,Right Wings
+New York Islanders,nyi,Adam Boqvist,D,24,"6' 0""",191 lbs,R,"Falun, SWE",08/15/00,Roster,,https://www.espn.com/nhl/player/_/id/4352706,Defense
+New York Islanders,nyi,Tony DeAngelo,D,29,"5' 11""",180 lbs,R,"Sewell, NJ",10/24/95,Roster,,https://www.espn.com/nhl/player/_/id/3114769,Defense
+New York Islanders,nyi,Noah Dobson,D,25,"6' 4""",200 lbs,R,"Summerside, CAN",01/07/00,Roster,,https://www.espn.com/nhl/player/_/id/4352732,Defense
+New York Islanders,nyi,Scott Mayfield,D,32,"6' 5""",213 lbs,R,"St. Louis, MO",10/14/92,Roster,,https://www.espn.com/nhl/player/_/id/2563069,Defense
+New York Islanders,nyi,Adam Pelech,D,30,"6' 3""",210 lbs,L,"Toronto, CAN",08/16/94,Roster,,https://www.espn.com/nhl/player/_/id/3069621,Defense
+New York Islanders,nyi,Scott Perunovich,D,26,"5' 10""",175 lbs,R,"Hibbing, MN",08/18/98,Roster,,https://www.espn.com/nhl/player/_/id/4320665,Defense
+New York Islanders,nyi,Ryan Pulock,D,30,"6' 2""",220 lbs,R,"Dauphin, CAN",10/06/94,Roster,,https://www.espn.com/nhl/player/_/id/3042019,Defense
+New York Islanders,nyi,Mike Reilly,D,31,"6' 2""",191 lbs,L,"Chicago, IL",07/13/93,Roster,,https://www.espn.com/nhl/player/_/id/2563077,Defense
+New York Islanders,nyi,Alexander Romanov,D,25,"6' 1""",220 lbs,L,"Moscow, RUS",01/06/00,Roster,,https://www.espn.com/nhl/player/_/id/4587854,Defense
+New York Islanders,nyi,Marcus Hogberg,G,30,"6' 5""",234 lbs,L,"Orebro, SWE",11/25/94,Roster,,https://www.espn.com/nhl/player/_/id/3042084,Goalies
+New York Islanders,nyi,Tristan Lennox,G,22,"6' 3""",193 lbs,L,"Ottawa, CAN",10/21/02,Roster,,https://www.espn.com/nhl/player/_/id/4894996,Goalies
+New York Islanders,nyi,Ilya Sorokin,G,29,"6' 4""",211 lbs,L,"Mezhdurechensk, RUS",08/04/95,Roster,,https://www.espn.com/nhl/player/_/id/3151981,Goalies
+New York Islanders,nyi,Semyon Varlamov,G,37,"6' 2""",201 lbs,L,"Kuybyshev, USSR",04/27/88,Roster,,https://www.espn.com/nhl/player/_/id/3759,Goalies
+New York Rangers,nyr,Jonny Brodzinski,C,32,"6' 0""",211 lbs,L,"Ham Lake, MN",06/19/93,Roster,,https://www.espn.com/nhl/player/_/id/3025614,Centers
+New York Rangers,nyr,Sam Carrick,C,33,"6' 0""",202 lbs,R,"Markham, CAN",02/04/92,Roster,,https://www.espn.com/nhl/player/_/id/5474,Centers
+New York Rangers,nyr,Adam Edstrom,C,24,"6' 7""",241 lbs,L,"Karlstad, SWE",10/12/00,Roster,,https://www.espn.com/nhl/player/_/id/4894222,Centers
+New York Rangers,nyr,Juuso Parssinen,C,24,"6' 3""",212 lbs,L,"Hameenlinna, FIN",02/01/01,Roster,,https://www.espn.com/nhl/player/_/id/4867883,Centers
+New York Rangers,nyr,Matt Rempe,C,22,"6' 9""",255 lbs,R,"Calgary, CAN",06/29/02,Roster,,https://www.espn.com/nhl/player/_/id/4697820,Centers
+New York Rangers,nyr,Carey Terrance,C,20,"6' 0""",175 lbs,L,"Akwesasne, NY",05/10/05,Roster,,https://www.espn.com/nhl/player/_/id/5149246,Centers
+New York Rangers,nyr,Vincent Trocheck,C,31,"5' 11""",188 lbs,R,"Pittsburgh, PA",07/11/93,Roster,,https://www.espn.com/nhl/player/_/id/2563036,Centers
+New York Rangers,nyr,Mika Zibanejad,C,32,"6' 2""",203 lbs,R,"Huddinge, SWE",04/18/93,Roster,,https://www.espn.com/nhl/player/_/id/2562637,Centers
+New York Rangers,nyr,Brett Berard,LW,22,"5' 9""",175 lbs,L,"Providence, RI",09/09/02,Roster,,https://www.espn.com/nhl/player/_/id/4697654,Left Wings
+New York Rangers,nyr,Will Cuylle,LW,23,"6' 3""",212 lbs,L,"Toronto, CAN",02/05/02,Roster,,https://www.espn.com/nhl/player/_/id/4697468,Left Wings
+New York Rangers,nyr,Alexis Lafreniere,LW,23,"6' 2""",196 lbs,L,"Saint-Eustache, CAN",10/11/01,Roster,,https://www.espn.com/nhl/player/_/id/4697382,Left Wings
+New York Rangers,nyr,J.T. Miller,LW,32,"6' 1""",218 lbs,L,"East Palestine, OH",03/14/93,Roster,,https://www.espn.com/nhl/player/_/id/2590852,Left Wings
+New York Rangers,nyr,Brennan Othmann,LW,22,"6' 0""",192 lbs,L,"Scarborough, CAN",01/05/03,Roster,,https://www.espn.com/nhl/player/_/id/4874733,Left Wings
+New York Rangers,nyr,Artemi Panarin,LW,33,"6' 0""",177 lbs,R,"Korkino, USSR",10/30/91,Roster,,https://www.espn.com/nhl/player/_/id/3891952,Left Wings
+New York Rangers,nyr,Nicolas Aube-Kubel,RW,29,"6' 0""",213 lbs,R,"Slave Lake, CAN",05/10/96,Roster,,https://www.espn.com/nhl/player/_/id/3115014,Right Wings
+New York Rangers,nyr,Arthur Kaliyev,RW,23,"6' 2""",210 lbs,L,"Tashkent, UZB",06/26/01,Roster,,https://www.espn.com/nhl/player/_/id/4565256,Right Wings
+New York Rangers,nyr,Gabe Perreault,RW,20,"5' 11""",178 lbs,L,"Hinsdale, IL",05/07/05,Roster,,https://www.espn.com/nhl/player/_/id/5149204,Right Wings
+New York Rangers,nyr,Will Borgen,D,28,"6' 3""",204 lbs,R,"Moorhead, MN",12/19/96,Roster,,https://www.espn.com/nhl/player/_/id/3941946,Defense
+New York Rangers,nyr,Calvin de Haan,D,34,"6' 1""",192 lbs,L,"Carp, CAN",05/09/91,Roster,,https://www.espn.com/nhl/player/_/id/5266,Defense
+New York Rangers,nyr,Adam Fox,D,27,"5' 11""",180 lbs,R,"Jericho, NY",02/17/98,Roster,,https://www.espn.com/nhl/player/_/id/4197146,Defense
+New York Rangers,nyr,Zac Jones,D,24,"5' 11""",190 lbs,L,"Glen Allen, VA",10/18/00,Roster,,https://www.espn.com/nhl/player/_/id/4781635,Defense
+New York Rangers,nyr,K'Andre Miller,D,25,"6' 5""",210 lbs,L,"Hopkins, MN",01/21/00,Roster,,https://www.espn.com/nhl/player/_/id/4352770,Defense
+New York Rangers,nyr,Matthew Robertson,D,24,"6' 4""",201 lbs,L,"Edmonton, CAN",03/09/01,Roster,,https://www.espn.com/nhl/player/_/id/4565272,Defense
+New York Rangers,nyr,Braden Schneider,D,23,"6' 4""",213 lbs,R,"Prince Albert, CAN",09/20/01,Roster,,https://www.espn.com/nhl/player/_/id/4697402,Defense
+New York Rangers,nyr,Carson Soucy,D,30,"6' 5""",208 lbs,L,"Viking, CAN",07/27/94,Roster,,https://www.espn.com/nhl/player/_/id/3042198,Defense
+New York Rangers,nyr,Urho Vaakanainen,D,26,"6' 2""",205 lbs,L,"Joensuu, FIN",01/01/99,Roster,,https://www.espn.com/nhl/player/_/id/4233619,Defense
+New York Rangers,nyr,Jonathan Quick,G,39,"6' 1""",220 lbs,L,"Hamden, CT",01/21/86,Roster,,https://www.espn.com/nhl/player/_/id/3634,Goalies
+New York Rangers,nyr,Igor Shesterkin,G,29,"6' 1""",195 lbs,L,"Moscow, RUS",12/30/95,Roster,,https://www.espn.com/nhl/player/_/id/3151297,Goalies
+Ottawa Senators,ott,Nick Cousins,C,31,"5' 11""",186 lbs,L,"Belleville, CAN",07/20/93,Roster,,https://www.espn.com/nhl/player/_/id/2563027,Centers
+Ottawa Senators,ott,Dylan Cozens,C,24,"6' 3""",207 lbs,R,"Whitehorse, CAN",02/09/01,Roster,,https://www.espn.com/nhl/player/_/id/4565228,Centers
+Ottawa Senators,ott,Ridly Greig,C,22,"6' 0""",188 lbs,L,"Lethbridge, CAN",08/08/02,Roster,,https://www.espn.com/nhl/player/_/id/4697411,Centers
+Ottawa Senators,ott,Stephen Halliday,C,22,"6' 4""",212 lbs,L,"Glenwood, MD",07/02/02,Roster,,https://www.espn.com/nhl/player/_/id/5136706,Centers
+Ottawa Senators,ott,Matthew Highmore,C,29,"5' 11""",186 lbs,L,"Halifax, CAN",02/27/96,Roster,,https://www.espn.com/nhl/player/_/id/4135544,Centers
+Ottawa Senators,ott,Jan Jenik,C,24,"6' 1""",172 lbs,L,"Novy Jicin, CZE",09/15/00,Roster,,https://www.espn.com/nhl/player/_/id/4587568,Centers
+Ottawa Senators,ott,Garrett Pilon,C,27,"5' 10""",175 lbs,R,"Saskatoon, CAN",04/13/98,Roster,,https://www.espn.com/nhl/player/_/id/4063242,Centers
+Ottawa Senators,ott,Shane Pinto,C,24,"6' 3""",204 lbs,R,"Franklin Square, NY",11/12/00,Roster,,https://www.espn.com/nhl/player/_/id/4565255,Centers
+Ottawa Senators,ott,Tim Stutzle,C,23,"6' 0""",192 lbs,L,"Viersen, GER",01/15/02,Roster,,https://www.espn.com/nhl/player/_/id/4697384,Centers
+Ottawa Senators,ott,Wyatt Bongiovanni,LW,25,"6' 0""",149 lbs,L,"Birmingham, MI",07/24/99,Roster,,https://www.espn.com/nhl/player/_/id/5188601,Left Wings
+Ottawa Senators,ott,Angus Crookshank,LW,25,"5' 10""",181 lbs,L,"North Vancouver, CAN",10/02/99,Roster,,https://www.espn.com/nhl/player/_/id/4588209,Left Wings
+Ottawa Senators,ott,David Perron,LW,37,"6' 0""",198 lbs,R,"Sherbrooke, CAN",05/28/88,Roster,,https://www.espn.com/nhl/player/_/id/3792,Left Wings
+Ottawa Senators,ott,Cole Reinhardt,LW,25,"6' 1""",207 lbs,L,"Calgary, CAN",02/01/00,Roster,,https://www.espn.com/nhl/player/_/id/4894702,Left Wings
+Ottawa Senators,ott,Brady Tkachuk,LW,25,"6' 4""",225 lbs,L,"Scottsdale, AZ",09/16/99,Roster,,https://www.espn.com/nhl/player/_/id/4319858,Left Wings
+Ottawa Senators,ott,Fabian Zetterlund,LW,25,"5' 11""",220 lbs,R,"Karlstad, SWE",08/25/99,Roster,,https://www.espn.com/nhl/player/_/id/4587837,Left Wings
+Ottawa Senators,ott,Michael Amadio,RW,29,"6' 1""",199 lbs,R,"Sault Ste. Marie, CAN",05/13/96,Roster,,https://www.espn.com/nhl/player/_/id/3149829,Right Wings
+Ottawa Senators,ott,Drake Batherson,RW,27,"6' 3""",200 lbs,R,"Fort Wayne, IN",04/27/98,Roster,,https://www.espn.com/nhl/player/_/id/4271734,Right Wings
+Ottawa Senators,ott,Tyler Boucher,RW,22,"6' 1""",205 lbs,R,"Haddonfield, NJ",01/16/03,Roster,,https://www.espn.com/nhl/player/_/id/4874724,Right Wings
+Ottawa Senators,ott,Adam Gaudette,RW,28,"6' 1""",187 lbs,R,"Braintree, MA",10/03/96,Roster,,https://www.espn.com/nhl/player/_/id/3942868,Right Wings
+Ottawa Senators,ott,Claude Giroux,RW,37,"5' 11""",188 lbs,R,"Hearst, CAN",01/12/88,Roster,,https://www.espn.com/nhl/player/_/id/3775,Right Wings
+Ottawa Senators,ott,Hayden Hodgson,RW,29,"6' 2""",208 lbs,R,"Windsor, CAN",03/02/96,Roster,,https://www.espn.com/nhl/player/_/id/3150479,Right Wings
+Ottawa Senators,ott,Zack MacEwen,RW,28,"6' 4""",240 lbs,R,"Charlottetown, CAN",07/08/96,Roster,,https://www.espn.com/nhl/player/_/id/4063569,Right Wings
+Ottawa Senators,ott,Thomas Chabot,D,28,"6' 1""",203 lbs,L,"Sainte-Marie, CAN",01/30/97,Roster,,https://www.espn.com/nhl/player/_/id/3900219,Defense
+Ottawa Senators,ott,Dennis Gilbert,D,28,"6' 2""",216 lbs,L,"Buffalo, NY",10/30/96,Roster,,https://www.espn.com/nhl/player/_/id/3942030,Defense
+Ottawa Senators,ott,Tomas Hamara,D,21,"6' 0""",185 lbs,L,"Prague, CZE",03/09/04,Roster,,https://www.espn.com/nhl/player/_/id/5103083,Defense
+Ottawa Senators,ott,Travis Hamonic,D,34,"6' 0""",195 lbs,R,"St. Malo, CAN",08/16/90,Roster,,https://www.espn.com/nhl/player/_/id/5073,Defense
+Ottawa Senators,ott,Nick Jensen,D,34,"6' 0""",196 lbs,R,"Rogers, MN",09/21/90,Roster,,https://www.espn.com/nhl/player/_/id/3025608,Defense
+Ottawa Senators,ott,Tyler Kleven,D,23,"6' 5""",221 lbs,L,"Fargo, ND",01/10/02,Roster,,https://www.espn.com/nhl/player/_/id/4697448,Defense
+Ottawa Senators,ott,Nikolas Matinpalo,D,26,"6' 3""",211 lbs,R,"Espoo, FIN",10/05/98,Roster,,https://www.espn.com/nhl/player/_/id/5174232,Defense
+Ottawa Senators,ott,Jake Sanderson,D,22,"6' 2""",204 lbs,L,"Whitefish, MT",07/08/02,Roster,,https://www.espn.com/nhl/player/_/id/4697386,Defense
+Ottawa Senators,ott,Donovan Sebrango,D,23,"6' 2""",221 lbs,L,"Ottawa, CAN",01/12/02,Roster,,https://www.espn.com/nhl/player/_/id/4697791,Defense
+Ottawa Senators,ott,Lassi Thomson,D,24,"6' 0""",190 lbs,R,"Tampere, FIN",09/24/00,Roster,,https://www.espn.com/nhl/player/_/id/4565240,Defense
+Ottawa Senators,ott,Carter Yakemchuk,D,19,"6' 3""",202 lbs,R,"Fort Mcmurray, CAN",09/29/05,Roster,,https://www.espn.com/nhl/player/_/id/5216868,Defense
+Ottawa Senators,ott,Artem Zub,D,29,"6' 3""",200 lbs,R,"Khabarovsk, USSR",10/03/95,Roster,,https://www.espn.com/nhl/player/_/id/4712021,Defense
+Ottawa Senators,ott,Anton Forsberg,G,32,"6' 3""",198 lbs,L,"Harnosand, SWE",11/27/92,Roster,,https://www.espn.com/nhl/player/_/id/3036851,Goalies
+Ottawa Senators,ott,Leevi Merilainen,G,22,"6' 2""",158 lbs,L,"Oulu, FIN",08/13/02,Roster,,https://www.espn.com/nhl/player/_/id/4894703,Goalies
+Ottawa Senators,ott,Mads Sogaard,G,24,"6' 7""",196 lbs,L,"Aalborg, DEN",12/13/00,Roster,,https://www.espn.com/nhl/player/_/id/4565260,Goalies
+Ottawa Senators,ott,Linus Ullmark,G,31,"6' 4""",215 lbs,L,"Lugnvik, SWE",07/31/93,Roster,,https://www.espn.com/nhl/player/_/id/3069285,Goalies
+Philadelphia Flyers,phi,Sean Couturier,C,32,"6' 4""",210 lbs,L,"Phoenix, AZ",12/07/92,Roster,,https://www.espn.com/nhl/player/_/id/2562601,Centers
+Philadelphia Flyers,phi,Ryan Poehling,C,26,"6' 2""",204 lbs,L,"Lakeville, MN",01/03/99,Roster,,https://www.espn.com/nhl/player/_/id/4233668,Centers
+Philadelphia Flyers,phi,Noah Cates,LW,26,"6' 2""",194 lbs,L,"Stillwater, MN",02/05/99,Roster,,https://www.espn.com/nhl/player/_/id/4419682,Left Wings
+Philadelphia Flyers,phi,Nicolas Deslauriers,LW,34,"6' 1""",218 lbs,L,"La Salle, CAN",02/22/91,Roster,,https://www.espn.com/nhl/player/_/id/5193,Left Wings
+Philadelphia Flyers,phi,Karsen Dorwart,LW,22,"6' 1""",194 lbs,L,"Sherwood, OR",09/17/02,Roster,,https://www.espn.com/nhl/player/_/id/5277447,Left Wings
+Philadelphia Flyers,phi,Jakob Pelletier,LW,24,"5' 9""",170 lbs,L,"Quebec City, CAN",03/07/01,Roster,,https://www.espn.com/nhl/player/_/id/4565247,Left Wings
+Philadelphia Flyers,phi,Bobby Brink,RW,23,"5' 8""",169 lbs,R,"Minnetonka, MN",07/08/01,Roster,,https://www.espn.com/nhl/player/_/id/4565257,Right Wings
+Philadelphia Flyers,phi,Tyson Foerster,RW,23,"6' 2""",215 lbs,R,"Alliston, CAN",01/18/02,Roster,,https://www.espn.com/nhl/player/_/id/4697406,Right Wings
+Philadelphia Flyers,phi,Nikita Grebenkin,RW,22,"6' 2""",210 lbs,L,"Serov, RUS",05/02/03,Roster,,https://www.espn.com/nhl/player/_/id/5188490,Right Wings
+Philadelphia Flyers,phi,Garnet Hathaway,RW,33,"6' 2""",212 lbs,R,"Naples, FL",11/23/91,Roster,,https://www.espn.com/nhl/player/_/id/3149633,Right Wings
+Philadelphia Flyers,phi,Devin Kaplan,RW,21,"6' 3""",200 lbs,R,"Bridgewater, NJ",01/10/04,Roster,,https://www.espn.com/nhl/player/_/id/5188383,Right Wings
+Philadelphia Flyers,phi,Travis Konecny,RW,28,"5' 10""",192 lbs,R,"London, CAN",03/11/97,Roster,,https://www.espn.com/nhl/player/_/id/3900169,Right Wings
+Philadelphia Flyers,phi,Matvei Michkov,RW,20,"5' 10""",172 lbs,L,"Perm, RUS",12/09/04,Roster,,https://www.espn.com/nhl/player/_/id/5149170,Right Wings
+Philadelphia Flyers,phi,Owen Tippett,RW,26,"6' 1""",210 lbs,R,"Peterborough, CAN",02/16/99,Roster,,https://www.espn.com/nhl/player/_/id/4392072,Right Wings
+Philadelphia Flyers,phi,Emil Andrae,D,23,"5' 9""",189 lbs,L,"Vasteras, SWE",02/23/02,Roster,,https://www.espn.com/nhl/player/_/id/4697457,Defense
+Philadelphia Flyers,phi,Jamie Drysdale,D,23,"5' 11""",185 lbs,R,"Toronto, CAN",04/08/02,Roster,,https://www.espn.com/nhl/player/_/id/4697387,Defense
+Philadelphia Flyers,phi,Ryan Ellis,D,34,"5' 10""",180 lbs,R,"Hamilton, CAN",01/03/91,Roster,,https://www.espn.com/nhl/player/_/id/5169,Defense
+Philadelphia Flyers,phi,Rasmus Ristolainen,D,30,"6' 4""",208 lbs,R,"Turku, FIN",10/27/94,Roster,,https://www.espn.com/nhl/player/_/id/3041999,Defense
+Philadelphia Flyers,phi,Travis Sanheim,D,29,"6' 4""",222 lbs,L,"Elkhorn, CAN",03/29/96,Roster,,https://www.espn.com/nhl/player/_/id/3114757,Defense
+Philadelphia Flyers,phi,Nick Seeler,D,32,"6' 3""",197 lbs,L,"Eden Prairie, MN",06/03/93,Roster,,https://www.espn.com/nhl/player/_/id/2564164,Defense
+Philadelphia Flyers,phi,Cam York,D,24,"6' 0""",194 lbs,L,"Anaheim, CA",01/05/01,Roster,,https://www.espn.com/nhl/player/_/id/4565235,Defense
+Philadelphia Flyers,phi,Egor Zamula,D,25,"6' 3""",200 lbs,L,"Chelyabinsk, RUS",03/30/00,Roster,,https://www.espn.com/nhl/player/_/id/4392268,Defense
+Philadelphia Flyers,phi,Samuel Ersson,G,25,"6' 3""",194 lbs,L,"Falun, SWE",10/20/99,Roster,,https://www.espn.com/nhl/player/_/id/4587815,Goalies
+Philadelphia Flyers,phi,Ivan Fedotov,G,28,"6' 7""",214 lbs,L,--,11/28/96,Roster,,https://www.espn.com/nhl/player/_/id/3942685,Goalies
+Philadelphia Flyers,phi,Aleksei Kolosov,G,23,"6' 1""",185 lbs,L,"Minsk, BLR",01/04/02,Roster,,https://www.espn.com/nhl/player/_/id/5188331,Goalies
+Pittsburgh Penguins,pit,Noel Acciari,C,33,"5' 11""",209 lbs,R,"Johnston, RI",12/01/91,Roster,,https://www.espn.com/nhl/player/_/id/3096237,Centers
+Pittsburgh Penguins,pit,Sidney Crosby,C,37,"5' 11""",200 lbs,L,"Cole Harbour, CAN",08/07/87,Roster,,https://www.espn.com/nhl/player/_/id/3114,Centers
+Pittsburgh Penguins,pit,Connor Dewar,C,25,"5' 10""",192 lbs,L,"The Pas, CAN",06/26/99,Roster,,https://www.espn.com/nhl/player/_/id/4588004,Centers
+Pittsburgh Penguins,pit,Blake Lizotte,C,27,"5' 9""",173 lbs,L,"Lindstrom, MN",12/13/97,Roster,,https://www.espn.com/nhl/player/_/id/4316983,Centers
+Pittsburgh Penguins,pit,Evgeni Malkin,C,38,"6' 5""",210 lbs,L,"Magnitogorsk, USSR",07/31/86,Roster,,https://www.espn.com/nhl/player/_/id/3124,Centers
+Pittsburgh Penguins,pit,Tommy Novak,C,28,"6' 1""",179 lbs,L,"Saint Paul, MN",04/28/97,Roster,,https://www.espn.com/nhl/player/_/id/3942061,Centers
+Pittsburgh Penguins,pit,Philip Tomasino,C,23,"6' 0""",190 lbs,R,"Mississauga, CAN",07/28/01,Roster,,https://www.espn.com/nhl/player/_/id/4565245,Centers
+Pittsburgh Penguins,pit,Danton Heinen,LW,29,"6' 2""",195 lbs,L,"Langley, CAN",07/05/95,Roster,,https://www.espn.com/nhl/player/_/id/3151741,Left Wings
+Pittsburgh Penguins,pit,Bokondji Imama,LW,28,"6' 1""",221 lbs,L,"Montreal, CAN",08/03/96,Roster,,https://www.espn.com/nhl/player/_/id/3939856,Left Wings
+Pittsburgh Penguins,pit,Matt Nieto,LW,32,"5' 11""",187 lbs,L,"Long Beach, CA",11/05/92,Roster,,https://www.espn.com/nhl/player/_/id/2563076,Left Wings
+Pittsburgh Penguins,pit,Kevin Hayes,RW,33,"6' 5""",216 lbs,L,"Dorchester, MA",05/08/92,Roster,,https://www.espn.com/nhl/player/_/id/5767,Right Wings
+Pittsburgh Penguins,pit,Rutger McGroarty,RW,21,"6' 0""",200 lbs,L,"Lincoln, NE",03/03/04,Roster,,https://www.espn.com/nhl/player/_/id/5080158,Right Wings
+Pittsburgh Penguins,pit,Rickard Rakell,RW,32,"6' 1""",191 lbs,R,"Sundbyberg, SWE",05/05/93,Roster,,https://www.espn.com/nhl/player/_/id/2562629,Right Wings
+Pittsburgh Penguins,pit,Bryan Rust,RW,33,"5' 11""",198 lbs,R,"Pontiac, MI",05/11/92,Roster,,https://www.espn.com/nhl/player/_/id/2591155,Right Wings
+Pittsburgh Penguins,pit,Sebastian Aho,D,29,"5' 10""",180 lbs,L,"Umea, SWE",02/17/96,Roster,,https://www.espn.com/nhl/player/_/id/4272688,Defense
+Pittsburgh Penguins,pit,Ryan Graves,D,30,"6' 5""",222 lbs,L,"Yarmouth, CAN",05/21/95,Roster,,https://www.espn.com/nhl/player/_/id/3042122,Defense
+Pittsburgh Penguins,pit,Matt Grzelcyk,D,31,"5' 10""",180 lbs,L,"Charlestown, MA",01/05/94,Roster,,https://www.espn.com/nhl/player/_/id/3069448,Defense
+Pittsburgh Penguins,pit,P.O Joseph,D,25,"6' 2""",185 lbs,L,"Chambly, CAN",07/01/99,Roster,,https://www.espn.com/nhl/player/_/id/4233653,Defense
+Pittsburgh Penguins,pit,Erik Karlsson,D,35,"6' 0""",186 lbs,R,"Landsbro, SWE",05/31/90,Roster,,https://www.espn.com/nhl/player/_/id/5164,Defense
+Pittsburgh Penguins,pit,Vladislav Kolyachonok,D,24,"6' 2""",195 lbs,L,"Minsk, BLR",05/26/01,Roster,,https://www.espn.com/nhl/player/_/id/4565274,Defense
+Pittsburgh Penguins,pit,Kris Letang,D,38,"6' 0""",193 lbs,R,"Montreal, CAN",04/24/87,Roster,,https://www.espn.com/nhl/player/_/id/3539,Defense
+Pittsburgh Penguins,pit,Ryan Shea,D,28,"6' 1""",220 lbs,L,"Milton, MA",02/11/97,Roster,,https://www.espn.com/nhl/player/_/id/3942033,Defense
+Pittsburgh Penguins,pit,Conor Timmins,D,26,"6' 3""",213 lbs,R,"Thorold, CAN",09/18/98,Roster,,https://www.espn.com/nhl/player/_/id/4233868,Defense
+Pittsburgh Penguins,pit,Tristan Jarry,G,30,"6' 2""",195 lbs,L,"Surrey, CAN",04/29/95,Roster,,https://www.espn.com/nhl/player/_/id/3042020,Goalies
+Pittsburgh Penguins,pit,Alex Nedeljkovic,G,29,"6' 0""",203 lbs,L,"Parma, OH",01/07/96,Roster,,https://www.espn.com/nhl/player/_/id/3114994,Goalies
+San Jose Sharks,sj,Thomas Bordeleau,C,23,"5' 10""",179 lbs,L,"Terrebonne, CAN",01/03/02,Roster,,https://www.espn.com/nhl/player/_/id/4697443,Centers
+San Jose Sharks,sj,Macklin Celebrini,C,19,"6' 0""",190 lbs,L,"Vancouver, CAN",06/13/06,Roster,,https://www.espn.com/nhl/player/_/id/5206628,Centers
+San Jose Sharks,sj,Ty Dellandrea,C,24,"6' 2""",190 lbs,R,"Toronto, CAN",07/21/00,Roster,,https://www.espn.com/nhl/player/_/id/4352747,Centers
+San Jose Sharks,sj,Barclay Goodrow,C,32,"6' 2""",209 lbs,L,"Toronto, CAN",02/26/93,Roster,,https://www.espn.com/nhl/player/_/id/3069411,Centers
+San Jose Sharks,sj,Noah Gregor,C,26,"6' 0""",201 lbs,L,"Beaumont, CAN",07/28/98,Roster,,https://www.espn.com/nhl/player/_/id/4063460,Centers
+San Jose Sharks,sj,Klim Kostin,C,26,"6' 4""",232 lbs,L,"Penza, RUS",05/05/99,Roster,,https://www.espn.com/nhl/player/_/id/4233738,Centers
+San Jose Sharks,sj,Cam Lund,C,21,"6' 2""",195 lbs,R,"Bridgewater, MA",06/07/04,Roster,,https://www.espn.com/nhl/player/_/id/5080203,Centers
+San Jose Sharks,sj,Will Smith,C,20,"6' 0""",181 lbs,R,"Lexington, MA",03/17/05,Roster,,https://www.espn.com/nhl/player/_/id/5149155,Centers
+San Jose Sharks,sj,Tyler Toffoli,C,33,"6' 0""",203 lbs,R,"Scarborough, CAN",04/24/92,Roster,,https://www.espn.com/nhl/player/_/id/5550,Centers
+San Jose Sharks,sj,Alexander Wennberg,C,30,"6' 2""",190 lbs,L,"Stockholm, SWE",09/22/94,Roster,,https://www.espn.com/nhl/player/_/id/3042017,Centers
+San Jose Sharks,sj,Egor Afanasyev,LW,24,"6' 3""",204 lbs,L,"Tver, USSR",01/23/01,Roster,,https://www.espn.com/nhl/player/_/id/4565268,Left Wings
+San Jose Sharks,sj,William Eklund,LW,22,"5' 11""",181 lbs,L,"Stockholm, SWE",10/12/02,Roster,,https://www.espn.com/nhl/player/_/id/4874721,Left Wings
+San Jose Sharks,sj,Carl Grundstrom,RW,27,"6' 0""",200 lbs,L,"Umea, SWE",12/01/97,Roster,,https://www.espn.com/nhl/player/_/id/4271565,Right Wings
+San Jose Sharks,sj,Nikolai Kovalenko,RW,25,"5' 10""",180 lbs,L,"Raleigh, NC",10/17/99,Roster,,https://www.espn.com/nhl/player/_/id/4588147,Right Wings
+San Jose Sharks,sj,Vincent Desharnais,D,29,"6' 7""",226 lbs,R,"Laval, CAN",05/29/96,Roster,,https://www.espn.com/nhl/player/_/id/4392260,Defense
+San Jose Sharks,sj,Mario Ferraro,D,26,"6' 0""",209 lbs,L,"Toronto, CAN",09/17/98,Roster,,https://www.espn.com/nhl/player/_/id/4233884,Defense
+San Jose Sharks,sj,Timothy Liljegren,D,26,"6' 1""",201 lbs,R,"Kristianstad, SWE",04/30/99,Roster,,https://www.espn.com/nhl/player/_/id/4233618,Defense
+San Jose Sharks,sj,Shakir Mukhamadullin,D,23,"6' 4""",200 lbs,L,"Ufa, RUS",01/10/02,Roster,,https://www.espn.com/nhl/player/_/id/4697403,Defense
+San Jose Sharks,sj,Jan Rutta,D,34,"6' 3""",204 lbs,R,"Pisek, Czechoslovakia",07/29/90,Roster,,https://www.espn.com/nhl/player/_/id/4230583,Defense
+San Jose Sharks,sj,Henry Thrun,D,24,"6' 2""",210 lbs,L,"Southborough, MA",03/12/01,Roster,,https://www.espn.com/nhl/player/_/id/4997138,Defense
+San Jose Sharks,sj,Marc-Edouard Vlasic,D,38,"6' 1""",205 lbs,L,"Montreal, CAN",03/30/87,Roster,,https://www.espn.com/nhl/player/_/id/3371,Defense
+San Jose Sharks,sj,Alexandar Georgiev,G,29,"6' 1""",178 lbs,L,"Ruse, BUL",02/10/96,Roster,,https://www.espn.com/nhl/player/_/id/4239677,Goalies
+San Jose Sharks,sj,Georgi Romanov,G,25,"6' 5""",207 lbs,L,"Yekaterinburg, USSR",12/15/99,Roster,,https://www.espn.com/nhl/player/_/id/5144058,Goalies
+Seattle Kraken,sea,Matty Beniers,C,22,"6' 2""",181 lbs,L,"Hingham, MA",11/05/02,Roster,,https://www.espn.com/nhl/player/_/id/4781552,Centers
+Seattle Kraken,sea,Michael Eyssimont,C,28,"6' 0""",191 lbs,L,"Littleton, CO",09/09/96,Roster,,https://www.espn.com/nhl/player/_/id/4270247,Centers
+Seattle Kraken,sea,John Hayden,C,30,"6' 3""",223 lbs,R,"Chicago, IL",02/14/95,Roster,,https://www.espn.com/nhl/player/_/id/3042080,Centers
+Seattle Kraken,sea,Jaden Schwartz,C,32,"5' 10""",185 lbs,L,"Wilcox, CAN",06/25/92,Roster,,https://www.espn.com/nhl/player/_/id/5835,Centers
+Seattle Kraken,sea,Chandler Stephenson,C,31,"6' 0""",201 lbs,L,"Saskatoon, CAN",04/22/94,Roster,,https://www.espn.com/nhl/player/_/id/3067858,Centers
+Seattle Kraken,sea,Ryan Winterton,C,21,"6' 2""",175 lbs,R,--,09/04/03,Roster,,https://www.espn.com/nhl/player/_/id/4894928,Centers
+Seattle Kraken,sea,Shane Wright,C,21,"6' 0""",192 lbs,R,"Burlington, CAN",01/05/04,Roster,,https://www.espn.com/nhl/player/_/id/5080144,Centers
+Seattle Kraken,sea,Andre Burakovsky,LW,30,"6' 3""",203 lbs,L,"Klagenfurt, AUT",02/09/95,Roster,,https://www.espn.com/nhl/player/_/id/3042044,Left Wings
+Seattle Kraken,sea,Tye Kartye,LW,24,"5' 11""",202 lbs,R,"Kingston, CAN",04/30/01,Roster,,https://www.espn.com/nhl/player/_/id/4588750,Left Wings
+Seattle Kraken,sea,Mason Marchment,LW,30,"6' 5""",212 lbs,L,"Uxbridge, CAN",06/18/95,Roster,,https://www.espn.com/nhl/player/_/id/4272192,Left Wings
+Seattle Kraken,sea,Jared McCann,LW,29,"6' 1""",191 lbs,L,"Stratford, CAN",05/31/96,Roster,,https://www.espn.com/nhl/player/_/id/3114777,Left Wings
+Seattle Kraken,sea,Jordan Eberle,RW,35,"5' 11""",180 lbs,R,"Regina, CAN",05/15/90,Roster,,https://www.espn.com/nhl/player/_/id/5032,Right Wings
+Seattle Kraken,sea,Kaapo Kakko,RW,24,"6' 1""",215 lbs,L,"Turku, FIN",02/13/01,Roster,,https://www.espn.com/nhl/player/_/id/4565223,Right Wings
+Seattle Kraken,sea,Jani Nyman,RW,20,"6' 2""",212 lbs,L,"Tampere, FIN",07/30/04,Roster,,https://www.espn.com/nhl/player/_/id/5080217,Right Wings
+Seattle Kraken,sea,Eeli Tolvanen,RW,26,"5' 10""",182 lbs,L,"Vihti, FIN",04/22/99,Roster,,https://www.espn.com/nhl/player/_/id/4233720,Right Wings
+Seattle Kraken,sea,Vince Dunn,D,28,"6' 0""",200 lbs,L,"Mississauga, CAN",10/29/96,Roster,,https://www.espn.com/nhl/player/_/id/3904189,Defense
+Seattle Kraken,sea,Ryker Evans,D,23,"6' 11""",195 lbs,L,"Calgary, CAN",12/13/01,Roster,,https://www.espn.com/nhl/player/_/id/4874864,Defense
+Seattle Kraken,sea,Adam Larsson,D,32,"6' 3""",207 lbs,R,"Skelleftea, SWE",11/12/92,Roster,,https://www.espn.com/nhl/player/_/id/2562610,Defense
+Seattle Kraken,sea,Joshua Mahura,D,27,"6' 0""",193 lbs,L,"St. Albert, CAN",05/05/98,Roster,,https://www.espn.com/nhl/player/_/id/4063504,Defense
+Seattle Kraken,sea,Brandon Montour,D,31,"6' 0""",199 lbs,R,"Brantford, CAN",04/11/94,Roster,,https://www.espn.com/nhl/player/_/id/3115032,Defense
+Seattle Kraken,sea,Jamie Oleksiak,D,32,"6' 7""",252 lbs,L,"Toronto, CAN",12/21/92,Roster,,https://www.espn.com/nhl/player/_/id/2562625,Defense
+Seattle Kraken,sea,Joey Daccord,G,28,"6' 2""",201 lbs,L,"Boston, MA",08/19/96,Roster,,https://www.espn.com/nhl/player/_/id/3942073,Goalies
+Seattle Kraken,sea,Philipp Grubauer,G,33,"6' 1""",188 lbs,L,"Rosenheim, GER",11/25/91,Roster,,https://www.espn.com/nhl/player/_/id/5657,Goalies
+St. Louis Blues,stl,Nikita Alexandrov,C,24,"6' 1""",177 lbs,L,"Hanover, GER",09/16/00,Roster,,https://www.espn.com/nhl/player/_/id/4565284,Centers
+St. Louis Blues,stl,Zack Bolduc,C,22,"6' 0""",187 lbs,L,"Trois-Rivieres, CAN",02/24/03,Roster,,https://www.espn.com/nhl/player/_/id/4874734,Centers
+St. Louis Blues,stl,Radek Faksa,C,31,"6' 3""",215 lbs,L,"Vitkov, CZE",01/09/94,Roster,,https://www.espn.com/nhl/player/_/id/2976842,Centers
+St. Louis Blues,stl,Dylan Holloway,C,23,"6' 1""",206 lbs,L,"Calgary, CAN",09/23/01,Roster,,https://www.espn.com/nhl/player/_/id/4697397,Centers
+St. Louis Blues,stl,Jordan Kyrou,C,27,"6' 1""",196 lbs,R,"Toronto, CAN",05/05/98,Roster,,https://www.espn.com/nhl/player/_/id/4062251,Centers
+St. Louis Blues,stl,Brayden Schenn,C,33,"6' 1""",199 lbs,L,"Saskatoon, CAN",08/22/91,Roster,,https://www.espn.com/nhl/player/_/id/5219,Centers
+St. Louis Blues,stl,Oskar Sundqvist,C,31,"6' 3""",220 lbs,R,"Boden, SWE",03/23/94,Roster,,https://www.espn.com/nhl/player/_/id/3069277,Centers
+St. Louis Blues,stl,Alexandre Texier,C,25,"6' 1""",201 lbs,L,"Saint-Martin-d'Heres, FRA",09/13/99,Roster,,https://www.espn.com/nhl/player/_/id/4233880,Centers
+St. Louis Blues,stl,Robert Thomas,C,25,"6' 0""",207 lbs,R,"Aurora, CAN",07/02/99,Roster,,https://www.espn.com/nhl/player/_/id/4233637,Centers
+St. Louis Blues,stl,Pavel Buchnevich,LW,30,"6' 1""",196 lbs,L,"Cherepovets, RUS",04/17/95,Roster,,https://www.espn.com/nhl/player/_/id/3042081,Left Wings
+St. Louis Blues,stl,Jake Neighbours,LW,23,"6' 0""",201 lbs,L,"Airdrie, CAN",03/29/02,Roster,,https://www.espn.com/nhl/player/_/id/4697409,Left Wings
+St. Louis Blues,stl,Nathan Walker,LW,31,"5' 9""",187 lbs,L,"Cardiff, WAL",02/07/94,Roster,,https://www.espn.com/nhl/player/_/id/3067860,Left Wings
+St. Louis Blues,stl,Mathieu Joseph,RW,28,"6' 1""",186 lbs,R,"Laval, CAN",02/09/97,Roster,,https://www.espn.com/nhl/player/_/id/3941965,Right Wings
+St. Louis Blues,stl,Jimmy Snuggerud,RW,21,"6' 1""",186 lbs,R,"Chaska, MN",06/01/04,Roster,,https://www.espn.com/nhl/player/_/id/5080171,Right Wings
+St. Louis Blues,stl,Alexey Toropchenko,RW,25,"6' 6""",222 lbs,L,"Moscow, RUS",06/25/99,Roster,,https://www.espn.com/nhl/player/_/id/4392454,Right Wings
+St. Louis Blues,stl,Philip Broberg,D,23,"6' 4""",212 lbs,L,"Orebro, SWE",06/25/01,Roster,,https://www.espn.com/nhl/player/_/id/4565229,Defense
+St. Louis Blues,stl,Justin Faulk,D,33,"6' 0""",214 lbs,R,"South Saint Paul, MN",03/20/92,Roster,,https://www.espn.com/nhl/player/_/id/5746,Defense
+St. Louis Blues,stl,Cam Fowler,D,33,"6' 2""",210 lbs,L,"Windsor, CAN",12/05/91,Roster,,https://www.espn.com/nhl/player/_/id/5495,Defense
+St. Louis Blues,stl,Matthew Kessel,D,24,"6' 2""",205 lbs,R,"Phoenix, AZ",06/23/00,Roster,,https://www.espn.com/nhl/player/_/id/4697719,Defense
+St. Louis Blues,stl,Nick Leddy,D,34,"6' 0""",205 lbs,L,"Eden Prairie, MN",03/20/91,Roster,,https://www.espn.com/nhl/player/_/id/5447,Defense
+St. Louis Blues,stl,Colton Parayko,D,32,"6' 6""",228 lbs,R,"St. Albert, CAN",05/12/93,Roster,,https://www.espn.com/nhl/player/_/id/3069341,Defense
+St. Louis Blues,stl,Corey Schueneman,D,29,"5' 11""",197 lbs,L,"Brighton, MI",09/02/95,Roster,,https://www.espn.com/nhl/player/_/id/4196930,Defense
+St. Louis Blues,stl,Ryan Suter,D,40,"6' 1""",201 lbs,L,"Madison, WI",01/21/85,Roster,,https://www.espn.com/nhl/player/_/id/3047,Defense
+St. Louis Blues,stl,Tyler Tucker,D,25,"6' 1""",204 lbs,L,"Thunder Bay, CAN",03/01/00,Roster,,https://www.espn.com/nhl/player/_/id/4587904,Defense
+St. Louis Blues,stl,Jordan Binnington,G,31,"6' 2""",172 lbs,L,"Richmond Hill, CAN",07/11/93,Roster,,https://www.espn.com/nhl/player/_/id/2590874,Goalies
+St. Louis Blues,stl,Colten Ellis,G,24,"6' 1""",185 lbs,L,"Port Hood, CAN",10/05/00,Roster,,https://www.espn.com/nhl/player/_/id/4736758,Goalies
+St. Louis Blues,stl,Joel Hofer,G,24,"6' 5""",179 lbs,L,"Winnipeg, CAN",07/30/00,Roster,,https://www.espn.com/nhl/player/_/id/4587909,Goalies
+Tampa Bay Lightning,tb,Anthony Cirelli,C,27,"6' 1""",191 lbs,L,"Etobicoke, CAN",07/15/97,Roster,,https://www.espn.com/nhl/player/_/id/3941973,Centers
+Tampa Bay Lightning,tb,Zemgus Girgensons,C,31,"6' 3""",192 lbs,L,"Riga, LAT",01/05/94,Roster,,https://www.espn.com/nhl/player/_/id/2968829,Centers
+Tampa Bay Lightning,tb,Luke Glendening,C,36,"5' 11""",190 lbs,R,"Grand Rapids, MI",04/28/89,Roster,,https://www.espn.com/nhl/player/_/id/2335062,Centers
+Tampa Bay Lightning,tb,Gage Goncalves,C,24,"6' 1""",184 lbs,L,"Mission, CAN",01/16/01,Roster,,https://www.espn.com/nhl/player/_/id/4697470,Centers
+Tampa Bay Lightning,tb,Yanni Gourde,C,33,"5' 9""",174 lbs,L,"St-Narcisse, CAN",12/15/91,Roster,,https://www.espn.com/nhl/player/_/id/3094261,Centers
+Tampa Bay Lightning,tb,Jake Guentzel,C,30,"5' 11""",178 lbs,L,"Omaha, NE",10/06/94,Roster,,https://www.espn.com/nhl/player/_/id/3042083,Centers
+Tampa Bay Lightning,tb,Brayden Point,C,29,"5' 11""",175 lbs,R,"Calgary, CAN",03/13/96,Roster,,https://www.espn.com/nhl/player/_/id/3151187,Centers
+Tampa Bay Lightning,tb,Brandon Hagel,LW,26,"6' 2""",180 lbs,L,"Saskatoon, CAN",08/27/98,Roster,,https://www.espn.com/nhl/player/_/id/4065019,Left Wings
+Tampa Bay Lightning,tb,Nick Paul,LW,30,"6' 4""",230 lbs,L,"Mississauga, CAN",03/20/95,Roster,,https://www.espn.com/nhl/player/_/id/3042111,Left Wings
+Tampa Bay Lightning,tb,Cam Atkinson,RW,36,"5' 8""",178 lbs,R,"Riverside, CT",06/05/89,Roster,,https://www.espn.com/nhl/player/_/id/2501107,Right Wings
+Tampa Bay Lightning,tb,Oliver Bjorkstrand,RW,30,"6' 0""",175 lbs,R,"Herning, DEN",04/10/95,Roster,,https://www.espn.com/nhl/player/_/id/3042095,Right Wings
+Tampa Bay Lightning,tb,Mitchell Chaffee,RW,27,"6' 1""",204 lbs,R,"Grand Rapids, MI",01/26/98,Roster,,https://www.espn.com/nhl/player/_/id/4419646,Right Wings
+Tampa Bay Lightning,tb,Nikita Kucherov,RW,32,"6' 0""",180 lbs,R,"Maikop, RUS",06/17/93,Roster,,https://www.espn.com/nhl/player/_/id/2563060,Right Wings
+Tampa Bay Lightning,tb,Erik Cernak,D,28,"6' 4""",230 lbs,R,"Kosice, SVK",05/28/97,Roster,,https://www.espn.com/nhl/player/_/id/3904178,Defense
+Tampa Bay Lightning,tb,Maxwell Crozier,D,25,"6' 1""",197 lbs,R,"Calgary, CAN",04/19/00,Roster,,https://www.espn.com/nhl/player/_/id/5104716,Defense
+Tampa Bay Lightning,tb,Victor Hedman,D,34,"6' 7""",245 lbs,L,"Ornskoldsvik, SWE",12/18/90,Roster,,https://www.espn.com/nhl/player/_/id/5157,Defense
+Tampa Bay Lightning,tb,Emil Lilleberg,D,24,"6' 3""",208 lbs,L,"Sarpsborg, NOR",02/02/01,Roster,,https://www.espn.com/nhl/player/_/id/5146599,Defense
+Tampa Bay Lightning,tb,Ryan McDonagh,D,36,"6' 2""",219 lbs,L,"Saint Paul, MN",06/13/89,Roster,,https://www.espn.com/nhl/player/_/id/4954,Defense
+Tampa Bay Lightning,tb,J.J. Moser,D,25,"6' 2""",181 lbs,L,"Biel, SUI",06/06/00,Roster,,https://www.espn.com/nhl/player/_/id/4874929,Defense
+Tampa Bay Lightning,tb,Nick Perbix,D,27,"6' 4""",206 lbs,R,"Minneapolis, MN",06/15/98,Roster,,https://www.espn.com/nhl/player/_/id/4419638,Defense
+Tampa Bay Lightning,tb,Darren Raddysh,D,29,"6' 1""",202 lbs,R,"Toronto, CAN",02/28/96,Roster,,https://www.espn.com/nhl/player/_/id/3149843,Defense
+Tampa Bay Lightning,tb,Steven Santini,D,30,"6' 2""",207 lbs,R,"Bronxville, NY",03/07/95,Roster,,https://www.espn.com/nhl/player/_/id/3042015,Defense
+Tampa Bay Lightning,tb,Jonas Johansson,G,29,"6' 5""",218 lbs,L,"Gavle, SWE",09/19/95,Roster,,https://www.espn.com/nhl/player/_/id/3115546,Goalies
+Tampa Bay Lightning,tb,Andrei Vasilevskiy,G,30,"6' 4""",228 lbs,L,"Tyumen, RUS",07/25/94,Roster,,https://www.espn.com/nhl/player/_/id/2976847,Goalies
+Toronto Maple Leafs,tor,Nick Abruzzese,C,26,"5' 10""",174 lbs,L,"Slate Hill, NY",06/04/99,Roster,,https://www.espn.com/nhl/player/_/id/4588746,Centers
+Toronto Maple Leafs,tor,Max Domi,C,30,"5' 10""",209 lbs,L,"Winnipeg, CAN",03/02/95,Roster,,https://www.espn.com/nhl/player/_/id/3042014,Centers
+Toronto Maple Leafs,tor,Roni Hirvonen,C,23,"5' 9""",164 lbs,L,"Espoo, FIN",01/10/02,Roster,,https://www.espn.com/nhl/player/_/id/4697462,Centers
+Toronto Maple Leafs,tor,Calle Jarnkrok,C,33,"6' 0""",191 lbs,R,"Gavle, SWE",09/25/91,Roster,,https://www.espn.com/nhl/player/_/id/2555316,Centers
+Toronto Maple Leafs,tor,Reese Johnson,C,26,"6' 1""",193 lbs,R,"Saskatoon, CAN",07/10/98,Roster,,https://www.espn.com/nhl/player/_/id/4586824,Centers
+Toronto Maple Leafs,tor,David Kampf,C,30,"6' 2""",193 lbs,L,"Chomutov, CZE",01/12/95,Roster,,https://www.espn.com/nhl/player/_/id/4267976,Centers
+Toronto Maple Leafs,tor,Scott Laughton,C,31,"6' 1""",191 lbs,L,"Oakville, CAN",05/30/94,Roster,,https://www.espn.com/nhl/player/_/id/2976848,Centers
+Toronto Maple Leafs,tor,Steven Lorentz,C,29,"6' 4""",216 lbs,L,"Waterloo, CAN",04/13/96,Roster,,https://www.espn.com/nhl/player/_/id/3939658,Centers
+Toronto Maple Leafs,tor,Auston Matthews,C,27,"6' 3""",217 lbs,L,"San Ramon, CA",09/17/97,Roster,,https://www.espn.com/nhl/player/_/id/4024123,Centers
+Toronto Maple Leafs,tor,Bobby McMann,C,29,"6' 2""",215 lbs,L,"Wainwright, CAN",06/15/96,Roster,,https://www.espn.com/nhl/player/_/id/5048894,Centers
+Toronto Maple Leafs,tor,Jacob Quillan,C,23,"6' 0""",200 lbs,L,"Dartmouth, CAN",02/02/02,Roster,,https://www.espn.com/nhl/player/_/id/4997056,Centers
+Toronto Maple Leafs,tor,Alex Steeves,C,25,"5' 11""",187 lbs,L,"Eden Prairie, MN",12/10/99,Roster,,https://www.espn.com/nhl/player/_/id/4419815,Centers
+Toronto Maple Leafs,tor,John Tavares,C,34,"6' 1""",211 lbs,L,"Mississauga, CAN",09/20/90,Roster,,https://www.espn.com/nhl/player/_/id/5160,Centers
+Toronto Maple Leafs,tor,Matthew Knies,LW,22,"6' 3""",227 lbs,L,"Phoenix, AZ",10/17/02,Roster,,https://www.espn.com/nhl/player/_/id/4874919,Left Wings
+Toronto Maple Leafs,tor,Alexander Nylander,LW,27,"6' 1""",205 lbs,R,"Calgary, CAN",03/02/98,Roster,,https://www.espn.com/nhl/player/_/id/4024861,Left Wings
+Toronto Maple Leafs,tor,Max Pacioretty,LW,36,"6' 2""",217 lbs,L,"New Canaan, CT",11/20/88,Roster,,https://www.espn.com/nhl/player/_/id/4005,Left Wings
+Toronto Maple Leafs,tor,Nicholas Robertson,LW,23,"5' 9""",178 lbs,L,"Arcadia, CA",09/11/01,Roster,,https://www.espn.com/nhl/player/_/id/4565275,Left Wings
+Toronto Maple Leafs,tor,Pontus Holmberg,RW,26,"6' 0""",201 lbs,L,"Vasteras, SWE",03/09/99,Roster,,https://www.espn.com/nhl/player/_/id/4588205,Right Wings
+Toronto Maple Leafs,tor,Mitch Marner,RW,28,"6' 0""",180 lbs,R,"Markham, CAN",05/05/97,Roster,,https://www.espn.com/nhl/player/_/id/3899937,Right Wings
+Toronto Maple Leafs,tor,William Nylander,RW,29,"6' 0""",202 lbs,R,"Calgary, CAN",05/01/96,Roster,,https://www.espn.com/nhl/player/_/id/3114736,Right Wings
+Toronto Maple Leafs,tor,Ryan Reaves,RW,38,"6' 2""",225 lbs,R,"Winnipeg, CAN",01/20/87,Roster,,https://www.espn.com/nhl/player/_/id/3683,Right Wings
+Toronto Maple Leafs,tor,Matt Benning,D,31,"6' 1""",203 lbs,R,"Edmonton, CAN",05/25/94,Roster,,https://www.espn.com/nhl/player/_/id/3069449,Defense
+Toronto Maple Leafs,tor,Simon Benoit,D,26,"6' 4""",211 lbs,L,"Laval, CAN",09/19/98,Roster,,https://www.espn.com/nhl/player/_/id/4392642,Defense
+Toronto Maple Leafs,tor,Brandon Carlo,D,28,"6' 5""",220 lbs,R,"Colorado Springs, CO",11/26/96,Roster,,https://www.espn.com/nhl/player/_/id/3904175,Defense
+Toronto Maple Leafs,tor,Oliver Ekman-Larsson,D,33,"6' 2""",192 lbs,L,"Karlskrona, SWE",07/17/91,Roster,,https://www.espn.com/nhl/player/_/id/5488,Defense
+Toronto Maple Leafs,tor,Jani Hakanpaa,D,33,"6' 7""",225 lbs,R,"Kirkkonummi, FIN",03/31/92,Roster,,https://www.espn.com/nhl/player/_/id/2960288,Defense
+Toronto Maple Leafs,tor,Mikko Kokkonen,D,24,"6' 0""",200 lbs,L,"Mikkeli, FIN",01/18/01,Roster,,https://www.espn.com/nhl/player/_/id/4588751,Defense
+Toronto Maple Leafs,tor,Jake McCabe,D,31,"6' 1""",212 lbs,L,"Eau Claire, WI",10/12/93,Roster,,https://www.espn.com/nhl/player/_/id/3020803,Defense
+Toronto Maple Leafs,tor,Dakota Mermis,D,31,"6' 0""",195 lbs,L,"Alton, IL",01/05/94,Roster,,https://www.espn.com/nhl/player/_/id/3069273,Defense
+Toronto Maple Leafs,tor,Philippe Myers,D,28,"6' 5""",219 lbs,R,"Moncton, CAN",01/25/97,Roster,,https://www.espn.com/nhl/player/_/id/3941140,Defense
+Toronto Maple Leafs,tor,Topi Niemela,D,23,"5' 11""",156 lbs,R,"Asikkala, FIN",03/25/02,Roster,,https://www.espn.com/nhl/player/_/id/5067878,Defense
+Toronto Maple Leafs,tor,Morgan Rielly,D,31,"6' 1""",225 lbs,L,"Vancouver, CAN",03/09/94,Roster,,https://www.espn.com/nhl/player/_/id/2976833,Defense
+Toronto Maple Leafs,tor,Marshall Rifai,D,27,"6' 2""",213 lbs,L,"Beaconsfield, CAN",03/16/98,Roster,,https://www.espn.com/nhl/player/_/id/4419778,Defense
+Toronto Maple Leafs,tor,Chris Tanev,D,35,"6' 3""",199 lbs,R,"Toronto, CAN",12/20/89,Roster,,https://www.espn.com/nhl/player/_/id/5592,Defense
+Toronto Maple Leafs,tor,William Villeneuve,D,23,"6' 2""",183 lbs,R,"Sherbrooke, CAN",03/20/02,Roster,,https://www.espn.com/nhl/player/_/id/4697767,Defense
+Toronto Maple Leafs,tor,Cade Webber,D,24,"6' 7""",216 lbs,L,"Meadville, PA",01/05/01,Roster,,https://www.espn.com/nhl/player/_/id/4781709,Defense
+Toronto Maple Leafs,tor,Artur Akhtyamov,G,23,"6' 1""",167 lbs,L,"Kazan, RUS",10/31/01,Roster,,https://www.espn.com/nhl/player/_/id/4697577,Goalies
+Toronto Maple Leafs,tor,Dennis Hildeby,G,23,"6' 7""",222 lbs,R,"Jarfalla, SWE",08/19/01,Roster,,https://www.espn.com/nhl/player/_/id/5174160,Goalies
+Toronto Maple Leafs,tor,Matt Murray,G,31,"6' 4""",178 lbs,L,"Thunder Bay, CAN",05/25/94,Roster,,https://www.espn.com/nhl/player/_/id/3067862,Goalies
+Toronto Maple Leafs,tor,Anthony Stolarz,G,31,"6' 6""",243 lbs,L,"Edison, NJ",01/20/94,Roster,,https://www.espn.com/nhl/player/_/id/3067313,Goalies
+Toronto Maple Leafs,tor,Joseph Woll,G,26,"6' 3""",206 lbs,L,"St. Louis, MO",07/12/98,Roster,,https://www.espn.com/nhl/player/_/id/4271575,Goalies
+Vancouver Canucks,van,Nils Aman,C,25,"6' 2""",179 lbs,L,"Avesta, SWE",02/07/00,Roster,,https://www.espn.com/nhl/player/_/id/4697579,Centers
+Vancouver Canucks,van,Teddy Blueger,C,30,"6' 0""",185 lbs,L,"Riga, LAT",08/15/94,Roster,,https://www.espn.com/nhl/player/_/id/3024916,Centers
+Vancouver Canucks,van,Filip Chytil,C,25,"6' 2""",210 lbs,L,"Kromerlz, CZE",09/05/99,Roster,,https://www.espn.com/nhl/player/_/id/4233643,Centers
+Vancouver Canucks,van,Dakota Joshua,C,29,"6' 3""",206 lbs,L,"Dearborn, MI",05/15/96,Roster,,https://www.espn.com/nhl/player/_/id/4588638,Centers
+Vancouver Canucks,van,Elias Pettersson,C,26,"6' 2""",176 lbs,L,"Sundsvall, SWE",11/12/98,Roster,,https://www.espn.com/nhl/player/_/id/4233566,Centers
+Vancouver Canucks,van,Pius Suter,C,29,"5' 11""",179 lbs,L,"Zurich, SUI",05/24/96,Roster,,https://www.espn.com/nhl/player/_/id/4271732,Centers
+Vancouver Canucks,van,Jake DeBrusk,LW,28,"6' 1""",198 lbs,L,"Edmonton, CAN",10/17/96,Roster,,https://www.espn.com/nhl/player/_/id/3900240,Left Wings
+Vancouver Canucks,van,Nils Hoglander,LW,24,"5' 9""",185 lbs,L,"Lulea, SWE",12/20/00,Roster,,https://www.espn.com/nhl/player/_/id/4565263,Left Wings
+Vancouver Canucks,van,Drew O'Connor,LW,27,"6' 4""",209 lbs,L,"Chatham, NJ",06/09/98,Roster,,https://www.espn.com/nhl/player/_/id/4712146,Left Wings
+Vancouver Canucks,van,Kiefer Sherwood,LW,30,"6' 0""",194 lbs,R,"Columbus, OH",03/31/95,Roster,,https://www.espn.com/nhl/player/_/id/4391255,Left Wings
+Vancouver Canucks,van,Brock Boeser,RW,28,"6' 1""",208 lbs,R,"Burnsville, MN",02/25/97,Roster,,https://www.espn.com/nhl/player/_/id/3899979,Right Wings
+Vancouver Canucks,van,Conor Garland,RW,29,"5' 10""",165 lbs,R,"Scituate, MA",03/11/96,Roster,,https://www.espn.com/nhl/player/_/id/3939718,Right Wings
+Vancouver Canucks,van,Derek Forbort,D,33,"6' 4""",216 lbs,L,"Duluth, MN",03/04/92,Roster,,https://www.espn.com/nhl/player/_/id/5829,Defense
+Vancouver Canucks,van,Filip Hronek,D,27,"6' 0""",190 lbs,R,"Hradec Kralove, CZE",11/02/97,Roster,,https://www.espn.com/nhl/player/_/id/4063607,Defense
+Vancouver Canucks,van,Quinn Hughes,D,25,"5' 10""",180 lbs,L,"Orlando, FL",10/14/99,Roster,,https://www.espn.com/nhl/player/_/id/4320548,Defense
+Vancouver Canucks,van,Noah Juulsen,D,28,"6' 2""",201 lbs,R,"Abbotsford, CAN",04/02/97,Roster,,https://www.espn.com/nhl/player/_/id/3900504,Defense
+Vancouver Canucks,van,Tyler Myers,D,35,"6' 8""",229 lbs,R,"Houston, TX",02/01/90,Roster,,https://www.espn.com/nhl/player/_/id/5052,Defense
+Vancouver Canucks,van,Elias N. Pettersson,D,21,"6' 2""",185 lbs,L,"Vasteras, SWE",02/16/04,Roster,,https://www.espn.com/nhl/player/_/id/5238086,Defense
+Vancouver Canucks,van,Marcus Pettersson,D,29,"6' 5""",174 lbs,L,"Skelleftea, SWE",05/08/96,Roster,,https://www.espn.com/nhl/player/_/id/3114995,Defense
+Vancouver Canucks,van,Thatcher Demko,G,29,"6' 4""",192 lbs,L,"San Diego, CA",12/08/95,Roster,,https://www.espn.com/nhl/player/_/id/3096217,Goalies
+Vancouver Canucks,van,Kevin Lankinen,G,30,"6' 2""",190 lbs,L,"Helsinki, FIN",04/28/95,Roster,,https://www.espn.com/nhl/player/_/id/4341584,Goalies
+Vegas Golden Knights,vgk,Ivan Barbashev,C,29,"6' 0""",203 lbs,L,"Moscow, RUS",12/14/95,Roster,,https://www.espn.com/nhl/player/_/id/3114985,Centers
+Vegas Golden Knights,vgk,Callahan Burke,C,28,"5' 10""",185 lbs,R,"Boxborough, MA",03/19/97,Roster,,https://www.espn.com/nhl/player/_/id/4197114,Centers
+Vegas Golden Knights,vgk,Jack Eichel,C,28,"6' 2""",206 lbs,R,"North Chelmsford, MA",10/28/96,Roster,,https://www.espn.com/nhl/player/_/id/3648002,Centers
+Vegas Golden Knights,vgk,Tomas Hertl,C,31,"6' 3""",220 lbs,L,"Prague, CZE",11/12/93,Roster,,https://www.espn.com/nhl/player/_/id/2976844,Centers
+Vegas Golden Knights,vgk,Brett Howden,C,27,"6' 2""",201 lbs,L,"Calgary, CAN",03/29/98,Roster,,https://www.espn.com/nhl/player/_/id/4024989,Centers
+Vegas Golden Knights,vgk,William Karlsson,C,32,"6' 0""",190 lbs,L,"Stockholm, SWE",01/08/93,Roster,,https://www.espn.com/nhl/player/_/id/2563057,Centers
+Vegas Golden Knights,vgk,Tanner Laczynski,C,28,"6' 1""",190 lbs,R,"Minooka, IL",06/01/97,Roster,,https://www.espn.com/nhl/player/_/id/4392137,Centers
+Vegas Golden Knights,vgk,Raphael Lavoie,C,24,"6' 4""",215 lbs,R,"Chambly, CAN",09/25/00,Roster,,https://www.espn.com/nhl/player/_/id/4565261,Centers
+Vegas Golden Knights,vgk,Nicolas Roy,C,28,"6' 4""",201 lbs,R,"Amos, CAN",02/05/97,Roster,,https://www.espn.com/nhl/player/_/id/3943996,Centers
+Vegas Golden Knights,vgk,Matyas Sapovaliv,C,21,"6' 3""",183 lbs,L,"Kladno, Czechoslovakia",02/12/04,Roster,,https://www.espn.com/nhl/player/_/id/5080214,Centers
+Vegas Golden Knights,vgk,Pavel Dorofeyev,LW,24,"6' 1""",194 lbs,L,"Nizhny Tagil, RUS",10/26/00,Roster,,https://www.espn.com/nhl/player/_/id/4587588,Left Wings
+Vegas Golden Knights,vgk,Victor Olofsson,LW,29,"5' 11""",180 lbs,L,"Ornskoldsvik, SWE",07/18/95,Roster,,https://www.espn.com/nhl/player/_/id/3151096,Left Wings
+Vegas Golden Knights,vgk,Tanner Pearson,LW,32,"6' 1""",207 lbs,L,"Kitchener, CAN",08/10/92,Roster,,https://www.espn.com/nhl/player/_/id/2976860,Left Wings
+Vegas Golden Knights,vgk,Brandon Saad,LW,32,"6' 1""",215 lbs,L,"Pittsburgh, PA",10/27/92,Roster,,https://www.espn.com/nhl/player/_/id/2563065,Left Wings
+Vegas Golden Knights,vgk,Alexander Holtz,RW,23,"6' 0""",198 lbs,R,"Saltsjo-Boo, SWE",01/23/02,Roster,,https://www.espn.com/nhl/player/_/id/4697388,Right Wings
+Vegas Golden Knights,vgk,Keegan Kolesar,RW,28,"6' 2""",216 lbs,R,"Brandon, CAN",04/08/97,Roster,,https://www.espn.com/nhl/player/_/id/3941546,Right Wings
+Vegas Golden Knights,vgk,Jonas Rondbjerg,RW,26,"6' 2""",203 lbs,L,"Horsholm, DEN",03/31/99,Roster,,https://www.espn.com/nhl/player/_/id/4425678,Right Wings
+Vegas Golden Knights,vgk,Cole Schwindt,RW,24,"6' 2""",203 lbs,R,"Kitchener, CAN",04/25/01,Roster,,https://www.espn.com/nhl/player/_/id/4845286,Right Wings
+Vegas Golden Knights,vgk,Reilly Smith,RW,34,"6' 1""",185 lbs,L,"Toronto, CAN",04/01/91,Roster,,https://www.espn.com/nhl/player/_/id/2500990,Right Wings
+Vegas Golden Knights,vgk,Mark Stone,RW,33,"6' 3""",210 lbs,R,"Winnipeg, CAN",05/13/92,Roster,,https://www.espn.com/nhl/player/_/id/5545,Right Wings
+Vegas Golden Knights,vgk,Lukas Cormier,D,23,"5' 10""",180 lbs,L,"Moncton, CAN",03/27/02,Roster,,https://www.espn.com/nhl/player/_/id/4697678,Defense
+Vegas Golden Knights,vgk,Robert Hagg,D,30,"6' 2""",210 lbs,L,"Uppsala, SWE",02/08/95,Roster,,https://www.espn.com/nhl/player/_/id/3042013,Defense
+Vegas Golden Knights,vgk,Nicolas Hague,D,26,"6' 6""",245 lbs,L,"Kitchener, CAN",12/05/98,Roster,,https://www.espn.com/nhl/player/_/id/4233870,Defense
+Vegas Golden Knights,vgk,Noah Hanifin,D,28,"6' 3""",206 lbs,L,"Boston, MA",01/25/97,Roster,,https://www.espn.com/nhl/player/_/id/3652964,Defense
+Vegas Golden Knights,vgk,Ben Hutton,D,32,"6' 3""",209 lbs,L,"Brockville, CAN",04/20/93,Roster,,https://www.espn.com/nhl/player/_/id/3571762,Defense
+Vegas Golden Knights,vgk,Kaedan Korczak,D,24,"6' 3""",203 lbs,R,"Yorkton, CAN",01/29/01,Roster,,https://www.espn.com/nhl/player/_/id/4565264,Defense
+Vegas Golden Knights,vgk,Dysin Mayo,D,28,"6' 2""",183 lbs,R,"Victoria, CAN",08/17/96,Roster,,https://www.espn.com/nhl/player/_/id/3149621,Defense
+Vegas Golden Knights,vgk,Brayden McNabb,D,34,"6' 4""",215 lbs,L,"Davidson, CAN",01/21/91,Roster,,https://www.espn.com/nhl/player/_/id/5202,Defense
+Vegas Golden Knights,vgk,Alex Pietrangelo,D,35,"6' 3""",215 lbs,R,"King City, CAN",01/18/90,Roster,,https://www.espn.com/nhl/player/_/id/4013,Defense
+Vegas Golden Knights,vgk,Shea Theodore,D,29,"6' 2""",197 lbs,L,"Langley, CAN",08/03/95,Roster,,https://www.espn.com/nhl/player/_/id/3042055,Defense
+Vegas Golden Knights,vgk,Zach Whitecloud,D,28,"6' 2""",210 lbs,R,"Brandon, CAN",11/28/96,Roster,,https://www.espn.com/nhl/player/_/id/4312877,Defense
+Vegas Golden Knights,vgk,Adin Hill,G,29,"6' 4""",215 lbs,L,"Calgary, CAN",05/11/96,Roster,,https://www.espn.com/nhl/player/_/id/3939714,Goalies
+Vegas Golden Knights,vgk,Carl Lindbom,G,22,"6' 0""",165 lbs,L,"Stockholm, SWE",05/20/03,Roster,,https://www.espn.com/nhl/player/_/id/5188581,Goalies
+Vegas Golden Knights,vgk,Ilya Samsonov,G,28,"6' 3""",208 lbs,L,"Magnitogorsk, RUS",02/22/97,Roster,,https://www.espn.com/nhl/player/_/id/3900505,Goalies
+Vegas Golden Knights,vgk,Akira Schmid,G,25,"6' 5""",205 lbs,L,"Bern, SUI",05/12/00,Roster,,https://www.espn.com/nhl/player/_/id/4587845,Goalies
+Washington Capitals,wsh,Nicklas Backstrom,C,37,"6' 1""",202 lbs,L,"Gavle, SWE",11/23/87,Roster,,https://www.espn.com/nhl/player/_/id/3666,Centers
+Washington Capitals,wsh,Nic Dowd,C,35,"6' 2""",190 lbs,R,"Huntsville, AL",05/27/90,Roster,,https://www.espn.com/nhl/player/_/id/3025616,Centers
+Washington Capitals,wsh,Lars Eller,C,36,"6' 2""",208 lbs,L,"Rodovre, DEN",05/08/89,Roster,,https://www.espn.com/nhl/player/_/id/3946,Centers
+Washington Capitals,wsh,Ethen Frank,C,27,"5' 11""",188 lbs,R,"Papillion, NE",02/05/98,Roster,,https://www.espn.com/nhl/player/_/id/4996093,Centers
+Washington Capitals,wsh,Connor McMichael,C,24,"6' 0""",180 lbs,L,"Ajax, CAN",01/15/01,Roster,,https://www.espn.com/nhl/player/_/id/4565246,Centers
+Washington Capitals,wsh,Aliaksei Protas,C,24,"6' 6""",247 lbs,L,"Vitebsk, BLR",01/06/01,Roster,,https://www.espn.com/nhl/player/_/id/4587943,Centers
+Washington Capitals,wsh,Spencer Smallman,C,28,"6' 1""",184 lbs,R,"Summerside, CAN",09/09/96,Roster,,https://www.espn.com/nhl/player/_/id/3944000,Centers
+Washington Capitals,wsh,Dylan Strome,C,28,"6' 3""",196 lbs,L,"Mississauga, CAN",03/07/97,Roster,,https://www.espn.com/nhl/player/_/id/3899933,Centers
+Washington Capitals,wsh,Anthony Beauvillier,LW,28,"5' 11""",180 lbs,L,"Sorel, CAN",06/08/97,Roster,,https://www.espn.com/nhl/player/_/id/3904107,Left Wings
+Washington Capitals,wsh,Pierre-Luc Dubois,LW,26,"6' 4""",220 lbs,L,"Saint-Agathe-des-Monts, CAN",06/24/98,Roster,,https://www.espn.com/nhl/player/_/id/4024833,Left Wings
+Washington Capitals,wsh,Andrew Mangiapane,LW,29,"5' 10""",183 lbs,L,"Toronto, CAN",04/04/96,Roster,,https://www.espn.com/nhl/player/_/id/3149619,Left Wings
+Washington Capitals,wsh,Sonny Milano,LW,29,"6' 0""",194 lbs,L,"Massapequa, NY",05/12/96,Roster,,https://www.espn.com/nhl/player/_/id/3114756,Left Wings
+Washington Capitals,wsh,Alex Ovechkin,LW,39,"6' 3""",238 lbs,R,"Moscow, USSR",09/17/85,Roster,,https://www.espn.com/nhl/player/_/id/3101,Left Wings
+Washington Capitals,wsh,Brandon Duhaime,RW,28,"6' 2""",210 lbs,L,"Coral Springs, FL",05/22/97,Roster,,https://www.espn.com/nhl/player/_/id/4197009,Right Wings
+Washington Capitals,wsh,Ryan Leonard,RW,20,"6' 0""",200 lbs,R,"Amherst, MA",01/21/05,Roster,,https://www.espn.com/nhl/player/_/id/5149172,Right Wings
+Washington Capitals,wsh,Taylor Raddysh,RW,27,"6' 3""",200 lbs,R,"Caledon, CAN",02/18/98,Roster,,https://www.espn.com/nhl/player/_/id/4063502,Right Wings
+Washington Capitals,wsh,Tom Wilson,RW,31,"6' 4""",225 lbs,R,"Toronto, CAN",03/29/94,Roster,,https://www.espn.com/nhl/player/_/id/2970615,Right Wings
+Washington Capitals,wsh,Alexander Alexeyev,D,25,"6' 4""",229 lbs,L,"Saint Petersburg, RUS",11/15/99,Roster,,https://www.espn.com/nhl/player/_/id/4352805,Defense
+Washington Capitals,wsh,John Carlson,D,35,"6' 3""",220 lbs,R,"Natick, MA",01/10/90,Roster,,https://www.espn.com/nhl/player/_/id/5118,Defense
+Washington Capitals,wsh,Jakob Chychrun,D,27,"6' 2""",216 lbs,L,"Boca Raton, FL",03/31/98,Roster,,https://www.espn.com/nhl/player/_/id/4024950,Defense
+Washington Capitals,wsh,Martin Fehervary,D,25,"6' 2""",203 lbs,L,"Bratislava, SVK",10/06/99,Roster,,https://www.espn.com/nhl/player/_/id/4378677,Defense
+Washington Capitals,wsh,Dylan McIlrath,D,33,"6' 5""",240 lbs,R,"Winnipeg, CAN",04/20/92,Roster,,https://www.espn.com/nhl/player/_/id/2529256,Defense
+Washington Capitals,wsh,Matt Roy,D,30,"6' 2""",212 lbs,R,"Detroit, MI",03/01/95,Roster,,https://www.espn.com/nhl/player/_/id/3942924,Defense
+Washington Capitals,wsh,Rasmus Sandin,D,25,"5' 11""",189 lbs,L,"Uppsala, SWE",03/07/00,Roster,,https://www.espn.com/nhl/player/_/id/4352803,Defense
+Washington Capitals,wsh,Trevor van Riemsdyk,D,33,"6' 3""",197 lbs,R,"Middletown, NJ",07/24/91,Roster,,https://www.espn.com/nhl/player/_/id/3025524,Defense
+Washington Capitals,wsh,Garin Bjorklund,G,23,--,--,--,--,05/28/02,Roster,,https://www.espn.com/nhl/player/_/id/4894681,Goalies
+Washington Capitals,wsh,Charlie Lindgren,G,31,"6' 2""",190 lbs,R,"Lakeville, MN",12/18/93,Roster,,https://www.espn.com/nhl/player/_/id/3095975,Goalies
+Washington Capitals,wsh,Hunter Shepard,G,29,"6' 0""",210 lbs,R,"Cohasset, MN",11/07/95,Roster,,https://www.espn.com/nhl/player/_/id/4197165,Goalies
+Washington Capitals,wsh,Logan Thompson,G,28,"6' 4""",207 lbs,R,"Calgary, CAN",02/25/97,Roster,,https://www.espn.com/nhl/player/_/id/4272888,Goalies
+Winnipeg Jets,wpg,Jaret Anderson-Dolan,C,25,"5' 11""",200 lbs,L,"Calgary, CAN",09/12/99,Roster,,https://www.espn.com/nhl/player/_/id/4232871,Centers
+Winnipeg Jets,wpg,Mason Appleton,C,29,"6' 2""",194 lbs,R,"Green Bay, WI",01/15/96,Roster,,https://www.espn.com/nhl/player/_/id/3942043,Centers
+Winnipeg Jets,wpg,Morgan Barron,C,26,"6' 4""",220 lbs,R,"Halifax, CAN",12/02/98,Roster,,https://www.espn.com/nhl/player/_/id/4316970,Centers
+Winnipeg Jets,wpg,Parker Ford,C,24,"5' 9""",181 lbs,R,"Wakefield, RI",07/20/00,Roster,,https://www.espn.com/nhl/player/_/id/5173114,Centers
+Winnipeg Jets,wpg,David Gustafsson,C,25,"6' 2""",196 lbs,L,"Tingsryd, SWE",04/11/00,Roster,,https://www.espn.com/nhl/player/_/id/4378695,Centers
+Winnipeg Jets,wpg,Rasmus Kupari,C,25,"6' 2""",201 lbs,R,"Kotka, FIN",03/15/00,Roster,,https://www.espn.com/nhl/player/_/id/4352762,Centers
+Winnipeg Jets,wpg,Adam Lowry,C,32,"6' 5""",210 lbs,L,"St. Louis, MO",03/29/93,Roster,,https://www.espn.com/nhl/player/_/id/2563066,Centers
+Winnipeg Jets,wpg,Vladislav Namestnikov,C,32,"6' 0""",181 lbs,L,"Zhukovskiy, RUS",11/22/92,Roster,,https://www.espn.com/nhl/player/_/id/2562622,Centers
+Winnipeg Jets,wpg,Cole Perfetti,C,23,"5' 11""",185 lbs,L,"Whitby, CAN",01/01/02,Roster,,https://www.espn.com/nhl/player/_/id/4697392,Centers
+Winnipeg Jets,wpg,Mark Scheifele,C,32,"6' 3""",207 lbs,R,"Kitchener, CAN",03/15/93,Roster,,https://www.espn.com/nhl/player/_/id/2562632,Centers
+Winnipeg Jets,wpg,Mason Shaw,C,26,"5' 10""",184 lbs,L,"Lloydminster, CAN",11/03/98,Roster,,https://www.espn.com/nhl/player/_/id/4392879,Centers
+Winnipeg Jets,wpg,Jonathan Toews,C,37,"6' 2""",201 lbs,L,"Winnipeg, CAN",04/29/88,Roster,,https://www.espn.com/nhl/player/_/id/3669,Centers
+Winnipeg Jets,wpg,Dominic Toninato,C,31,"6' 2""",201 lbs,L,"Duluth, MN",03/09/94,Roster,,https://www.espn.com/nhl/player/_/id/3942809,Centers
+Winnipeg Jets,wpg,Gabriel Vilardi,C,25,"6' 3""",216 lbs,R,"Kingston, CAN",08/16/99,Roster,,https://www.espn.com/nhl/player/_/id/4233583,Centers
+Winnipeg Jets,wpg,Brayden Yager,C,20,"5' 11""",180 lbs,R,"Saskatoon, CAN",01/03/05,Roster,,https://www.espn.com/nhl/player/_/id/5149188,Centers
+Winnipeg Jets,wpg,Kyle Connor,LW,28,"6' 1""",183 lbs,L,"Clinton, MI",12/09/96,Roster,,https://www.espn.com/nhl/player/_/id/3899952,Left Wings
+Winnipeg Jets,wpg,Nikolaj Ehlers,LW,29,"6' 0""",172 lbs,L,"Aalborg, DEN",02/14/96,Roster,,https://www.espn.com/nhl/player/_/id/3114741,Left Wings
+Winnipeg Jets,wpg,Alex Iafallo,LW,31,"6' 0""",201 lbs,L,"Eden, NY",12/21/93,Roster,,https://www.espn.com/nhl/player/_/id/3652598,Left Wings
+Winnipeg Jets,wpg,Axel Jonsson-Fjallby,LW,27,"6' 1""",189 lbs,L,"Stockholm, SWE",02/10/98,Roster,,https://www.espn.com/nhl/player/_/id/4391251,Left Wings
+Winnipeg Jets,wpg,Brandon Tanev,LW,33,"6' 0""",189 lbs,L,"Toronto, CAN",12/31/91,Roster,,https://www.espn.com/nhl/player/_/id/3096236,Left Wings
+Winnipeg Jets,wpg,Nino Niederreiter,RW,32,"6' 2""",218 lbs,L,"Chur, SUI",09/08/92,Roster,,https://www.espn.com/nhl/player/_/id/5511,Right Wings
+Winnipeg Jets,wpg,Dylan Coghlan,D,27,"6' 2""",208 lbs,R,"Duncan, CAN",02/19/98,Roster,,https://www.espn.com/nhl/player/_/id/4063606,Defense
+Winnipeg Jets,wpg,Dylan DeMelo,D,32,"6' 1""",194 lbs,R,"London, CAN",05/01/93,Roster,,https://www.espn.com/nhl/player/_/id/2590861,Defense
+Winnipeg Jets,wpg,Haydn Fleury,D,28,"6' 4""",207 lbs,L,"Carlyle, CAN",07/08/96,Roster,,https://www.espn.com/nhl/player/_/id/3114735,Defense
+Winnipeg Jets,wpg,Ville Heinola,D,24,"6' 0""",181 lbs,L,"Pori, FIN",03/02/01,Roster,,https://www.espn.com/nhl/player/_/id/4565241,Defense
+Winnipeg Jets,wpg,Colin Miller,D,32,"6' 1""",200 lbs,R,"Sault Ste. Marie, CAN",10/29/92,Roster,,https://www.espn.com/nhl/player/_/id/2590796,Defense
+Winnipeg Jets,wpg,Josh Morrissey,D,30,"6' 0""",195 lbs,L,"Calgary, CAN",03/28/95,Roster,,https://www.espn.com/nhl/player/_/id/3042016,Defense
+Winnipeg Jets,wpg,Isaak Phillips,D,23,"6' 3""",205 lbs,L,"Barrie, CAN",09/28/01,Roster,,https://www.espn.com/nhl/player/_/id/4697831,Defense
+Winnipeg Jets,wpg,Neal Pionk,D,29,"6' 0""",190 lbs,R,"Hermantown, MN",07/29/95,Roster,,https://www.espn.com/nhl/player/_/id/3988847,Defense
+Winnipeg Jets,wpg,Elias Salomonsson,D,20,"6' 0""",172 lbs,R,"Skelleftea, SWE",08/31/04,Roster,,https://www.espn.com/nhl/player/_/id/5080223,Defense
+Winnipeg Jets,wpg,Dylan Samberg,D,26,"6' 4""",216 lbs,L,"Saginaw, MI",01/24/99,Roster,,https://www.espn.com/nhl/player/_/id/4233878,Defense
+Winnipeg Jets,wpg,Luke Schenn,D,35,"6' 2""",225 lbs,R,"Saskatoon, CAN",11/02/89,Roster,,https://www.espn.com/nhl/player/_/id/5092,Defense
+Winnipeg Jets,wpg,Logan Stanley,D,27,"6' 7""",231 lbs,L,"Kitchener, CAN",05/26/98,Roster,,https://www.espn.com/nhl/player/_/id/4024968,Defense
+Winnipeg Jets,wpg,Eric Comrie,G,29,"6' 1""",190 lbs,L,"Edmonton, CAN",07/06/95,Roster,,https://www.espn.com/nhl/player/_/id/3042057,Goalies
+Winnipeg Jets,wpg,Chris Driedger,G,31,"6' 4""",210 lbs,L,"Winnipeg, CAN",05/18/94,Roster,,https://www.espn.com/nhl/player/_/id/3067263,Goalies
+Winnipeg Jets,wpg,Connor Hellebuyck,G,32,"6' 4""",207 lbs,L,"Commerce Township, MI",05/19/93,Roster,,https://www.espn.com/nhl/player/_/id/3020225,Goalies

@@ -1,0 +1,544 @@
+team_name,team_abbrev,player_name,position_name,age,height,weight,experience,college,salary,birth_place,birthdate,status,player_url,section_title,depth_label
+Atlanta Hawks,atl,Dominick Barlow,F,22,"6' 8""",215 lbs,,--,"$491,887",,,,https://www.espn.com/nba/player/_/id/4870562/dominick-barlow,Team Roster,Roster
+Atlanta Hawks,atl,Kobe Bufkin,G,21,"6' 4""",195 lbs,,Michigan,"$4,299,000",,,,https://www.espn.com/nba/player/_/id/4683736/kobe-bufkin,Team Roster,Roster
+Atlanta Hawks,atl,Clint Capela,C,31,"6' 10""",256 lbs,,--,"$22,265,280",,,,https://www.espn.com/nba/player/_/id/3102529/clint-capela,Team Roster,Roster
+Atlanta Hawks,atl,Dyson Daniels,G,22,"6' 7""",199 lbs,,--,"$6,059,520",,,,https://www.espn.com/nba/player/_/id/4869342/dyson-daniels,Team Roster,Roster
+Atlanta Hawks,atl,Mouhamed Gueye,F,22,"6' 10""",210 lbs,,Washington State,"$1,891,858",,,,https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye,Team Roster,Roster
+Atlanta Hawks,atl,Jalen Johnson,SF,23,"6' 8""",219 lbs,,Duke,"$4,510,905",,,,https://www.espn.com/nba/player/_/id/4701230/jalen-johnson,Team Roster,Roster
+Atlanta Hawks,atl,Vit Krejci,G,25,"6' 8""",195 lbs,,--,"$2,162,606",,,,https://www.espn.com/nba/player/_/id/4578893/vit-krejci,Team Roster,Roster
+Atlanta Hawks,atl,Caris LeVert,SG,30,"6' 6""",205 lbs,,Michigan,"$16,615,384",,,,https://www.espn.com/nba/player/_/id/2991043/caris-levert,Team Roster,Roster
+Atlanta Hawks,atl,Terance Mann,SG,28,"6' 5""",215 lbs,,Florida State,"$11,423,077",,,,https://www.espn.com/nba/player/_/id/3907823/terance-mann,Team Roster,Roster
+Atlanta Hawks,atl,Garrison Mathews,SG,28,"6' 6""",215 lbs,,Lipscomb,"$2,230,253",,,,https://www.espn.com/nba/player/_/id/3913180/garrison-mathews,Team Roster,Roster
+Atlanta Hawks,atl,Larry Nance Jr.,PF,32,"6' 8""",245 lbs,,Wyoming,"$11,205,000",,,,https://www.espn.com/nba/player/_/id/2580365/larry-nance-jr,Team Roster,Roster
+Atlanta Hawks,atl,Georges Niang,SF,32,"6' 7""",230 lbs,,Iowa State,"$8,500,000",,,,https://www.espn.com/nba/player/_/id/2990969/georges-niang,Team Roster,Roster
+Atlanta Hawks,atl,Onyeka Okongwu,PF,24,"6' 10""",240 lbs,,USC,"$14,000,000",,,,https://www.espn.com/nba/player/_/id/4431680/onyeka-okongwu,Team Roster,Roster
+Atlanta Hawks,atl,Daeqwon Plowden,G,26,"6' 6""",216 lbs,,Bowling Green,--,,,,https://www.espn.com/nba/player/_/id/4279318/daeqwon-plowden,Team Roster,Roster
+Atlanta Hawks,atl,Zaccharie Risacher,PF,20,"6' 8""",200 lbs,,--,"$12,569,040",,,,https://www.espn.com/nba/player/_/id/5211175/zaccharie-risacher,Team Roster,Roster
+Atlanta Hawks,atl,Jacob Toppin,F,25,"6' 8""",200 lbs,,Kentucky,--,,,,https://www.espn.com/nba/player/_/id/4592461/jacob-toppin,Team Roster,Roster
+Atlanta Hawks,atl,Keaton Wallace,G,26,"6' 3""",185 lbs,,UTSA,--,,,,https://www.espn.com/nba/player/_/id/4279118/keaton-wallace,Team Roster,Roster
+Atlanta Hawks,atl,Trae Young,PG,26,"6' 1""",164 lbs,,Oklahoma,"$43,031,940",,,,https://www.espn.com/nba/player/_/id/4277905/trae-young,Team Roster,Roster
+Boston Celtics,bos,Jaylen Brown,SG,28,"6' 6""",223 lbs,,California,"$49,205,800",,,,https://www.espn.com/nba/player/_/id/3917376/jaylen-brown,Team Roster,Roster
+Boston Celtics,bos,Torrey Craig,SF,34,"6' 5""",221 lbs,,South Carolina Upstate,"$2,845,342",,,,https://www.espn.com/nba/player/_/id/2528693/torrey-craig,Team Roster,Roster
+Boston Celtics,bos,JD Davison,SG,22,"6' 1""",195 lbs,,Alabama,--,,,,https://www.espn.com/nba/player/_/id/4576085/jd-davison,Team Roster,Roster
+Boston Celtics,bos,Sam Hauser,SF,27,"6' 7""",217 lbs,,Virginia,"$2,092,344",,,,https://www.espn.com/nba/player/_/id/4065804/sam-hauser,Team Roster,Roster
+Boston Celtics,bos,Jrue Holiday,PG,35,"6' 4""",205 lbs,,UCLA,"$30,000,000",,,,https://www.espn.com/nba/player/_/id/3995/jrue-holiday,Team Roster,Roster
+Boston Celtics,bos,Al Horford,C,39,"6' 9""",240 lbs,,Florida,"$9,500,000",,,,https://www.espn.com/nba/player/_/id/3213/al-horford,Team Roster,Roster
+Boston Celtics,bos,Luke Kornet,C,29,"7' 1""",250 lbs,,Vanderbilt,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3064560/luke-kornet,Team Roster,Roster
+Boston Celtics,bos,Miles Norris,F,25,"6' 7""",220 lbs,,UC Santa Barbara,--,,,,https://www.espn.com/nba/player/_/id/4397104/miles-norris,Team Roster,Roster
+Boston Celtics,bos,Drew Peterson,F,25,"6' 9""",205 lbs,,USC,--,,,,https://www.espn.com/nba/player/_/id/4397689/drew-peterson,Team Roster,Roster
+Boston Celtics,bos,Kristaps Porzingis,C,29,"7' 2""",240 lbs,,--,"$29,268,293",,,,https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis,Team Roster,Roster
+Boston Celtics,bos,Payton Pritchard,PG,27,"6' 1""",195 lbs,,Oregon,"$6,696,429",,,,https://www.espn.com/nba/player/_/id/4066354/payton-pritchard,Team Roster,Roster
+Boston Celtics,bos,Neemias Queta,C,25,"7' 0""",248 lbs,,Utah State,"$2,162,606",,,,https://www.espn.com/nba/player/_/id/4397424/neemias-queta,Team Roster,Roster
+Boston Celtics,bos,Baylor Scheierman,F,24,"6' 6""",205 lbs,,Creighton,"$2,494,320",,,,https://www.espn.com/nba/player/_/id/4593841/baylor-scheierman,Team Roster,Roster
+Boston Celtics,bos,Jayson Tatum,SF,27,"6' 8""",210 lbs,,Duke,"$34,848,340",,,,https://www.espn.com/nba/player/_/id/4065648/jayson-tatum,Team Roster,Roster
+Boston Celtics,bos,Xavier Tillman,F,26,"6' 7""",245 lbs,,Michigan State,"$2,237,691",,,,https://www.espn.com/nba/player/_/id/4277964/xavier-tillman,Team Roster,Roster
+Boston Celtics,bos,Jordan Walsh,G,21,"6' 6""",205 lbs,,Arkansas,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4683689/jordan-walsh,Team Roster,Roster
+Boston Celtics,bos,Derrick White,PG,30,"6' 4""",190 lbs,,Colorado,"$20,017,429",,,,https://www.espn.com/nba/player/_/id/3078576/derrick-white,Team Roster,Roster
+Brooklyn Nets,bkn,Reece Beekman,G,23,"6' 3""",190 lbs,,Virginia,--,,,,https://www.espn.com/nba/player/_/id/4432187/reece-beekman,Team Roster,Roster
+Brooklyn Nets,bkn,Nic Claxton,C,26,"6' 11""",215 lbs,,Georgia,"$27,556,817",,,,https://www.espn.com/nba/player/_/id/4278067/nic-claxton,Team Roster,Roster
+Brooklyn Nets,bkn,Noah Clowney,F,20,"6' 9""",210 lbs,,Alabama,"$3,244,080",,,,https://www.espn.com/nba/player/_/id/4712896/noah-clowney,Team Roster,Roster
+Brooklyn Nets,bkn,Tyson Etienne,G,25,"6' 2""",203 lbs,,Wichita State,--,,,,https://www.espn.com/nba/player/_/id/4432887/tyson-etienne,Team Roster,Roster
+Brooklyn Nets,bkn,Tosan Evbuomwan,F,24,"6' 7""",217 lbs,,Princeton,--,,,,https://www.espn.com/nba/player/_/id/4597865/tosan-evbuomwan,Team Roster,Roster
+Brooklyn Nets,bkn,Killian Hayes,G,23,"6' 5""",195 lbs,,--,--,,,,https://www.espn.com/nba/player/_/id/4683024/killian-hayes,Team Roster,Roster
+Brooklyn Nets,bkn,Cameron Johnson,SF,29,"6' 8""",210 lbs,,North Carolina,"$22,500,000",,,,https://www.espn.com/nba/player/_/id/3138196/cameron-johnson,Team Roster,Roster
+Brooklyn Nets,bkn,Keon Johnson,G,23,"6' 5""",185 lbs,,Tennessee,"$2,162,606",,,,https://www.espn.com/nba/player/_/id/4432192/keon-johnson,Team Roster,Roster
+Brooklyn Nets,bkn,Maxwell Lewis,F,22,"6' 7""",195 lbs,,Pepperdine,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4684286/maxwell-lewis,Team Roster,Roster
+Brooklyn Nets,bkn,Tyrese Martin,G,26,"6' 6""",215 lbs,,UConn,"$635,853",,,,https://www.espn.com/nba/player/_/id/4397179/tyrese-martin,Team Roster,Roster
+Brooklyn Nets,bkn,De'Anthony Melton,SG,27,"6' 3""",200 lbs,,USC,"$12,822,000",,,,https://www.espn.com/nba/player/_/id/4066436/deanthony-melton,Team Roster,Roster
+Brooklyn Nets,bkn,D'Angelo Russell,G,29,"6' 3""",193 lbs,,Ohio State,"$18,692,307",,,,https://www.espn.com/nba/player/_/id/3136776/dangelo-russell,Team Roster,Roster
+Brooklyn Nets,bkn,Day'Ron Sharpe,C,23,"6' 9""",265 lbs,,North Carolina,"$3,989,122",,,,https://www.espn.com/nba/player/_/id/4432194/dayron-sharpe,Team Roster,Roster
+Brooklyn Nets,bkn,Cam Thomas,SG,23,"6' 3""",210 lbs,,LSU,"$4,041,249",,,,https://www.espn.com/nba/player/_/id/4432174/cam-thomas,Team Roster,Roster
+Brooklyn Nets,bkn,Drew Timme,F,24,"6' 10""",235 lbs,,Gonzaga,"$113,055",,,,https://www.espn.com/nba/player/_/id/4431695/drew-timme,Team Roster,Roster
+Brooklyn Nets,bkn,Trendon Watford,PF,24,"6' 8""",237 lbs,,LSU,"$2,726,603",,,,https://www.espn.com/nba/player/_/id/4431675/trendon-watford,Team Roster,Roster
+Brooklyn Nets,bkn,Dariq Whitehead,F,20,"6' 6""",220 lbs,,Duke,"$3,114,240",,,,https://www.espn.com/nba/player/_/id/4432735/dariq-whitehead,Team Roster,Roster
+Brooklyn Nets,bkn,Ziaire Williams,F,23,"6' 9""",185 lbs,,Stanford,"$6,133,005",,,,https://www.espn.com/nba/player/_/id/4433137/ziaire-williams,Team Roster,Roster
+Brooklyn Nets,bkn,Jalen Wilson,F,24,"6' 6""",220 lbs,,Kansas,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4431714/jalen-wilson,Team Roster,Roster
+Charlotte Hornets,cha,LaMelo Ball,PG,23,"6' 7""",180 lbs,,--,"$35,147,000",,,,https://www.espn.com/nba/player/_/id/4432816/lamelo-ball,Team Roster,Roster
+Charlotte Hornets,cha,Miles Bridges,SF,27,"6' 7""",225 lbs,,Michigan State,"$27,173,913",,,,https://www.espn.com/nba/player/_/id/4066383/miles-bridges,Team Roster,Roster
+Charlotte Hornets,cha,Seth Curry,SG,34,"6' 1""",185 lbs,,Duke,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2326307/seth-curry,Team Roster,Roster
+Charlotte Hornets,cha,Moussa Diabate,F,23,"6' 9""",210 lbs,,Michigan,"$957,763",,,,https://www.espn.com/nba/player/_/id/4433249/moussa-diabate,Team Roster,Roster
+Charlotte Hornets,cha,Marcus Garrett,G,26,"6' 5""",205 lbs,,Kansas,--,,,,https://www.espn.com/nba/player/_/id/4277892/marcus-garrett,Team Roster,Roster
+Charlotte Hornets,cha,Taj Gibson,F,39,"6' 9""",232 lbs,,USC,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3986/taj-gibson,Team Roster,Roster
+Charlotte Hornets,cha,Josh Green,SG,24,"6' 5""",200 lbs,,Arizona,"$12,654,321",,,,https://www.espn.com/nba/player/_/id/4432811/josh-green,Team Roster,Roster
+Charlotte Hornets,cha,DaQuan Jeffries,SG,27,"6' 5""",222 lbs,,Western Texas Coll. (J.C.),"$2,425,204",,,,https://www.espn.com/nba/player/_/id/3913220/daquan-jeffries,Team Roster,Roster
+Charlotte Hornets,cha,Tre Mann,PG,24,"6' 3""",178 lbs,,Florida,"$4,908,189",,,,https://www.espn.com/nba/player/_/id/4432819/tre-mann,Team Roster,Roster
+Charlotte Hornets,cha,Brandon Miller,F,22,"6' 7""",200 lbs,,Alabama,"$11,424,600",,,,https://www.espn.com/nba/player/_/id/4433287/brandon-miller,Team Roster,Roster
+Charlotte Hornets,cha,Wendell Moore Jr.,G,23,"6' 5""",215 lbs,,Duke,"$2,537,040",,,,https://www.espn.com/nba/player/_/id/4592187/wendell-moore-jr,Team Roster,Roster
+Charlotte Hornets,cha,Jusuf Nurkic,C,30,"7' 0""",290 lbs,,--,"$18,125,000",,,,https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic,Team Roster,Roster
+Charlotte Hornets,cha,Josh Okogie,SF,26,"6' 4""",213 lbs,,Georgia Tech,"$8,250,000",,,,https://www.espn.com/nba/player/_/id/4065663/josh-okogie,Team Roster,Roster
+Charlotte Hornets,cha,Tidjane Salaun,F,19,"6' 8""",207 lbs,,--,"$7,488,720",,,,https://www.espn.com/nba/player/_/id/5211176/tidjane-salaun,Team Roster,Roster
+Charlotte Hornets,cha,KJ Simpson,G,22,"6' 0""",189 lbs,,Colorado,--,,,,https://www.espn.com/nba/player/_/id/4683834/kj-simpson,Team Roster,Roster
+Charlotte Hornets,cha,Jaylen Sims,G,26,"6' 6""",210 lbs,,UNC Wilmington,--,,,,https://www.espn.com/nba/player/_/id/4397570/jaylen-sims,Team Roster,Roster
+Charlotte Hornets,cha,Nick Smith Jr.,G,21,"6' 2""",185 lbs,,Arkansas,"$2,587,200",,,,https://www.espn.com/nba/player/_/id/4683686/nick-smith-jr,Team Roster,Roster
+Charlotte Hornets,cha,Grant Williams,PF,26,"6' 6""",236 lbs,,Tennessee,"$13,025,250",,,,https://www.espn.com/nba/player/_/id/4066218/grant-williams,Team Roster,Roster
+Charlotte Hornets,cha,Mark Williams,C,23,"7' 0""",240 lbs,,Duke,"$4,094,280",,,,https://www.espn.com/nba/player/_/id/4701232/mark-williams,Team Roster,Roster
+Chicago Bulls,chi,Lonzo Ball,PG,27,"6' 6""",190 lbs,,UCLA,"$21,395,348",,,,https://www.espn.com/nba/player/_/id/4066421/lonzo-ball,Team Roster,Roster
+Chicago Bulls,chi,Matas Buzelis,F,20,"6' 10""",209 lbs,,--,"$5,195,520",,,,https://www.espn.com/nba/player/_/id/4711294/matas-buzelis,Team Roster,Roster
+Chicago Bulls,chi,Jevon Carter,PG,29,"6' 1""",200 lbs,,West Virginia,"$6,500,000",,,,https://www.espn.com/nba/player/_/id/3133635/jevon-carter,Team Roster,Roster
+Chicago Bulls,chi,Zach Collins,PF,27,"6' 11""",250 lbs,,Gonzaga,"$16,741,200",,,,https://www.espn.com/nba/player/_/id/4066650/zach-collins,Team Roster,Roster
+Chicago Bulls,chi,Ayo Dosunmu,SG,25,"6' 5""",200 lbs,,Illinois,"$7,000,000",,,,https://www.espn.com/nba/player/_/id/4397002/ayo-dosunmu,Team Roster,Roster
+Chicago Bulls,chi,Josh Giddey,SG,22,"6' 8""",216 lbs,,--,"$8,352,367",,,,https://www.espn.com/nba/player/_/id/4871145/josh-giddey,Team Roster,Roster
+Chicago Bulls,chi,Talen Horton-Tucker,SF,24,"6' 4""",234 lbs,,Iowa State,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4396991/talen-horton-tucker,Team Roster,Roster
+Chicago Bulls,chi,Kevin Huerter,SG,26,"6' 7""",198 lbs,,Maryland,"$16,830,357",,,,https://www.espn.com/nba/player/_/id/4066372/kevin-huerter,Team Roster,Roster
+Chicago Bulls,chi,Tre Jones,PG,25,"6' 1""",185 lbs,,Duke,"$9,104,167",,,,https://www.espn.com/nba/player/_/id/4395626/tre-jones,Team Roster,Roster
+Chicago Bulls,chi,E.J. Liddell,F,24,"6' 6""",240 lbs,,Ohio State,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4432821/ej-liddell,Team Roster,Roster
+Chicago Bulls,chi,Emanuel Miller,F,25,"6' 7""",215 lbs,,TCU,--,,,,https://www.espn.com/nba/player/_/id/4432872/emanuel-miller,Team Roster,Roster
+Chicago Bulls,chi,Julian Phillips,F,21,"6' 8""",198 lbs,,Tennessee,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/5105553/julian-phillips,Team Roster,Roster
+Chicago Bulls,chi,Jalen Smith,PF,25,"6' 9""",215 lbs,,Maryland,"$8,571,429",,,,https://www.espn.com/nba/player/_/id/4397189/jalen-smith,Team Roster,Roster
+Chicago Bulls,chi,Dalen Terry,F,22,"6' 7""",195 lbs,,Arizona,"$3,510,480",,,,https://www.espn.com/nba/player/_/id/4433159/dalen-terry,Team Roster,Roster
+Chicago Bulls,chi,Nikola Vucevic,C,34,"6' 10""",260 lbs,,USC,"$20,000,000",,,,https://www.espn.com/nba/player/_/id/6478/nikola-vucevic,Team Roster,Roster
+Chicago Bulls,chi,Coby White,PG,25,"6' 5""",195 lbs,,North Carolina,"$12,000,000",,,,https://www.espn.com/nba/player/_/id/4395651/coby-white,Team Roster,Roster
+Chicago Bulls,chi,Patrick Williams,PF,23,"6' 8""",215 lbs,,Florida State,"$18,500,000",,,,https://www.espn.com/nba/player/_/id/4431687/patrick-williams,Team Roster,Roster
+Chicago Bulls,chi,Jahmir Young,G,24,"6' 1""",185 lbs,,Maryland,--,,,,https://www.espn.com/nba/player/_/id/4433133/jahmir-young,Team Roster,Roster
+Cleveland Cavaliers,cle,Jarrett Allen,C,27,"6' 9""",243 lbs,,Texas,"$20,000,000",,,,https://www.espn.com/nba/player/_/id/4066328/jarrett-allen,Team Roster,Roster
+Cleveland Cavaliers,cle,Emoni Bates,F,21,"6' 8""",202 lbs,,Eastern Michigan,--,,,,https://www.espn.com/nba/player/_/id/4433620/emoni-bates,Team Roster,Roster
+Cleveland Cavaliers,cle,Darius Garland,PG,25,"6' 1""",192 lbs,,Vanderbilt,"$36,725,670",,,,https://www.espn.com/nba/player/_/id/4396907/darius-garland,Team Roster,Roster
+Cleveland Cavaliers,cle,Javonte Green,G,31,"6' 5""",205 lbs,,Radford,"$599,862",,,,https://www.espn.com/nba/player/_/id/2596112/javonte-green,Team Roster,Roster
+Cleveland Cavaliers,cle,De'Andre Hunter,SF,27,"6' 8""",221 lbs,,Virginia,"$21,696,429",,,,https://www.espn.com/nba/player/_/id/4065732/deandre-hunter,Team Roster,Roster
+Cleveland Cavaliers,cle,Ty Jerome,SG,27,"6' 5""",195 lbs,,Virginia,"$2,560,975",,,,https://www.espn.com/nba/player/_/id/4065733/ty-jerome,Team Roster,Roster
+Cleveland Cavaliers,cle,Sam Merrill,SG,29,"6' 4""",205 lbs,,Utah State,"$2,164,993",,,,https://www.espn.com/nba/player/_/id/4066757/sam-merrill,Team Roster,Roster
+Cleveland Cavaliers,cle,Donovan Mitchell,SG,28,"6' 3""",215 lbs,,Louisville,"$35,410,310",,,,https://www.espn.com/nba/player/_/id/3908809/donovan-mitchell,Team Roster,Roster
+Cleveland Cavaliers,cle,Evan Mobley,PF,24,"6' 11""",215 lbs,,USC,"$11,227,809",,,,https://www.espn.com/nba/player/_/id/4432158/evan-mobley,Team Roster,Roster
+Cleveland Cavaliers,cle,Chuma Okeke,PF,26,"6' 7""",229 lbs,,Auburn,--,,,,https://www.espn.com/nba/player/_/id/4278052/chuma-okeke,Team Roster,Roster
+Cleveland Cavaliers,cle,Isaac Okoro,SF,24,"6' 5""",225 lbs,,Auburn,"$10,185,185",,,,https://www.espn.com/nba/player/_/id/4432822/isaac-okoro,Team Roster,Roster
+Cleveland Cavaliers,cle,Craig Porter Jr.,G,25,"6' 1""",180 lbs,,Wichita State,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4701233/craig-porter-jr,Team Roster,Roster
+Cleveland Cavaliers,cle,Max Strus,SG,29,"6' 5""",215 lbs,,DePaul,"$15,212,068",,,,https://www.espn.com/nba/player/_/id/4065778/max-strus,Team Roster,Roster
+Cleveland Cavaliers,cle,Tristan Thompson,C,34,"6' 9""",254 lbs,,Texas,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/6474/tristan-thompson,Team Roster,Roster
+Cleveland Cavaliers,cle,Nae'Qwan Tomlin,F,24,"6' 10""",210 lbs,,Memphis,--,,,,https://www.espn.com/nba/player/_/id/5106268/naeqwan-tomlin,Team Roster,Roster
+Cleveland Cavaliers,cle,Luke Travers,G,23,"6' 7""",207 lbs,,--,--,,,,https://www.espn.com/nba/player/_/id/4997539/luke-travers,Team Roster,Roster
+Cleveland Cavaliers,cle,Jaylon Tyson,F,22,"6' 6""",215 lbs,,California,"$3,326,160",,,,https://www.espn.com/nba/player/_/id/4683747/jaylon-tyson,Team Roster,Roster
+Cleveland Cavaliers,cle,Dean Wade,PF,28,"6' 9""",228 lbs,,Kansas State,"$6,166,667",,,,https://www.espn.com/nba/player/_/id/3912848/dean-wade,Team Roster,Roster
+Dallas Mavericks,dal,Max Christie,G,22,"6' 5""",190 lbs,,Michigan State,"$7,142,857",,,,https://www.espn.com/nba/player/_/id/4432582/max-christie,Team Roster,Roster
+Dallas Mavericks,dal,Anthony Davis,PF,32,"6' 10""",253 lbs,,Kentucky,"$43,219,440",,,,https://www.espn.com/nba/player/_/id/6583/anthony-davis,Team Roster,Roster
+Dallas Mavericks,dal,Spencer Dinwiddie,PG,32,"6' 5""",215 lbs,,Colorado,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2580782/spencer-dinwiddie,Team Roster,Roster
+Dallas Mavericks,dal,Kessler Edwards,SF,24,"6' 7""",203 lbs,,Pepperdine,--,,,,https://www.espn.com/nba/player/_/id/4397693/kessler-edwards,Team Roster,Roster
+Dallas Mavericks,dal,Dante Exum,G,29,"6' 5""",214 lbs,,--,"$3,150,000",,,,https://www.espn.com/nba/player/_/id/3102528/dante-exum,Team Roster,Roster
+Dallas Mavericks,dal,Daniel Gafford,C,26,"6' 10""",265 lbs,,Arkansas,"$13,394,160",,,,https://www.espn.com/nba/player/_/id/4278049/daniel-gafford,Team Roster,Roster
+Dallas Mavericks,dal,Jaden Hardy,G,22,"6' 3""",198 lbs,,--,"$2,019,699",,,,https://www.espn.com/nba/player/_/id/4868423/jaden-hardy,Team Roster,Roster
+Dallas Mavericks,dal,Kyrie Irving,PG,33,"6' 2""",195 lbs,,Duke,"$41,000,000",,,,https://www.espn.com/nba/player/_/id/6442/kyrie-irving,Team Roster,Roster
+Dallas Mavericks,dal,Kai Jones,PF,24,"6' 11""",221 lbs,,Texas,"$2,196,970",,,,https://www.espn.com/nba/player/_/id/4431699/kai-jones,Team Roster,Roster
+Dallas Mavericks,dal,Dereck Lively II,C,21,"7' 1""",230 lbs,,Duke,"$5,014,560",,,,https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii,Team Roster,Roster
+Dallas Mavericks,dal,Naji Marshall,SF,27,"6' 6""",220 lbs,,Xavier,"$8,571,429",,,,https://www.espn.com/nba/player/_/id/4278594/naji-marshall,Team Roster,Roster
+Dallas Mavericks,dal,Caleb Martin,SF,29,"6' 5""",205 lbs,,Nevada,"$8,149,001",,,,https://www.espn.com/nba/player/_/id/3138160/caleb-martin,Team Roster,Roster
+Dallas Mavericks,dal,Dwight Powell,C,33,"6' 10""",240 lbs,,Stanford,"$4,000,000",,,,https://www.espn.com/nba/player/_/id/2531367/dwight-powell,Team Roster,Roster
+Dallas Mavericks,dal,Olivier-Maxence Prosper,F,22,"6' 7""",230 lbs,,Marquette,"$2,869,920",,,,https://www.espn.com/nba/player/_/id/4595400/olivier-maxence-prosper,Team Roster,Roster
+Dallas Mavericks,dal,Klay Thompson,SG,35,"6' 5""",220 lbs,,Washington State,"$15,873,016",,,,https://www.espn.com/nba/player/_/id/6475/klay-thompson,Team Roster,Roster
+Dallas Mavericks,dal,P.J. Washington,PF,26,"6' 6""",230 lbs,,Kentucky,"$15,500,000",,,,https://www.espn.com/nba/player/_/id/4278078/pj-washington,Team Roster,Roster
+Dallas Mavericks,dal,Brandon Williams,G,25,"6' 1""",190 lbs,,Arizona,--,,,,https://www.espn.com/nba/player/_/id/4397040/brandon-williams,Team Roster,Roster
+Denver Nuggets,den,Trey Alexander,G,22,"6' 4""",185 lbs,,Creighton,--,,,,https://www.espn.com/nba/player/_/id/4433268/trey-alexander,Team Roster,Roster
+Denver Nuggets,den,Christian Braun,G,24,"6' 6""",220 lbs,,Kansas,"$3,089,640",,,,https://www.espn.com/nba/player/_/id/4431767/christian-braun,Team Roster,Roster
+Denver Nuggets,den,Vlatko Cancar,SF,28,"6' 8""",236 lbs,,--,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4230557/vlatko-cancar,Team Roster,Roster
+Denver Nuggets,den,Aaron Gordon,PF,29,"6' 8""",235 lbs,,Arizona,"$22,841,455",,,,https://www.espn.com/nba/player/_/id/3064290/aaron-gordon,Team Roster,Roster
+Denver Nuggets,den,PJ Hall,C,23,"6' 10""",245 lbs,,Clemson,--,,,,https://www.espn.com/nba/player/_/id/4701225/pj-hall,Team Roster,Roster
+Denver Nuggets,den,DaRon Holmes II,C,22,"6' 10""",225 lbs,,Dayton,"$3,065,640",,,,https://www.espn.com/nba/player/_/id/4433607/daron-holmes-ii,Team Roster,Roster
+Denver Nuggets,den,Nikola Jokic,C,30,"6' 11""",284 lbs,,--,"$51,415,938",,,,https://www.espn.com/nba/player/_/id/3112335/nikola-jokic,Team Roster,Roster
+Denver Nuggets,den,Spencer Jones,F,24,"6' 7""",225 lbs,,Stanford,--,,,,https://www.espn.com/nba/player/_/id/4592427/spencer-jones,Team Roster,Roster
+Denver Nuggets,den,DeAndre Jordan,C,36,"6' 11""",265 lbs,,Texas A&M,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3442/deandre-jordan,Team Roster,Roster
+Denver Nuggets,den,Jamal Murray,PG,28,"6' 4""",215 lbs,,Kentucky,"$36,016,200",,,,https://www.espn.com/nba/player/_/id/3936299/jamal-murray,Team Roster,Roster
+Denver Nuggets,den,Zeke Nnaji,PF,24,"6' 9""",240 lbs,,Arizona,"$8,888,889",,,,https://www.espn.com/nba/player/_/id/4431690/zeke-nnaji,Team Roster,Roster
+Denver Nuggets,den,Jalen Pickett,G,25,"6' 2""",202 lbs,,Siena,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4398390/jalen-pickett,Team Roster,Roster
+Denver Nuggets,den,Michael Porter Jr.,SF,26,"6' 10""",218 lbs,,Missouri,"$35,859,950",,,,https://www.espn.com/nba/player/_/id/4278104/michael-porter-jr,Team Roster,Roster
+Denver Nuggets,den,Dario Saric,PF,31,"6' 10""",225 lbs,,--,"$5,168,000",,,,https://www.espn.com/nba/player/_/id/3032978/dario-saric,Team Roster,Roster
+Denver Nuggets,den,Julian Strawther,G,23,"6' 6""",205 lbs,,Gonzaga,"$2,552,520",,,,https://www.espn.com/nba/player/_/id/4432181/julian-strawther,Team Roster,Roster
+Denver Nuggets,den,Hunter Tyson,F,25,"6' 8""",215 lbs,,Clemson,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4395620/hunter-tyson,Team Roster,Roster
+Denver Nuggets,den,Peyton Watson,F,22,"6' 7""",200 lbs,,UCLA,"$2,413,560",,,,https://www.espn.com/nba/player/_/id/4576087/peyton-watson,Team Roster,Roster
+Denver Nuggets,den,Russell Westbrook,PG,36,"6' 4""",200 lbs,,UCLA,"$3,303,771",,,,https://www.espn.com/nba/player/_/id/3468/russell-westbrook,Team Roster,Roster
+Detroit Pistons,det,Malik Beasley,SG,28,"6' 4""",187 lbs,,Florida State,"$6,000,000",,,,https://www.espn.com/nba/player/_/id/3907822/malik-beasley,Team Roster,Roster
+Detroit Pistons,det,Cade Cunningham,PG,23,"6' 6""",220 lbs,,Oklahoma State,"$13,940,658",,,,https://www.espn.com/nba/player/_/id/4432166/cade-cunningham,Team Roster,Roster
+Detroit Pistons,det,Jalen Duren,C,21,"6' 10""",250 lbs,,Memphis,"$4,536,840",,,,https://www.espn.com/nba/player/_/id/4433621/jalen-duren,Team Roster,Roster
+Detroit Pistons,det,Simone Fontecchio,F,29,"6' 7""",209 lbs,,--,"$7,692,308",,,,https://www.espn.com/nba/player/_/id/3899664/simone-fontecchio,Team Roster,Roster
+Detroit Pistons,det,Tim Hardaway Jr.,SF,33,"6' 5""",205 lbs,,Michigan,"$16,193,183",,,,https://www.espn.com/nba/player/_/id/2528210/tim-hardaway-jr,Team Roster,Roster
+Detroit Pistons,det,Ron Harper Jr.,G,25,"6' 4""",233 lbs,,Rutgers,--,,,,https://www.espn.com/nba/player/_/id/4397251/ron-harper-jr,Team Roster,Roster
+Detroit Pistons,det,Tobias Harris,F,32,"6' 8""",226 lbs,,Tennessee,"$25,365,854",,,,https://www.espn.com/nba/player/_/id/6440/tobias-harris,Team Roster,Roster
+Detroit Pistons,det,Ronald Holland II,F,19,"6' 8""",206 lbs,,--,"$8,245,320",,,,https://www.espn.com/nba/player/_/id/4683771/ronald-holland-ii,Team Roster,Roster
+Detroit Pistons,det,Jaden Ivey,PG,23,"6' 4""",195 lbs,,Purdue,"$7,977,240",,,,https://www.espn.com/nba/player/_/id/4433218/jaden-ivey,Team Roster,Roster
+Detroit Pistons,det,Daniss Jenkins,G,23,"6' 3""",165 lbs,,St. John's,--,,,,https://www.espn.com/nba/player/_/id/5107199/daniss-jenkins,Team Roster,Roster
+Detroit Pistons,det,Bobi Klintman,F,22,"6' 9""",225 lbs,,Wake Forest,"$1,257,153",,,,https://www.espn.com/nba/player/_/id/4906923/bobi-klintman,Team Roster,Roster
+Detroit Pistons,det,Paul Reed,F,26,"6' 9""",210 lbs,,DePaul,"$1,427,671",,,,https://www.espn.com/nba/player/_/id/4278562/paul-reed,Team Roster,Roster
+Detroit Pistons,det,Marcus Sasser,G,24,"6' 2""",195 lbs,,Houston,"$2,755,080",,,,https://www.espn.com/nba/player/_/id/4432107/marcus-sasser,Team Roster,Roster
+Detroit Pistons,det,Dennis Schroder,PG,31,"6' 1""",175 lbs,,--,"$13,025,250",,,,https://www.espn.com/nba/player/_/id/3032979/dennis-schroder,Team Roster,Roster
+Detroit Pistons,det,Tolu Smith,F,24,"6' 11""",245 lbs,,Mississippi State,--,,,,https://www.espn.com/nba/player/_/id/4397882/tolu-smith,Team Roster,Roster
+Detroit Pistons,det,Isaiah Stewart,C,24,"6' 8""",250 lbs,,Washington,"$15,000,000",,,,https://www.espn.com/nba/player/_/id/4432810/isaiah-stewart,Team Roster,Roster
+Detroit Pistons,det,Ausar Thompson,F,22,"6' 6""",205 lbs,,--,"$8,376,000",,,,https://www.espn.com/nba/player/_/id/4684742/ausar-thompson,Team Roster,Roster
+Detroit Pistons,det,Lindy Waters III,F,27,"6' 6""",210 lbs,,Oklahoma State,"$2,196,970",,,,https://www.espn.com/nba/player/_/id/4066317/lindy-waters-iii,Team Roster,Roster
+Golden State Warriors,gs,Taran Armstrong,G,23,"6' 5""",190 lbs,,California Baptist,--,,,,https://www.espn.com/nba/player/_/id/4896850/taran-armstrong,Team Roster,Roster
+Golden State Warriors,gs,Jimmy Butler III,SF,35,"6' 7""",230 lbs,,Marquette,"$48,798,677",,,,https://www.espn.com/nba/player/_/id/6430/jimmy-butler-iii,Team Roster,Roster
+Golden State Warriors,gs,Yuri Collins,G,24,"5' 11""",195 lbs,,Saint Louis,--,,,,https://www.espn.com/nba/player/_/id/4432957/yuri-collins,Team Roster,Roster
+Golden State Warriors,gs,Stephen Curry,PG,37,"6' 2""",185 lbs,,Davidson,"$55,761,216",,,,https://www.espn.com/nba/player/_/id/3975/stephen-curry,Team Roster,Roster
+Golden State Warriors,gs,Draymond Green,PF,35,"6' 6""",230 lbs,,Michigan State,"$24,107,143",,,,https://www.espn.com/nba/player/_/id/6589/draymond-green,Team Roster,Roster
+Golden State Warriors,gs,Buddy Hield,SG,32,"6' 4""",220 lbs,,Oklahoma,"$8,780,488",,,,https://www.espn.com/nba/player/_/id/2990984/buddy-hield,Team Roster,Roster
+Golden State Warriors,gs,Trayce Jackson-Davis,F,25,"6' 9""",245 lbs,,Indiana,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4431684/trayce-jackson-davis,Team Roster,Roster
+Golden State Warriors,gs,Braxton Key,F,28,"6' 8""",225 lbs,,Virginia,--,,,,https://www.espn.com/nba/player/_/id/4066240/braxton-key,Team Roster,Roster
+Golden State Warriors,gs,Kevin Knox II,F,25,"6' 8""",215 lbs,,Kentucky,"$263,939",,,,https://www.espn.com/nba/player/_/id/4278075/kevin-knox-ii,Team Roster,Roster
+Golden State Warriors,gs,Jonathan Kuminga,PF,22,"6' 7""",225 lbs,,--,"$7,636,154",,,,https://www.espn.com/nba/player/_/id/4433247/jonathan-kuminga,Team Roster,Roster
+Golden State Warriors,gs,Kevon Looney,F,29,"6' 9""",222 lbs,,UCLA,"$8,000,000",,,,https://www.espn.com/nba/player/_/id/3155535/kevon-looney,Team Roster,Roster
+Golden State Warriors,gs,Moses Moody,SG,23,"6' 5""",211 lbs,,Arkansas,"$5,803,269",,,,https://www.espn.com/nba/player/_/id/4432171/moses-moody,Team Roster,Roster
+Golden State Warriors,gs,Gary Payton II,SG,32,"6' 2""",195 lbs,,Oregon State,"$9,130,000",,,,https://www.espn.com/nba/player/_/id/3134903/gary-payton-ii,Team Roster,Roster
+Golden State Warriors,gs,Brandin Podziemski,G,22,"6' 4""",205 lbs,,Santa Clara,"$3,519,960",,,,https://www.espn.com/nba/player/_/id/4709138/brandin-podziemski,Team Roster,Roster
+Golden State Warriors,gs,Quinten Post,C,25,"7' 0""",238 lbs,,Boston College,"$438,920",,,,https://www.espn.com/nba/player/_/id/4593016/quinten-post,Team Roster,Roster
+Golden State Warriors,gs,Gui Santos,F,22,"6' 6""",185 lbs,,--,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4997536/gui-santos,Team Roster,Roster
+Golden State Warriors,gs,Pat Spencer,G,28,"6' 3""",205 lbs,,Northwestern,"$438,810",,,,https://www.espn.com/nba/player/_/id/4592714/pat-spencer,Team Roster,Roster
+Houston Rockets,hou,Steven Adams,C,31,"6' 11""",265 lbs,,Pittsburgh,"$12,600,000",,,,https://www.espn.com/nba/player/_/id/2991235/steven-adams,Team Roster,Roster
+Houston Rockets,hou,Dillon Brooks,SF,29,"6' 6""",225 lbs,,Oregon,"$22,255,493",,,,https://www.espn.com/nba/player/_/id/3155526/dillon-brooks,Team Roster,Roster
+Houston Rockets,hou,N'Faly Dante,C,23,"6' 11""",230 lbs,,Oregon,--,,,,https://www.espn.com/nba/player/_/id/4592401/nfaly-dante,Team Roster,Roster
+Houston Rockets,hou,Tari Eason,F,24,"6' 8""",215 lbs,,LSU,"$3,695,160",,,,https://www.espn.com/nba/player/_/id/4433192/tari-eason,Team Roster,Roster
+Houston Rockets,hou,Jalen Green,SG,23,"6' 4""",186 lbs,,--,"$12,483,048",,,,https://www.espn.com/nba/player/_/id/4437244/jalen-green,Team Roster,Roster
+Houston Rockets,hou,Jeff Green,PF,38,"6' 8""",235 lbs,,Georgetown,"$8,000,000",,,,https://www.espn.com/nba/player/_/id/3209/jeff-green,Team Roster,Roster
+Houston Rockets,hou,Aaron Holiday,G,28,"6' 0""",185 lbs,,UCLA,"$4,668,000",,,,https://www.espn.com/nba/player/_/id/3922230/aaron-holiday,Team Roster,Roster
+Houston Rockets,hou,Jock Landale,C,29,"6' 11""",255 lbs,,Saint Mary's,"$8,000,000",,,,https://www.espn.com/nba/player/_/id/3146557/jock-landale,Team Roster,Roster
+Houston Rockets,hou,Jack McVeigh,G,28,"6' 8""",215 lbs,,Nebraska,--,,,,https://www.espn.com/nba/player/_/id/3911893/jack-mcveigh,Team Roster,Roster
+Houston Rockets,hou,David Roddy,F,24,"6' 4""",255 lbs,,Colorado State,"$2,847,240",,,,https://www.espn.com/nba/player/_/id/4593041/david-roddy,Team Roster,Roster
+Houston Rockets,hou,Alperen Sengun,C,22,"6' 11""",243 lbs,,--,"$5,424,654",,,,https://www.espn.com/nba/player/_/id/4871144/alperen-sengun,Team Roster,Roster
+Houston Rockets,hou,Reed Sheppard,G,20,"6' 2""",185 lbs,,Kentucky,"$10,098,960",,,,https://www.espn.com/nba/player/_/id/4711272/reed-sheppard,Team Roster,Roster
+Houston Rockets,hou,Jabari Smith Jr.,PF,22,"6' 10""",220 lbs,,Auburn,"$9,770,880",,,,https://www.espn.com/nba/player/_/id/4432639/jabari-smith-jr,Team Roster,Roster
+Houston Rockets,hou,Jae'Sean Tate,SF,29,"6' 4""",230 lbs,,Ohio State,"$7,565,217",,,,https://www.espn.com/nba/player/_/id/3136777/jaesean-tate,Team Roster,Roster
+Houston Rockets,hou,Amen Thompson,F,22,"6' 7""",200 lbs,,--,"$9,249,960",,,,https://www.espn.com/nba/player/_/id/4684740/amen-thompson,Team Roster,Roster
+Houston Rockets,hou,Fred VanVleet,PG,31,"6' 0""",197 lbs,,Wichita State,"$42,846,615",,,,https://www.espn.com/nba/player/_/id/2991230/fred-vanvleet,Team Roster,Roster
+Houston Rockets,hou,Cam Whitmore,F,20,"6' 7""",230 lbs,,Villanova,"$3,379,080",,,,https://www.espn.com/nba/player/_/id/5105592/cam-whitmore,Team Roster,Roster
+Houston Rockets,hou,Nate Williams,G,26,"6' 5""",205 lbs,,Buffalo,"$515,881",,,,https://www.espn.com/nba/player/_/id/4397821/nate-williams,Team Roster,Roster
+Indiana Pacers,ind,Tony Bradley,C,27,"6' 11""",248 lbs,,North Carolina,"$330,394",,,,https://www.espn.com/nba/player/_/id/4065673/tony-bradley,Team Roster,Roster
+Indiana Pacers,ind,Thomas Bryant,C,27,"6' 10""",248 lbs,,Indiana,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3934723/thomas-bryant,Team Roster,Roster
+Indiana Pacers,ind,RayJ Dennis,G,24,"6' 2""",180 lbs,,Baylor,--,,,,https://www.espn.com/nba/player/_/id/4431941/rayj-dennis,Team Roster,Roster
+Indiana Pacers,ind,Enrique Freeman,F,24,"6' 7""",220 lbs,,Akron,--,,,,https://www.espn.com/nba/player/_/id/4592699/enrique-freeman,Team Roster,Roster
+Indiana Pacers,ind,Johnny Furphy,F,20,"6' 9""",200 lbs,,Kansas,"$1,850,842",,,,https://www.espn.com/nba/player/_/id/5157066/johnny-furphy,Team Roster,Roster
+Indiana Pacers,ind,Tyrese Haliburton,PG,25,"6' 5""",185 lbs,,Iowa State,"$42,176,000",,,,https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton,Team Roster,Roster
+Indiana Pacers,ind,Isaiah Jackson,SF,23,"6' 9""",205 lbs,,Kentucky,"$4,435,381",,,,https://www.espn.com/nba/player/_/id/4432170/isaiah-jackson,Team Roster,Roster
+Indiana Pacers,ind,Quenton Jackson,G,26,"6' 5""",173 lbs,,Texas A&M,--,,,,https://www.espn.com/nba/player/_/id/4592829/quenton-jackson,Team Roster,Roster
+Indiana Pacers,ind,James Johnson,PF,38,"6' 7""",240 lbs,,Wake Forest,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3999/james-johnson,Team Roster,Roster
+Indiana Pacers,ind,Bennedict Mathurin,SG,23,"6' 5""",210 lbs,,Arizona,"$7,245,720",,,,https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin,Team Roster,Roster
+Indiana Pacers,ind,T.J. McConnell,PG,33,"6' 1""",190 lbs,,Arizona,"$9,300,000",,,,https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell,Team Roster,Roster
+Indiana Pacers,ind,Andrew Nembhard,PG,25,"6' 4""",191 lbs,,Gonzaga,"$2,019,699",,,,https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard,Team Roster,Roster
+Indiana Pacers,ind,Aaron Nesmith,SF,25,"6' 6""",215 lbs,,Vanderbilt,"$11,000,000",,,,https://www.espn.com/nba/player/_/id/4396909/aaron-nesmith,Team Roster,Roster
+Indiana Pacers,ind,Ben Sheppard,G,23,"6' 6""",190 lbs,,Belmont,"$2,663,880",,,,https://www.espn.com/nba/player/_/id/4433076/ben-sheppard,Team Roster,Roster
+Indiana Pacers,ind,Pascal Siakam,PF,31,"6' 8""",245 lbs,,New Mexico State,"$42,176,000",,,,https://www.espn.com/nba/player/_/id/3149673/pascal-siakam,Team Roster,Roster
+Indiana Pacers,ind,Obi Toppin,PF,27,"6' 9""",220 lbs,,Dayton,"$12,946,429",,,,https://www.espn.com/nba/player/_/id/4278355/obi-toppin,Team Roster,Roster
+Indiana Pacers,ind,Myles Turner,C,29,"6' 11""",250 lbs,,Texas,"$19,928,500",,,,https://www.espn.com/nba/player/_/id/3133628/myles-turner,Team Roster,Roster
+Indiana Pacers,ind,Jarace Walker,F,21,"6' 7""",235 lbs,,Houston,"$6,362,520",,,,https://www.espn.com/nba/player/_/id/5106060/jarace-walker,Team Roster,Roster
+Los Angeles Clippers,lac,Patrick Baldwin Jr.,F,22,"6' 9""",220 lbs,,Milwaukee,"$2,448,840",,,,https://www.espn.com/nba/player/_/id/4433246/patrick-baldwin-jr,Team Roster,Roster
+Los Angeles Clippers,lac,Nicolas Batum,PF,36,"6' 8""",230 lbs,,--,"$4,668,000",,,,https://www.espn.com/nba/player/_/id/3416/nicolas-batum,Team Roster,Roster
+Los Angeles Clippers,lac,Bogdan Bogdanovic,SG,32,"6' 5""",225 lbs,,--,"$17,260,000",,,,https://www.espn.com/nba/player/_/id/3037789/bogdan-bogdanovic,Team Roster,Roster
+Los Angeles Clippers,lac,Kobe Brown,G,25,"6' 7""",250 lbs,,Missouri,"$2,533,920",,,,https://www.espn.com/nba/player/_/id/4431752/kobe-brown,Team Roster,Roster
+Los Angeles Clippers,lac,Cam Christie,G,19,"6' 6""",190 lbs,,Minnesota,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/4845363/cam-christie,Team Roster,Roster
+Los Angeles Clippers,lac,Amir Coffey,SG,28,"6' 7""",210 lbs,,Minnesota,"$3,938,271",,,,https://www.espn.com/nba/player/_/id/4066387/amir-coffey,Team Roster,Roster
+Los Angeles Clippers,lac,Kris Dunn,G,31,"6' 3""",205 lbs,,Providence,"$5,168,000",,,,https://www.espn.com/nba/player/_/id/2991139/kris-dunn,Team Roster,Roster
+Los Angeles Clippers,lac,Drew Eubanks,PF,28,"6' 10""",245 lbs,,Oregon State,"$5,000,000",,,,https://www.espn.com/nba/player/_/id/3914285/drew-eubanks,Team Roster,Roster
+Los Angeles Clippers,lac,Trentyn Flowers,G,20,"6' 9""",185 lbs,,--,--,,,,https://www.espn.com/nba/player/_/id/5165257/trentyn-flowers,Team Roster,Roster
+Los Angeles Clippers,lac,James Harden,SG,35,"6' 5""",220 lbs,,Arizona State,"$33,653,846",,,,https://www.espn.com/nba/player/_/id/3992/james-harden,Team Roster,Roster
+Los Angeles Clippers,lac,Derrick Jones Jr.,SF,28,"6' 6""",210 lbs,,UNLV,"$9,523,810",,,,https://www.espn.com/nba/player/_/id/3936099/derrick-jones-jr,Team Roster,Roster
+Los Angeles Clippers,lac,Kawhi Leonard,SF,33,"6' 7""",225 lbs,,San Diego State,"$49,350,000",,,,https://www.espn.com/nba/player/_/id/6450/kawhi-leonard,Team Roster,Roster
+Los Angeles Clippers,lac,Seth Lundy,G,25,"6' 4""",220 lbs,,Penn State,--,,,,https://www.espn.com/nba/player/_/id/4431775/seth-lundy,Team Roster,Roster
+Los Angeles Clippers,lac,Jordan Miller,G,25,"6' 5""",194 lbs,,Miami,"$1,050,000",,,,https://www.espn.com/nba/player/_/id/4396818/jordan-miller,Team Roster,Roster
+Los Angeles Clippers,lac,Patty Mills,PG,36,"6' 2""",180 lbs,,Saint Mary's,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4004/patty-mills,Team Roster,Roster
+Los Angeles Clippers,lac,Norman Powell,G,32,"6' 4""",215 lbs,,UCLA,"$19,241,379",,,,https://www.espn.com/nba/player/_/id/2595516/norman-powell,Team Roster,Roster
+Los Angeles Clippers,lac,Ben Simmons,PG,28,"6' 10""",240 lbs,,LSU,"$755,826",,,,https://www.espn.com/nba/player/_/id/3907387/ben-simmons,Team Roster,Roster
+Los Angeles Clippers,lac,Ivica Zubac,C,28,"7' 0""",240 lbs,,--,"$11,743,210",,,,https://www.espn.com/nba/player/_/id/4017837/ivica-zubac,Team Roster,Roster
+Los Angeles Lakers,lal,Luka Doncic,PG,26,"6' 6""",230 lbs,,--,"$43,031,940",,,,https://www.espn.com/nba/player/_/id/3945274/luka-doncic,Team Roster,Roster
+Los Angeles Lakers,lal,Dorian Finney-Smith,PF,32,"6' 7""",220 lbs,,Florida,"$14,924,168",,,,https://www.espn.com/nba/player/_/id/2578185/dorian-finney-smith,Team Roster,Roster
+Los Angeles Lakers,lal,Jordan Goodwin,G,26,"6' 4""",200 lbs,,Saint Louis,"$223,718",,,,https://www.espn.com/nba/player/_/id/4278402/jordan-goodwin,Team Roster,Roster
+Los Angeles Lakers,lal,Rui Hachimura,PF,27,"6' 8""",230 lbs,,Gonzaga,"$17,000,000",,,,https://www.espn.com/nba/player/_/id/4066648/rui-hachimura,Team Roster,Roster
+Los Angeles Lakers,lal,Jaxson Hayes,C,25,"7' 0""",220 lbs,,Texas,"$2,463,946",,,,https://www.espn.com/nba/player/_/id/4397077/jaxson-hayes,Team Roster,Roster
+Los Angeles Lakers,lal,Bronny James,G,20,"6' 2""",210 lbs,,USC,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/4683774/bronny-james,Team Roster,Roster
+Los Angeles Lakers,lal,LeBron James,SF,40,"6' 9""",250 lbs,,--,"$48,728,845",,,,https://www.espn.com/nba/player/_/id/1966/lebron-james,Team Roster,Roster
+Los Angeles Lakers,lal,Trey Jemison III,C,25,"6' 10""",260 lbs,,UAB,--,,,,https://www.espn.com/nba/player/_/id/4395623/trey-jemison-iii,Team Roster,Roster
+Los Angeles Lakers,lal,Maxi Kleber,PF,33,"6' 10""",240 lbs,,--,"$11,000,000",,,,https://www.espn.com/nba/player/_/id/2960236/maxi-kleber,Team Roster,Roster
+Los Angeles Lakers,lal,Dalton Knecht,G,24,"6' 6""",215 lbs,,Tennessee,"$3,819,120",,,,https://www.espn.com/nba/player/_/id/4897943/dalton-knecht,Team Roster,Roster
+Los Angeles Lakers,lal,Christian Koloko,C,24,"7' 0""",220 lbs,,Arizona,--,,,,https://www.espn.com/nba/player/_/id/4431778/christian-koloko,Team Roster,Roster
+Los Angeles Lakers,lal,Alex Len,C,32,"7' 0""",250 lbs,,Maryland,"$743,829",,,,https://www.espn.com/nba/player/_/id/2596107/alex-len,Team Roster,Roster
+Los Angeles Lakers,lal,Shake Milton,SG,28,"6' 5""",205 lbs,,SMU,"$2,875,000",,,,https://www.espn.com/nba/player/_/id/3915195/shake-milton,Team Roster,Roster
+Los Angeles Lakers,lal,Markieff Morris,PF,35,"6' 9""",245 lbs,,Kansas,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/6461/markieff-morris,Team Roster,Roster
+Los Angeles Lakers,lal,Austin Reaves,SG,27,"6' 5""",197 lbs,,Oklahoma,"$12,976,362",,,,https://www.espn.com/nba/player/_/id/4066457/austin-reaves,Team Roster,Roster
+Los Angeles Lakers,lal,Jarred Vanderbilt,PF,26,"6' 8""",214 lbs,,Kentucky,"$10,714,286",,,,https://www.espn.com/nba/player/_/id/4278077/jarred-vanderbilt,Team Roster,Roster
+Los Angeles Lakers,lal,Gabe Vincent,PG,29,"6' 2""",200 lbs,,UC Santa Barbara,"$11,000,000",,,,https://www.espn.com/nba/player/_/id/3137259/gabe-vincent,Team Roster,Roster
+Memphis Grizzlies,mem,Santi Aldama,PF,24,"7' 0""",215 lbs,,Loyola Maryland,"$3,960,531",,,,https://www.espn.com/nba/player/_/id/4593125/santi-aldama,Team Roster,Roster
+Memphis Grizzlies,mem,Cole Anthony,PG,25,"6' 2""",185 lbs,,North Carolina,"$12,900,000",,,,https://www.espn.com/nba/player/_/id/4432809/cole-anthony,Team Roster,Roster
+Memphis Grizzlies,mem,Marvin Bagley III,PF,26,"6' 10""",235 lbs,,Duke,"$12,500,000",,,,https://www.espn.com/nba/player/_/id/4277848/marvin-bagley-iii,Team Roster,Roster
+Memphis Grizzlies,mem,Kentavious Caldwell-Pope,SG,32,"6' 5""",204 lbs,,Georgia,"$22,757,000",,,,https://www.espn.com/nba/player/_/id/2581018/kentavious-caldwell-pope,Team Roster,Roster
+Memphis Grizzlies,mem,Brandon Clarke,PF,28,"6' 8""",215 lbs,,Gonzaga,"$12,500,000",,,,https://www.espn.com/nba/player/_/id/3906665/brandon-clarke,Team Roster,Roster
+Memphis Grizzlies,mem,Zach Edey,C,23,"7' 4""",305 lbs,,Purdue,"$5,756,880",,,,https://www.espn.com/nba/player/_/id/4600663/zach-edey,Team Roster,Roster
+Memphis Grizzlies,mem,Jay Huff,C,27,"7' 1""",240 lbs,,Virginia,"$2,088,033",,,,https://www.espn.com/nba/player/_/id/4065731/jay-huff,Team Roster,Roster
+Memphis Grizzlies,mem,GG Jackson,F,20,"6' 9""",210 lbs,,South Carolina,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/5105550/gg-jackson,Team Roster,Roster
+Memphis Grizzlies,mem,Jaren Jackson Jr.,PF,25,"6' 10""",242 lbs,,Michigan State,"$25,257,798",,,,https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr,Team Roster,Roster
+Memphis Grizzlies,mem,Yuki Kawamura,G,24,"5' 8""",159 lbs,,--,--,,,,https://www.espn.com/nba/player/_/id/5159895/yuki-kawamura,Team Roster,Roster
+Memphis Grizzlies,mem,Luke Kennard,SG,28,"6' 5""",206 lbs,,Duke,"$9,250,000",,,,https://www.espn.com/nba/player/_/id/3913174/luke-kennard,Team Roster,Roster
+Memphis Grizzlies,mem,John Konchar,SG,29,"6' 5""",210 lbs,,Purdue Fort Wayne,"$6,165,000",,,,https://www.espn.com/nba/player/_/id/3134932/john-konchar,Team Roster,Roster
+Memphis Grizzlies,mem,Ja Morant,PG,25,"6' 2""",174 lbs,,Murray State,"$36,725,670",,,,https://www.espn.com/nba/player/_/id/4279888/ja-morant,Team Roster,Roster
+Memphis Grizzlies,mem,Scotty Pippen Jr.,G,24,"6' 1""",170 lbs,,Vanderbilt,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4431785/scotty-pippen-jr,Team Roster,Roster
+Memphis Grizzlies,mem,Zyon Pullin,G,24,"6' 4""",206 lbs,,Florida,--,,,,https://www.espn.com/nba/player/_/id/4592979/zyon-pullin,Team Roster,Roster
+Memphis Grizzlies,mem,Cam Spencer,G,25,"6' 4""",205 lbs,,UConn,--,,,,https://www.espn.com/nba/player/_/id/4433083/cam-spencer,Team Roster,Roster
+Memphis Grizzlies,mem,Lamar Stevens,F,27,"6' 7""",230 lbs,,Penn State,"$383,912",,,,https://www.espn.com/nba/player/_/id/4066405/lamar-stevens,Team Roster,Roster
+Memphis Grizzlies,mem,Jaylen Wells,F,21,"6' 8""",206 lbs,,Washington State,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/5112087/jaylen-wells,Team Roster,Roster
+Memphis Grizzlies,mem,Vince Williams Jr.,G,24,"6' 4""",205 lbs,,VCU,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4397227/vince-williams-jr,Team Roster,Roster
+Miami Heat,mia,Bam Adebayo,C,27,"6' 9""",255 lbs,,Kentucky,"$34,848,340",,,,https://www.espn.com/nba/player/_/id/4066261/bam-adebayo,Team Roster,Roster
+Miami Heat,mia,Kyle Anderson,SF,31,"6' 9""",230 lbs,,UCLA,"$8,780,488",,,,https://www.espn.com/nba/player/_/id/2993874/kyle-anderson,Team Roster,Roster
+Miami Heat,mia,Alec Burks,SG,33,"6' 5""",214 lbs,,Colorado,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/6429/alec-burks,Team Roster,Roster
+Miami Heat,mia,Josh Christopher,SG,23,"6' 4""",215 lbs,,Arizona State,--,,,,https://www.espn.com/nba/player/_/id/4432168/josh-christopher,Team Roster,Roster
+Miami Heat,mia,Tyler Herro,PG,25,"6' 5""",195 lbs,,Kentucky,"$29,000,000",,,,https://www.espn.com/nba/player/_/id/4395725/tyler-herro,Team Roster,Roster
+Miami Heat,mia,Haywood Highsmith,F,28,"6' 5""",220 lbs,,Wheeling Jesuit,"$5,200,000",,,,https://www.espn.com/nba/player/_/id/4291678/haywood-highsmith,Team Roster,Roster
+Miami Heat,mia,Jaime Jaquez Jr.,G,24,"6' 6""",225 lbs,,UCLA,"$3,685,800",,,,https://www.espn.com/nba/player/_/id/4432848/jaime-jaquez-jr,Team Roster,Roster
+Miami Heat,mia,Keshad Johnson,F,23,"6' 7""",225 lbs,,Arizona,"$724,883",,,,https://www.espn.com/nba/player/_/id/4431786/keshad-johnson,Team Roster,Roster
+Miami Heat,mia,Nikola Jovic,F,22,"6' 10""",205 lbs,,--,"$2,464,200",,,,https://www.espn.com/nba/player/_/id/4997528/nikola-jovic,Team Roster,Roster
+Miami Heat,mia,Pelle Larsson,G,24,"6' 5""",215 lbs,,Arizona,"$1,157,143",,,,https://www.espn.com/nba/player/_/id/4601025/pelle-larsson,Team Roster,Roster
+Miami Heat,mia,Kevin Love,PF,36,"6' 8""",251 lbs,,UCLA,"$3,850,000",,,,https://www.espn.com/nba/player/_/id/3449/kevin-love,Team Roster,Roster
+Miami Heat,mia,Davion Mitchell,PG,26,"6' 0""",202 lbs,,Baylor,"$6,451,230",,,,https://www.espn.com/nba/player/_/id/4278053/davion-mitchell,Team Roster,Roster
+Miami Heat,mia,Duncan Robinson,F,31,"6' 7""",215 lbs,,Michigan,"$19,406,000",,,,https://www.espn.com/nba/player/_/id/3157465/duncan-robinson,Team Roster,Roster
+Miami Heat,mia,Terry Rozier,SG,31,"6' 1""",190 lbs,,Louisville,"$24,924,126",,,,https://www.espn.com/nba/player/_/id/3074752/terry-rozier,Team Roster,Roster
+Miami Heat,mia,Dru Smith,G,27,"6' 2""",203 lbs,,Missouri,--,,,,https://www.espn.com/nba/player/_/id/4066993/dru-smith,Team Roster,Roster
+Miami Heat,mia,Isaiah Stevens,G,24,"6' 0""",185 lbs,,Colorado State,--,,,,https://www.espn.com/nba/player/_/id/4432117/isaiah-stevens,Team Roster,Roster
+Miami Heat,mia,Kel'el Ware,C,21,"7' 0""",230 lbs,,Indiana,"$4,231,800",,,,https://www.espn.com/nba/player/_/id/5105623/kelel-ware,Team Roster,Roster
+Miami Heat,mia,Andrew Wiggins,SF,30,"6' 7""",197 lbs,,Kansas,"$26,276,786",,,,https://www.espn.com/nba/player/_/id/3059319/andrew-wiggins,Team Roster,Roster
+Milwaukee Bucks,mil,Giannis Antetokounmpo,PF,30,"6' 11""",243 lbs,,--,"$48,787,676",,,,https://www.espn.com/nba/player/_/id/3032977/giannis-antetokounmpo,Team Roster,Roster
+Milwaukee Bucks,mil,Jamaree Bouyea,G,25,"6' 2""",180 lbs,,San Francisco,--,,,,https://www.espn.com/nba/player/_/id/4280245/jamaree-bouyea,Team Roster,Roster
+Milwaukee Bucks,mil,Pat Connaughton,SG,32,"6' 5""",209 lbs,,Notre Dame,"$9,423,869",,,,https://www.espn.com/nba/player/_/id/2578239/pat-connaughton,Team Roster,Roster
+Milwaukee Bucks,mil,AJ Green,G,25,"6' 4""",190 lbs,,Northern Iowa,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4397475/aj-green,Team Roster,Roster
+Milwaukee Bucks,mil,Andre Jackson Jr.,G,23,"6' 6""",209 lbs,,UConn,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4432190/andre-jackson-jr,Team Roster,Roster
+Milwaukee Bucks,mil,Kyle Kuzma,SF,29,"6' 9""",221 lbs,,Utah,"$22,410,605",,,,https://www.espn.com/nba/player/_/id/3134907/kyle-kuzma,Team Roster,Roster
+Milwaukee Bucks,mil,Damian Lillard,PG,34,"6' 2""",195 lbs,,Weber State,"$48,787,676",,,,https://www.espn.com/nba/player/_/id/6606/damian-lillard,Team Roster,Roster
+Milwaukee Bucks,mil,Chris Livingston,F,21,"6' 6""",220 lbs,,Kentucky,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4433622/chris-livingston,Team Roster,Roster
+Milwaukee Bucks,mil,Brook Lopez,C,37,"7' 1""",282 lbs,,Stanford,"$23,000,000",,,,https://www.espn.com/nba/player/_/id/3448/brook-lopez,Team Roster,Roster
+Milwaukee Bucks,mil,Pete Nance,F,25,"6' 10""",225 lbs,,North Carolina,--,,,,https://www.espn.com/nba/player/_/id/4397233/pete-nance,Team Roster,Roster
+Milwaukee Bucks,mil,Kevin Porter Jr.,G,25,"6' 4""",203 lbs,,USC,"$2,237,691",,,,https://www.espn.com/nba/player/_/id/4397140/kevin-porter-jr,Team Roster,Roster
+Milwaukee Bucks,mil,Bobby Portis,F,30,"6' 10""",250 lbs,,Arkansas,"$12,578,286",,,,https://www.espn.com/nba/player/_/id/3064482/bobby-portis,Team Roster,Roster
+Milwaukee Bucks,mil,Taurean Prince,PF,31,"6' 6""",218 lbs,,Baylor,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2990962/taurean-prince,Team Roster,Roster
+Milwaukee Bucks,mil,Ryan Rollins,G,22,"6' 3""",180 lbs,,Toledo,"$491,887",,,,https://www.espn.com/nba/player/_/id/4591725/ryan-rollins,Team Roster,Roster
+Milwaukee Bucks,mil,Jericho Sims,C,26,"6' 10""",250 lbs,,Texas,"$2,092,344",,,,https://www.espn.com/nba/player/_/id/4277922/jericho-sims,Team Roster,Roster
+Milwaukee Bucks,mil,Tyler Smith,F,20,"6' 9""",224 lbs,,--,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/5167876/tyler-smith,Team Roster,Roster
+Milwaukee Bucks,mil,Gary Trent Jr.,SG,26,"6' 5""",204 lbs,,Duke,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4277843/gary-trent-jr,Team Roster,Roster
+Milwaukee Bucks,mil,Stanley Umude,G,26,"6' 6""",210 lbs,,Arkansas,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4279532/stanley-umude,Team Roster,Roster
+Minnesota Timberwolves,min,Nickeil Alexander-Walker,SG,26,"6' 5""",205 lbs,,Virginia Tech,"$4,312,500",,,,https://www.espn.com/nba/player/_/id/4278039/nickeil-alexander-walker,Team Roster,Roster
+Minnesota Timberwolves,min,Jaylen Clark,G,23,"6' 4""",205 lbs,,UCLA,"$429,323",,,,https://www.espn.com/nba/player/_/id/4432247/jaylen-clark,Team Roster,Roster
+Minnesota Timberwolves,min,Mike Conley,PG,37,"6' 0""",175 lbs,,Ohio State,"$9,975,962",,,,https://www.espn.com/nba/player/_/id/3195/mike-conley,Team Roster,Roster
+Minnesota Timberwolves,min,Donte DiVincenzo,SG,28,"6' 4""",203 lbs,,Villanova,"$11,445,000",,,,https://www.espn.com/nba/player/_/id/3934673/donte-divincenzo,Team Roster,Roster
+Minnesota Timberwolves,min,Rob Dillingham,G,20,"6' 3""",175 lbs,,Kentucky,"$6,262,920",,,,https://www.espn.com/nba/player/_/id/4684275/rob-dillingham,Team Roster,Roster
+Minnesota Timberwolves,min,Anthony Edwards,SG,23,"6' 4""",225 lbs,,Georgia,"$42,176,400",,,,https://www.espn.com/nba/player/_/id/4594268/anthony-edwards,Team Roster,Roster
+Minnesota Timberwolves,min,Jesse Edwards,C,25,"7' 0""",236 lbs,,West Virginia,--,,,,https://www.espn.com/nba/player/_/id/4431816/jesse-edwards,Team Roster,Roster
+Minnesota Timberwolves,min,Luka Garza,C,26,"6' 10""",243 lbs,,Iowa,"$2,162,606",,,,https://www.espn.com/nba/player/_/id/4277951/luka-garza,Team Roster,Roster
+Minnesota Timberwolves,min,Rudy Gobert,C,32,"7' 1""",258 lbs,,--,"$43,827,587",,,,https://www.espn.com/nba/player/_/id/3032976/rudy-gobert,Team Roster,Roster
+Minnesota Timberwolves,min,Bones Hyland,PG,24,"6' 2""",169 lbs,,VCU,"$4,158,439",,,,https://www.espn.com/nba/player/_/id/4592492/bones-hyland,Team Roster,Roster
+Minnesota Timberwolves,min,Joe Ingles,SG,37,"6' 8""",220 lbs,,--,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2968436/joe-ingles,Team Roster,Roster
+Minnesota Timberwolves,min,Jaden McDaniels,PF,24,"6' 9""",185 lbs,,Washington,"$23,017,242",,,,https://www.espn.com/nba/player/_/id/4431671/jaden-mcdaniels,Team Roster,Roster
+Minnesota Timberwolves,min,Leonard Miller,F,21,"6' 10""",220 lbs,,--,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/5044385/leonard-miller,Team Roster,Roster
+Minnesota Timberwolves,min,Josh Minott,F,22,"6' 8""",205 lbs,,Memphis,"$2,019,699",,,,https://www.espn.com/nba/player/_/id/4687718/josh-minott,Team Roster,Roster
+Minnesota Timberwolves,min,Tristen Newton,G,24,"6' 5""",190 lbs,,UConn,--,,,,https://www.espn.com/nba/player/_/id/4592965/tristen-newton,Team Roster,Roster
+Minnesota Timberwolves,min,Julius Randle,PF,30,"6' 9""",250 lbs,,Kentucky,"$33,073,920",,,,https://www.espn.com/nba/player/_/id/3064514/julius-randle,Team Roster,Roster
+Minnesota Timberwolves,min,Naz Reid,C,25,"6' 9""",264 lbs,,LSU,"$13,986,432",,,,https://www.espn.com/nba/player/_/id/4396971/naz-reid,Team Roster,Roster
+Minnesota Timberwolves,min,Terrence Shannon Jr.,G,24,"6' 6""",215 lbs,,Illinois,"$2,546,640",,,,https://www.espn.com/nba/player/_/id/4432847/terrence-shannon-jr,Team Roster,Roster
+New Orleans Pelicans,no,Jose Alvarado,PG,27,"6' 0""",179 lbs,,Georgia Tech,"$1,988,598",,,,https://www.espn.com/nba/player/_/id/4277869/jose-alvarado,Team Roster,Roster
+New Orleans Pelicans,no,Brandon Boston,SG,23,"6' 6""",188 lbs,,Kentucky,"$596,581",,,,https://www.espn.com/nba/player/_/id/4432162/brandon-boston,Team Roster,Roster
+New Orleans Pelicans,no,Keion Brooks Jr.,SF,24,"6' 7""",210 lbs,,Washington,--,,,,https://www.espn.com/nba/player/_/id/4431689/keion-brooks-jr,Team Roster,Roster
+New Orleans Pelicans,no,Bruce Brown,SF,28,"6' 4""",202 lbs,,Miami,"$23,000,000",,,,https://www.espn.com/nba/player/_/id/4065670/bruce-brown,Team Roster,Roster
+New Orleans Pelicans,no,Jamal Cain,F,26,"6' 6""",191 lbs,,Oakland,--,,,,https://www.espn.com/nba/player/_/id/4278572/jamal-cain,Team Roster,Roster
+New Orleans Pelicans,no,Jordan Hawkins,G,23,"6' 5""",190 lbs,,UConn,"$4,525,680",,,,https://www.espn.com/nba/player/_/id/4683750/jordan-hawkins,Team Roster,Roster
+New Orleans Pelicans,no,Herbert Jones,SF,26,"6' 7""",206 lbs,,Alabama,"$12,976,362",,,,https://www.espn.com/nba/player/_/id/4277813/herbert-jones,Team Roster,Roster
+New Orleans Pelicans,no,Kylor Kelley,C,27,"7' 0""",230 lbs,,Oregon State,--,,,,https://www.espn.com/nba/player/_/id/3950760/kylor-kelley,Team Roster,Roster
+New Orleans Pelicans,no,Karlo Matkovic,C,24,"6' 10""",231 lbs,,--,"$1,407,153",,,,https://www.espn.com/nba/player/_/id/4997538/karlo-matkovic,Team Roster,Roster
+New Orleans Pelicans,no,CJ McCollum,SG,33,"6' 3""",190 lbs,,Lehigh,"$33,333,333",,,,https://www.espn.com/nba/player/_/id/2490149/cj-mccollum,Team Roster,Roster
+New Orleans Pelicans,no,Yves Missi,C,21,"6' 11""",235 lbs,,Baylor,"$3,202,560",,,,https://www.espn.com/nba/player/_/id/5061589/yves-missi,Team Roster,Roster
+New Orleans Pelicans,no,Trey Murphy III,SG,25,"6' 8""",206 lbs,,Virginia,"$5,159,855",,,,https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii,Team Roster,Roster
+New Orleans Pelicans,no,Dejounte Murray,SG,28,"6' 4""",180 lbs,,Washington,"$29,535,801",,,,https://www.espn.com/nba/player/_/id/3907497/dejounte-murray,Team Roster,Roster
+New Orleans Pelicans,no,Kelly Olynyk,PF,34,"6' 11""",240 lbs,,Gonzaga,"$12,804,878",,,,https://www.espn.com/nba/player/_/id/2489663/kelly-olynyk,Team Roster,Roster
+New Orleans Pelicans,no,Elfrid Payton,G,31,"6' 3""",195 lbs,,Louisiana,--,,,,https://www.espn.com/nba/player/_/id/2583639/elfrid-payton,Team Roster,Roster
+New Orleans Pelicans,no,Lester Quinones,G,24,"6' 4""",208 lbs,,Memphis,--,,,,https://www.espn.com/nba/player/_/id/4431720/lester-quinones,Team Roster,Roster
+New Orleans Pelicans,no,Antonio Reeves,G,24,"6' 5""",205 lbs,,Kentucky,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/4592686/antonio-reeves,Team Roster,Roster
+New Orleans Pelicans,no,Jeremiah Robinson-Earl,F,24,"6' 8""",240 lbs,,Villanova,"$2,196,970",,,,https://www.espn.com/nba/player/_/id/4432813/jeremiah-robinson-earl,Team Roster,Roster
+New Orleans Pelicans,no,Zion Williamson,PF,24,"6' 6""",284 lbs,,Duke,"$36,725,670",,,,https://www.espn.com/nba/player/_/id/4395628/zion-williamson,Team Roster,Roster
+New York Knicks,ny,Precious Achiuwa,PF,25,"6' 8""",243 lbs,,Memphis,"$6,000,000",,,,https://www.espn.com/nba/player/_/id/4431679/precious-achiuwa,Team Roster,Roster
+New York Knicks,ny,OG Anunoby,SF,27,"6' 7""",240 lbs,,Indiana,"$36,637,931",,,,https://www.espn.com/nba/player/_/id/3934719/og-anunoby,Team Roster,Roster
+New York Knicks,ny,MarJon Beauchamp,F,24,"6' 7""",199 lbs,,--,"$2,733,720",,,,https://www.espn.com/nba/player/_/id/4432179/marjon-beauchamp,Team Roster,Roster
+New York Knicks,ny,Mikal Bridges,SF,28,"6' 6""",209 lbs,,Villanova,"$23,300,000",,,,https://www.espn.com/nba/player/_/id/3147657/mikal-bridges,Team Roster,Roster
+New York Knicks,ny,Jalen Brunson,PG,28,"6' 2""",190 lbs,,Villanova,"$24,960,001",,,,https://www.espn.com/nba/player/_/id/3934672/jalen-brunson,Team Roster,Roster
+New York Knicks,ny,Pacome Dadiet,G,19,"6' 8""",210 lbs,,--,"$1,808,080",,,,https://www.espn.com/nba/player/_/id/5211983/pacome-dadiet,Team Roster,Roster
+New York Knicks,ny,Josh Hart,SG,30,"6' 4""",215 lbs,,Villanova,"$18,144,000",,,,https://www.espn.com/nba/player/_/id/3062679/josh-hart,Team Roster,Roster
+New York Knicks,ny,Ariel Hukporti,C,23,"6' 11""",246 lbs,,--,"$1,064,558",,,,https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti,Team Roster,Roster
+New York Knicks,ny,Tyler Kolek,G,24,"6' 3""",195 lbs,,Marquette,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4433225/tyler-kolek,Team Roster,Roster
+New York Knicks,ny,Miles McBride,PG,24,"6' 1""",195 lbs,,West Virginia,"$4,710,144",,,,https://www.espn.com/nba/player/_/id/4431823/miles-mcbride,Team Roster,Roster
+New York Knicks,ny,Kevin McCullar Jr.,F,24,"6' 6""",210 lbs,,Kansas,--,,,,https://www.espn.com/nba/player/_/id/4411057/kevin-mccullar-jr,Team Roster,Roster
+New York Knicks,ny,Cameron Payne,PG,30,"6' 3""",183 lbs,,Murray State,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3064230/cameron-payne,Team Roster,Roster
+New York Knicks,ny,Mitchell Robinson,C,27,"7' 0""",240 lbs,,--,"$14,318,182",,,,https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson,Team Roster,Roster
+New York Knicks,ny,Landry Shamet,SG,28,"6' 4""",190 lbs,,Wichita State,"$1,343,690",,,,https://www.espn.com/nba/player/_/id/3914044/landry-shamet,Team Roster,Roster
+New York Knicks,ny,Karl-Anthony Towns,C,29,"7' 0""",248 lbs,,Kentucky,"$49,205,800",,,,https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns,Team Roster,Roster
+New York Knicks,ny,P.J. Tucker,PF,40,"6' 5""",245 lbs,,Texas,"$246,833",,,,https://www.espn.com/nba/player/_/id/3033/pj-tucker,Team Roster,Roster
+New York Knicks,ny,Anton Watson,F,24,"6' 8""",225 lbs,,Gonzaga,--,,,,https://www.espn.com/nba/player/_/id/4431705/anton-watson,Team Roster,Roster
+New York Knicks,ny,Delon Wright,SG,33,"6' 5""",185 lbs,,Utah,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3064447/delon-wright,Team Roster,Roster
+Oklahoma City Thunder,okc,Branden Carlson,C,26,"7' 0""",220 lbs,,Utah,"$990,895",,,,https://www.espn.com/nba/player/_/id/4592435/branden-carlson,Team Roster,Roster
+Oklahoma City Thunder,okc,Alex Caruso,SG,31,"6' 5""",186 lbs,,Texas A&M,"$9,890,000",,,,https://www.espn.com/nba/player/_/id/2991350/alex-caruso,Team Roster,Roster
+Oklahoma City Thunder,okc,Ousmane Dieng,F,22,"6' 9""",185 lbs,,--,"$5,027,040",,,,https://www.espn.com/nba/player/_/id/4997526/ousmane-dieng,Team Roster,Roster
+Oklahoma City Thunder,okc,Luguentz Dort,G,26,"6' 4""",220 lbs,,Arizona State,"$16,500,000",,,,https://www.espn.com/nba/player/_/id/4397020/luguentz-dort,Team Roster,Roster
+Oklahoma City Thunder,okc,Alex Ducas,G,24,"6' 7""",220 lbs,,Saint Mary's,--,,,,https://www.espn.com/nba/player/_/id/4432971/alex-ducas,Team Roster,Roster
+Oklahoma City Thunder,okc,Adam Flagler,F,25,"6' 3""",180 lbs,,Baylor,--,,,,https://www.espn.com/nba/player/_/id/4397654/adam-flagler,Team Roster,Roster
+Oklahoma City Thunder,okc,Shai Gilgeous-Alexander,PG,26,"6' 6""",195 lbs,,Kentucky,"$35,859,950",,,,https://www.espn.com/nba/player/_/id/4278073/shai-gilgeous-alexander,Team Roster,Roster
+Oklahoma City Thunder,okc,Isaiah Hartenstein,C,27,"7' 0""",250 lbs,,--,"$30,000,000",,,,https://www.espn.com/nba/player/_/id/4222252/isaiah-hartenstein,Team Roster,Roster
+Oklahoma City Thunder,okc,Chet Holmgren,PF,23,"7' 1""",208 lbs,,Gonzaga,"$10,880,640",,,,https://www.espn.com/nba/player/_/id/4433255/chet-holmgren,Team Roster,Roster
+Oklahoma City Thunder,okc,Isaiah Joe,SG,25,"6' 3""",165 lbs,,Arkansas,"$12,991,650",,,,https://www.espn.com/nba/player/_/id/4395702/isaiah-joe,Team Roster,Roster
+Oklahoma City Thunder,okc,Dillon Jones,F,23,"6' 5""",235 lbs,,Weber State,"$2,622,360",,,,https://www.espn.com/nba/player/_/id/4702159/dillon-jones,Team Roster,Roster
+Oklahoma City Thunder,okc,Ajay Mitchell,G,22,"6' 5""",190 lbs,,UC Santa Barbara,"$3,000,000",,,,https://www.espn.com/nba/player/_/id/4900671/ajay-mitchell,Team Roster,Roster
+Oklahoma City Thunder,okc,Nikola Topic,G,19,"6' 6""",200 lbs,,--,"$4,935,960",,,,https://www.espn.com/nba/player/_/id/5159925/nikola-topic,Team Roster,Roster
+Oklahoma City Thunder,okc,Cason Wallace,G,21,"6' 3""",195 lbs,,Kentucky,"$5,555,880",,,,https://www.espn.com/nba/player/_/id/4683692/cason-wallace,Team Roster,Roster
+Oklahoma City Thunder,okc,Aaron Wiggins,SG,26,"6' 5""",190 lbs,,Maryland,"$10,514,017",,,,https://www.espn.com/nba/player/_/id/4397183/aaron-wiggins,Team Roster,Roster
+Oklahoma City Thunder,okc,Jalen Williams,F,24,"6' 5""",211 lbs,,Santa Clara,"$4,775,760",,,,https://www.espn.com/nba/player/_/id/4593803/jalen-williams,Team Roster,Roster
+Oklahoma City Thunder,okc,Jaylin Williams,F,22,"6' 9""",240 lbs,,Arkansas,"$2,019,699",,,,https://www.espn.com/nba/player/_/id/4432823/jaylin-williams,Team Roster,Roster
+Oklahoma City Thunder,okc,Kenrich Williams,SF,30,"6' 6""",210 lbs,,TCU,"$6,669,000",,,,https://www.espn.com/nba/player/_/id/3133626/kenrich-williams,Team Roster,Roster
+Orlando Magic,orl,Paolo Banchero,PF,22,"6' 10""",250 lbs,,Duke,"$12,160,800",,,,https://www.espn.com/nba/player/_/id/4432573/paolo-banchero,Team Roster,Roster
+Orlando Magic,orl,Desmond Bane,SG,26,"6' 5""",215 lbs,,TCU,"$34,005,250",,,,https://www.espn.com/nba/player/_/id/4066320/desmond-bane,Team Roster,Roster
+Orlando Magic,orl,Goga Bitadze,C,25,"6' 10""",250 lbs,,--,"$9,057,971",,,,https://www.espn.com/nba/player/_/id/4348700/goga-bitadze,Team Roster,Roster
+Orlando Magic,orl,Anthony Black,G,21,"6' 7""",200 lbs,,Arkansas,"$7,607,760",,,,https://www.espn.com/nba/player/_/id/4712849/anthony-black,Team Roster,Roster
+Orlando Magic,orl,Wendell Carter Jr.,C,26,"6' 10""",270 lbs,,Duke,"$11,950,000",,,,https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr,Team Roster,Roster
+Orlando Magic,orl,Tristan da Silva,F,24,"6' 8""",217 lbs,,Colorado,"$3,628,440",,,,https://www.espn.com/nba/player/_/id/4702382/tristan-da-silva,Team Roster,Roster
+Orlando Magic,orl,Gary Harris,SG,30,"6' 4""",210 lbs,,Michigan State,"$6,730,769",,,,https://www.espn.com/nba/player/_/id/2999547/gary-harris,Team Roster,Roster
+Orlando Magic,orl,Caleb Houstan,G,22,"6' 8""",205 lbs,,Michigan,"$2,019,693",,,,https://www.espn.com/nba/player/_/id/4433623/caleb-houstan,Team Roster,Roster
+Orlando Magic,orl,Jett Howard,G,21,"6' 6""",215 lbs,,Michigan,"$5,278,320",,,,https://www.espn.com/nba/player/_/id/5105806/jett-howard,Team Roster,Roster
+Orlando Magic,orl,Jonathan Isaac,PF,27,"6' 10""",230 lbs,,Florida State,"$25,000,000",,,,https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac,Team Roster,Roster
+Orlando Magic,orl,Cory Joseph,PG,33,"6' 2""",200 lbs,,Texas,"$3,303,771",,,,https://www.espn.com/nba/player/_/id/6446/cory-joseph,Team Roster,Roster
+Orlando Magic,orl,Mac McClung,G,26,"6' 2""",185 lbs,,Texas Tech,--,,,,https://www.espn.com/nba/player/_/id/4397071/mac-mcclung,Team Roster,Roster
+Orlando Magic,orl,Trevelin Queen,SG,28,"6' 5""",190 lbs,,New Mexico State,--,,,,https://www.espn.com/nba/player/_/id/4409222/trevelin-queen,Team Roster,Roster
+Orlando Magic,orl,Jalen Suggs,SG,24,"6' 5""",205 lbs,,Gonzaga,"$9,188,385",,,,https://www.espn.com/nba/player/_/id/4432165/jalen-suggs,Team Roster,Roster
+Orlando Magic,orl,Ethan Thompson,G,26,"6' 5""",195 lbs,,Oregon State,--,,,,https://www.espn.com/nba/player/_/id/4278516/ethan-thompson,Team Roster,Roster
+Orlando Magic,orl,Franz Wagner,SF,23,"6' 10""",220 lbs,,Michigan,"$7,007,092",,,,https://www.espn.com/nba/player/_/id/4566434/franz-wagner,Team Roster,Roster
+Orlando Magic,orl,Moritz Wagner,C,28,"6' 11""",245 lbs,,Michigan,"$11,000,000",,,,https://www.espn.com/nba/player/_/id/3150844/moritz-wagner,Team Roster,Roster
+Philadelphia 76ers,phi,Marcus Bagley,F,23,"6' 6""",217 lbs,,Arizona State,--,,,,https://www.espn.com/nba/player/_/id/4433147/marcus-bagley,Team Roster,Roster
+Philadelphia 76ers,phi,Adem Bona,C,22,"6' 10""",235 lbs,,UCLA,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/5105637/adem-bona,Team Roster,Roster
+Philadelphia 76ers,phi,Oshae Brissett,SF,27,"6' 7""",210 lbs,,Syracuse,--,,,,https://www.espn.com/nba/player/_/id/4278031/oshae-brissett,Team Roster,Roster
+Philadelphia 76ers,phi,Jared Butler,SG,24,"6' 3""",193 lbs,,Baylor,"$745,726",,,,https://www.espn.com/nba/player/_/id/4395695/jared-butler,Team Roster,Roster
+Philadelphia 76ers,phi,Ricky Council IV,G,23,"6' 6""",207 lbs,,Arkansas,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4701234/ricky-council-iv,Team Roster,Roster
+Philadelphia 76ers,phi,Jeff Dowtin Jr.,G,28,"6' 3""",177 lbs,,Rhode Island,"$2,196,970",,,,https://www.espn.com/nba/player/_/id/4066786/jeff-dowtin-jr,Team Roster,Roster
+Philadelphia 76ers,phi,Andre Drummond,C,31,"6' 11""",279 lbs,,UConn,"$5,000,000",,,,https://www.espn.com/nba/player/_/id/6585/andre-drummond,Team Roster,Roster
+Philadelphia 76ers,phi,Justin Edwards,F,21,"6' 7""",203 lbs,,Kentucky,"$425,619",,,,https://www.espn.com/nba/player/_/id/4711297/justin-edwards,Team Roster,Roster
+Philadelphia 76ers,phi,Joel Embiid,C,31,"7' 0""",280 lbs,,Kansas,"$51,415,938",,,,https://www.espn.com/nba/player/_/id/3059318/joel-embiid,Team Roster,Roster
+Philadelphia 76ers,phi,Paul George,F,35,"6' 8""",220 lbs,,Fresno State,"$49,205,800",,,,https://www.espn.com/nba/player/_/id/4251/paul-george,Team Roster,Roster
+Philadelphia 76ers,phi,Eric Gordon,SG,36,"6' 3""",215 lbs,,Indiana,"$3,303,771",,,,https://www.espn.com/nba/player/_/id/3431/eric-gordon,Team Roster,Roster
+Philadelphia 76ers,phi,Quentin Grimes,SG,25,"6' 4""",210 lbs,,Houston,"$4,296,615",,,,https://www.espn.com/nba/player/_/id/4397014/quentin-grimes,Team Roster,Roster
+Philadelphia 76ers,phi,Jalen Hood-Schifino,G,22,"6' 5""",210 lbs,,Indiana,"$3,879,840",,,,https://www.espn.com/nba/player/_/id/4433626/jalen-hood-schifino,Team Roster,Roster
+Philadelphia 76ers,phi,Kyle Lowry,PG,39,"6' 0""",196 lbs,,Villanova,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3012/kyle-lowry,Team Roster,Roster
+Philadelphia 76ers,phi,Tyrese Maxey,PG,24,"6' 2""",200 lbs,,Kentucky,"$35,147,000",,,,https://www.espn.com/nba/player/_/id/4431678/tyrese-maxey,Team Roster,Roster
+Philadelphia 76ers,phi,Jared McCain,G,21,"6' 3""",195 lbs,,Duke,"$4,032,240",,,,https://www.espn.com/nba/player/_/id/4683778/jared-mccain,Team Roster,Roster
+Philadelphia 76ers,phi,Isaiah Mobley,F,25,"6' 8""",238 lbs,,USC,--,,,,https://www.espn.com/nba/player/_/id/4432815/isaiah-mobley,Team Roster,Roster
+Philadelphia 76ers,phi,Kelly Oubre Jr.,SG,29,"6' 8""",203 lbs,,Kansas,"$7,983,000",,,,https://www.espn.com/nba/player/_/id/3133603/kelly-oubre-jr,Team Roster,Roster
+Philadelphia 76ers,phi,Alex Reese,F,26,"6' 9""",245 lbs,,Alabama,--,,,,https://www.espn.com/nba/player/_/id/4277812/alex-reese,Team Roster,Roster
+Philadelphia 76ers,phi,Lonnie Walker IV,G,26,"6' 4""",205 lbs,,Miami,"$780,932",,,,https://www.espn.com/nba/player/_/id/4277890/lonnie-walker-iv,Team Roster,Roster
+Philadelphia 76ers,phi,Guerschon Yabusele,F,29,"6' 8""",265 lbs,,--,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4017844/guerschon-yabusele,Team Roster,Roster
+Phoenix Suns,phx,Grayson Allen,SG,29,"6' 4""",198 lbs,,Duke,"$15,625,000",,,,https://www.espn.com/nba/player/_/id/3135045/grayson-allen,Team Roster,Roster
+Phoenix Suns,phx,Bradley Beal,SG,31,"6' 4""",207 lbs,,Florida,"$50,203,930",,,,https://www.espn.com/nba/player/_/id/6580/bradley-beal,Team Roster,Roster
+Phoenix Suns,phx,Bol Bol,C,25,"7' 3""",220 lbs,,Oregon,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4397102/bol-bol,Team Roster,Roster
+Phoenix Suns,phx,Devin Booker,SG,28,"6' 6""",206 lbs,,Kentucky,"$49,205,800",,,,https://www.espn.com/nba/player/_/id/3136193/devin-booker,Team Roster,Roster
+Phoenix Suns,phx,Jalen Bridges,F,24,"6' 8""",225 lbs,,Baylor,--,,,,https://www.espn.com/nba/player/_/id/4432946/jalen-bridges,Team Roster,Roster
+Phoenix Suns,phx,Ryan Dunn,F,22,"6' 8""",216 lbs,,Virginia,"$2,538,240",,,,https://www.espn.com/nba/player/_/id/4888725/ryan-dunn,Team Roster,Roster
+Phoenix Suns,phx,Kevin Durant,PF,36,"6' 11""",240 lbs,,Texas,"$51,179,021",,,,https://www.espn.com/nba/player/_/id/3202/kevin-durant,Team Roster,Roster
+Phoenix Suns,phx,Collin Gillespie,G,25,"6' 1""",195 lbs,,Villanova,--,,,,https://www.espn.com/nba/player/_/id/4278585/collin-gillespie,Team Roster,Roster
+Phoenix Suns,phx,Oso Ighodaro,C,22,"7' 0""",235 lbs,,Marquette,"$1,157,153",,,,https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro,Team Roster,Roster
+Phoenix Suns,phx,Tyus Jones,PG,29,"6' 1""",196 lbs,,Duke,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3135046/tyus-jones,Team Roster,Roster
+Phoenix Suns,phx,Damion Lee,SG,32,"6' 6""",210 lbs,,Louisville,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2595209/damion-lee,Team Roster,Roster
+Phoenix Suns,phx,Cody Martin,SF,29,"6' 6""",205 lbs,,Nevada,"$8,120,000",,,,https://www.espn.com/nba/player/_/id/3138161/cody-martin,Team Roster,Roster
+Phoenix Suns,phx,Vasilije Micic,G,31,"6' 3""",188 lbs,,--,"$7,723,000",,,,https://www.espn.com/nba/player/_/id/3102532/vasilije-micic,Team Roster,Roster
+Phoenix Suns,phx,Monte Morris,PG,29,"6' 2""",183 lbs,,Iowa State,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3059310/monte-morris,Team Roster,Roster
+Phoenix Suns,phx,Royce O'Neale,PF,32,"6' 6""",226 lbs,,Baylor,"$9,821,429",,,,https://www.espn.com/nba/player/_/id/2583632/royce-oneale,Team Roster,Roster
+Phoenix Suns,phx,Mason Plumlee,C,35,"6' 10""",254 lbs,,Duke,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2488653/mason-plumlee,Team Roster,Roster
+Phoenix Suns,phx,Nick Richards,C,27,"7' 0""",245 lbs,,Kentucky,"$5,000,000",,,,https://www.espn.com/nba/player/_/id/4278076/nick-richards,Team Roster,Roster
+Phoenix Suns,phx,TyTy Washington Jr.,G,23,"6' 3""",195 lbs,,Kentucky,--,,,,https://www.espn.com/nba/player/_/id/4683749/tyty-washington-jr,Team Roster,Roster
+Portland Trail Blazers,por,Deni Avdija,SF,24,"6' 9""",240 lbs,,--,"$15,625,000",,,,https://www.espn.com/nba/player/_/id/4683021/deni-avdija,Team Roster,Roster
+Portland Trail Blazers,por,Deandre Ayton,C,26,"7' 0""",252 lbs,,Arizona,"$34,005,126",,,,https://www.espn.com/nba/player/_/id/4278129/deandre-ayton,Team Roster,Roster
+Portland Trail Blazers,por,Dalano Banton,G,25,"6' 8""",203 lbs,,Nebraska,"$2,196,970",,,,https://www.espn.com/nba/player/_/id/4397885/dalano-banton,Team Roster,Roster
+Portland Trail Blazers,por,Toumani Camara,F,25,"6' 7""",229 lbs,,Dayton,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/4431736/toumani-camara,Team Roster,Roster
+Portland Trail Blazers,por,Sidy Cissoko,G,21,"6' 6""",200 lbs,,--,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/5081727/sidy-cissoko,Team Roster,Roster
+Portland Trail Blazers,por,Donovan Clingan,C,21,"7' 2""",280 lbs,,UConn,"$6,586,440",,,,https://www.espn.com/nba/player/_/id/5105565/donovan-clingan,Team Roster,Roster
+Portland Trail Blazers,por,Jerami Grant,SF,31,"6' 7""",210 lbs,,Syracuse,"$29,793,104",,,,https://www.espn.com/nba/player/_/id/2991070/jerami-grant,Team Roster,Roster
+Portland Trail Blazers,por,Scoot Henderson,G,21,"6' 3""",206 lbs,,--,"$10,259,160",,,,https://www.espn.com/nba/player/_/id/4683678/scoot-henderson,Team Roster,Roster
+Portland Trail Blazers,por,Bryce McGowens,G,22,"6' 6""",190 lbs,,Nebraska,"$2,019,699",,,,https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens,Team Roster,Roster
+Portland Trail Blazers,por,Justin Minaya,F,26,"6' 5""",205 lbs,,Providence,--,,,,https://www.espn.com/nba/player/_/id/4278111/justin-minaya,Team Roster,Roster
+Portland Trail Blazers,por,Kris Murray,F,24,"6' 8""",216 lbs,,Iowa,"$2,990,040",,,,https://www.espn.com/nba/player/_/id/4594326/kris-murray,Team Roster,Roster
+Portland Trail Blazers,por,Duop Reath,C,28,"6' 9""",245 lbs,,LSU,"$2,048,780",,,,https://www.espn.com/nba/player/_/id/4066268/duop-reath,Team Roster,Roster
+Portland Trail Blazers,por,Rayan Rupert,G,21,"6' 6""",195 lbs,,--,"$1,891,857",,,,https://www.espn.com/nba/player/_/id/5099752/rayan-rupert,Team Roster,Roster
+Portland Trail Blazers,por,Shaedon Sharpe,SG,22,"6' 5""",208 lbs,,Kentucky,"$6,614,160",,,,https://www.espn.com/nba/player/_/id/4914336/shaedon-sharpe,Team Roster,Roster
+Portland Trail Blazers,por,Anfernee Simons,SG,26,"6' 3""",200 lbs,,--,"$25,892,857",,,,https://www.espn.com/nba/player/_/id/4351851/anfernee-simons,Team Roster,Roster
+Portland Trail Blazers,por,Matisse Thybulle,SG,28,"6' 5""",201 lbs,,Washington,"$11,025,160",,,,https://www.espn.com/nba/player/_/id/3907498/matisse-thybulle,Team Roster,Roster
+Portland Trail Blazers,por,Jabari Walker,F,22,"6' 7""",237 lbs,,Colorado,"$2,019,699",,,,https://www.espn.com/nba/player/_/id/4432446/jabari-walker,Team Roster,Roster
+Portland Trail Blazers,por,Robert Williams III,C,27,"6' 9""",249 lbs,,Texas A&M,"$12,428,571",,,,https://www.espn.com/nba/player/_/id/4066211/robert-williams-iii,Team Roster,Roster
+Sacramento Kings,sac,Devin Carter,G,23,"6' 2""",195 lbs,,Providence,"$4,702,800",,,,https://www.espn.com/nba/player/_/id/4433188/devin-carter,Team Roster,Roster
+Sacramento Kings,sac,Isaiah Crawford,F,24,"6' 6""",220 lbs,,Louisiana Tech,--,,,,https://www.espn.com/nba/player/_/id/4592857/isaiah-crawford,Team Roster,Roster
+Sacramento Kings,sac,Jae Crowder,PF,34,"6' 6""",235 lbs,,Marquette,"$1,655,619",,,,https://www.espn.com/nba/player/_/id/6581/jae-crowder,Team Roster,Roster
+Sacramento Kings,sac,Terence Davis,G,28,"6' 4""",201 lbs,,Ole Miss,--,,,,https://www.espn.com/nba/player/_/id/3919454/terence-davis,Team Roster,Roster
+Sacramento Kings,sac,DeMar DeRozan,SF,35,"6' 6""",220 lbs,,USC,"$23,400,000",,,,https://www.espn.com/nba/player/_/id/3978/demar-derozan,Team Roster,Roster
+Sacramento Kings,sac,Keon Ellis,G,25,"6' 4""",175 lbs,,Alabama,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4702177/keon-ellis,Team Roster,Roster
+Sacramento Kings,sac,Markelle Fultz,PG,27,"6' 4""",209 lbs,,Washington,"$731,831",,,,https://www.espn.com/nba/player/_/id/4066636/markelle-fultz,Team Roster,Roster
+Sacramento Kings,sac,Isaac Jones,C,25,"6' 9""",245 lbs,,Washington State,"$152,957",,,,https://www.espn.com/nba/player/_/id/5107818/isaac-jones,Team Roster,Roster
+Sacramento Kings,sac,Mason Jones,G,26,"6' 4""",200 lbs,,Arkansas,--,,,,https://www.espn.com/nba/player/_/id/4395704/mason-jones,Team Roster,Roster
+Sacramento Kings,sac,Jake LaRavia,F,23,"6' 7""",235 lbs,,Wake Forest,"$3,352,680",,,,https://www.espn.com/nba/player/_/id/4592691/jake-laravia,Team Roster,Roster
+Sacramento Kings,sac,Zach LaVine,SG,30,"6' 5""",200 lbs,,UCLA,"$44,531,940",,,,https://www.espn.com/nba/player/_/id/3064440/zach-lavine,Team Roster,Roster
+Sacramento Kings,sac,Trey Lyles,PF,29,"6' 9""",234 lbs,,Kentucky,"$8,000,000",,,,https://www.espn.com/nba/player/_/id/3136196/trey-lyles,Team Roster,Roster
+Sacramento Kings,sac,Doug McDermott,SF,33,"6' 6""",225 lbs,,Creighton,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/2528588/doug-mcdermott,Team Roster,Roster
+Sacramento Kings,sac,Malik Monk,SG,27,"6' 3""",200 lbs,,Kentucky,"$17,405,202",,,,https://www.espn.com/nba/player/_/id/4066262/malik-monk,Team Roster,Roster
+Sacramento Kings,sac,Keegan Murray,SF,24,"6' 8""",225 lbs,,Iowa,"$8,809,560",,,,https://www.espn.com/nba/player/_/id/4594327/keegan-murray,Team Roster,Roster
+Sacramento Kings,sac,Domantas Sabonis,PF,29,"6' 10""",240 lbs,,Gonzaga,"$40,500,000",,,,https://www.espn.com/nba/player/_/id/3155942/domantas-sabonis,Team Roster,Roster
+Sacramento Kings,sac,Terry Taylor,F,25,"6' 5""",230 lbs,,Austin Peay,--,,,,https://www.espn.com/nba/player/_/id/4279815/terry-taylor,Team Roster,Roster
+Sacramento Kings,sac,Jonas Valanciunas,C,33,"6' 11""",265 lbs,,--,"$9,900,000",,,,https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas,Team Roster,Roster
+San Antonio Spurs,sa,Harrison Barnes,SF,33,"6' 8""",225 lbs,,North Carolina,"$18,000,000",,,,https://www.espn.com/nba/player/_/id/6578/harrison-barnes,Team Roster,Roster
+San Antonio Spurs,sa,Charles Bassey,C,24,"6' 10""",230 lbs,,Western Kentucky,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4397886/charles-bassey,Team Roster,Roster
+San Antonio Spurs,sa,Bismack Biyombo,C,32,"6' 8""",255 lbs,,--,"$503,884",,,,https://www.espn.com/nba/player/_/id/6427/bismack-biyombo,Team Roster,Roster
+San Antonio Spurs,sa,Malaki Branham,G,22,"6' 4""",180 lbs,,Ohio State,"$3,217,920",,,,https://www.espn.com/nba/player/_/id/4565201/malaki-branham,Team Roster,Roster
+San Antonio Spurs,sa,Stephon Castle,G,20,"6' 6""",215 lbs,,UConn,"$9,131,760",,,,https://www.espn.com/nba/player/_/id/4845367/stephon-castle,Team Roster,Roster
+San Antonio Spurs,sa,Julian Champagnie,F,23,"6' 7""",217 lbs,,St. John's,"$3,000,000",,,,https://www.espn.com/nba/player/_/id/4592479/julian-champagnie,Team Roster,Roster
+San Antonio Spurs,sa,David Duke Jr.,G,25,"6' 4""",204 lbs,,Providence,--,,,,https://www.espn.com/nba/player/_/id/4397107/david-duke-jr,Team Roster,Roster
+San Antonio Spurs,sa,De'Aaron Fox,PG,27,"6' 3""",185 lbs,,Kentucky,"$34,848,340",,,,https://www.espn.com/nba/player/_/id/4066259/deaaron-fox,Team Roster,Roster
+San Antonio Spurs,sa,Harrison Ingram,F,22,"6' 5""",230 lbs,,North Carolina,--,,,,https://www.espn.com/nba/player/_/id/4433618/harrison-ingram,Team Roster,Roster
+San Antonio Spurs,sa,Keldon Johnson,SF,25,"6' 5""",220 lbs,,Kentucky,"$19,000,000",,,,https://www.espn.com/nba/player/_/id/4395723/keldon-johnson,Team Roster,Roster
+San Antonio Spurs,sa,Sandro Mamukelashvili,PF,26,"6' 9""",240 lbs,,Seton Hall,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4278580/sandro-mamukelashvili,Team Roster,Roster
+San Antonio Spurs,sa,Jordan McLaughlin,PG,29,"6' 0""",185 lbs,,USC,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/3134916/jordan-mclaughlin,Team Roster,Roster
+San Antonio Spurs,sa,Riley Minix,F,24,"6' 7""",230 lbs,,Morehead State,--,,,,https://www.espn.com/nba/player/_/id/5177362/riley-minix,Team Roster,Roster
+San Antonio Spurs,sa,Chris Paul,PG,40,"6' 0""",175 lbs,,Wake Forest,"$10,460,000",,,,https://www.espn.com/nba/player/_/id/2779/chris-paul,Team Roster,Roster
+San Antonio Spurs,sa,Jeremy Sochan,F,22,"6' 8""",230 lbs,,Baylor,"$5,570,040",,,,https://www.espn.com/nba/player/_/id/4610139/jeremy-sochan,Team Roster,Roster
+San Antonio Spurs,sa,Devin Vassell,SG,24,"6' 5""",205 lbs,,Florida State,"$29,347,826",,,,https://www.espn.com/nba/player/_/id/4395630/devin-vassell,Team Roster,Roster
+San Antonio Spurs,sa,Victor Wembanyama,C,21,"7' 3""",235 lbs,,--,"$12,768,960",,,,https://www.espn.com/nba/player/_/id/5104157/victor-wembanyama,Team Roster,Roster
+San Antonio Spurs,sa,Blake Wesley,G,22,"6' 3""",185 lbs,,Notre Dame,"$2,624,280",,,,https://www.espn.com/nba/player/_/id/4683935/blake-wesley,Team Roster,Roster
+Toronto Raptors,tor,Ochai Agbaji,G,25,"6' 5""",215 lbs,,Kansas,"$4,310,280",,,,https://www.espn.com/nba/player/_/id/4397018/ochai-agbaji,Team Roster,Roster
+Toronto Raptors,tor,Scottie Barnes,SF,23,"6' 7""",237 lbs,,Florida State,"$10,130,980",,,,https://www.espn.com/nba/player/_/id/4433134/scottie-barnes,Team Roster,Roster
+Toronto Raptors,tor,RJ Barrett,SG,25,"6' 6""",214 lbs,,Duke,"$25,794,643",,,,https://www.espn.com/nba/player/_/id/4395625/rj-barrett,Team Roster,Roster
+Toronto Raptors,tor,Jamison Battle,F,24,"6' 7""",220 lbs,,Ohio State,"$1,000,000",,,,https://www.espn.com/nba/player/_/id/4431893/jamison-battle,Team Roster,Roster
+Toronto Raptors,tor,Chris Boucher,PF,32,"6' 9""",200 lbs,,Oregon,"$10,810,000",,,,https://www.espn.com/nba/player/_/id/3948153/chris-boucher,Team Roster,Roster
+Toronto Raptors,tor,Colin Castleton,C,25,"6' 10""",250 lbs,,Florida,--,,,,https://www.espn.com/nba/player/_/id/4397204/colin-castleton,Team Roster,Roster
+Toronto Raptors,tor,Ulrich Chomche,C,19,"6' 11""",235 lbs,,--,--,,,,https://www.espn.com/nba/player/_/id/5211984/ulrich-chomche,Team Roster,Roster
+Toronto Raptors,tor,Gradey Dick,G,21,"6' 6""",200 lbs,,Kansas,"$4,763,760",,,,https://www.espn.com/nba/player/_/id/5106258/gradey-dick,Team Roster,Roster
+Toronto Raptors,tor,Brandon Ingram,SF,27,"6' 8""",190 lbs,,Duke,"$36,016,200",,,,https://www.espn.com/nba/player/_/id/3913176/brandon-ingram,Team Roster,Roster
+Toronto Raptors,tor,A.J. Lawson,G,24,"6' 6""",179 lbs,,South Carolina,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4067017/aj-lawson,Team Roster,Roster
+Toronto Raptors,tor,Jonathan Mogbo,F,23,"6' 9""",225 lbs,,San Francisco,"$1,862,265",,,,https://www.espn.com/nba/player/_/id/5107897/jonathan-mogbo,Team Roster,Roster
+Toronto Raptors,tor,Eugene Omoruyi,F,28,"6' 7""",244 lbs,,Oregon,"$2,196,970",,,,https://www.espn.com/nba/player/_/id/4066410/eugene-omoruyi,Team Roster,Roster
+Toronto Raptors,tor,Jakob Poeltl,C,29,"7' 0""",260 lbs,,Utah,"$19,500,000",,,,https://www.espn.com/nba/player/_/id/3134908/jakob-poeltl,Team Roster,Roster
+Toronto Raptors,tor,Immanuel Quickley,SG,26,"6' 2""",190 lbs,,Kentucky,"$32,500,000",,,,https://www.espn.com/nba/player/_/id/4395724/immanuel-quickley,Team Roster,Roster
+Toronto Raptors,tor,Jared Rhoden,G,25,"6' 5""",210 lbs,,Seton Hall,--,,,,https://www.espn.com/nba/player/_/id/4397119/jared-rhoden,Team Roster,Roster
+Toronto Raptors,tor,Jamal Shead,G,22,"6' 1""",200 lbs,,Houston,"$1,862,265",,,,https://www.espn.com/nba/player/_/id/4432241/jamal-shead,Team Roster,Roster
+Toronto Raptors,tor,Garrett Temple,SF,39,"6' 5""",195 lbs,,LSU,"$2,087,519",,,,https://www.espn.com/nba/player/_/id/4023/garrett-temple,Team Roster,Roster
+Toronto Raptors,tor,Ja'Kobe Walter,G,20,"6' 5""",180 lbs,,Baylor,"$3,565,000",,,,https://www.espn.com/nba/player/_/id/4684272/jakobe-walter,Team Roster,Roster
+Utah Jazz,utah,Jordan Clarkson,PG,33,"6' 3""",194 lbs,,Missouri,"$14,092,577",,,,https://www.espn.com/nba/player/_/id/2528426/jordan-clarkson,Team Roster,Roster
+Utah Jazz,utah,Isaiah Collier,G,20,"6' 3""",210 lbs,,USC,"$2,520,120",,,,https://www.espn.com/nba/player/_/id/4683766/isaiah-collier,Team Roster,Roster
+Utah Jazz,utah,John Collins,PF,27,"6' 9""",226 lbs,,Wake Forest,"$26,580,000",,,,https://www.espn.com/nba/player/_/id/3908845/john-collins,Team Roster,Roster
+Utah Jazz,utah,Kyle Filipowski,F,21,"6' 11""",250 lbs,,Duke,"$3,000,000",,,,https://www.espn.com/nba/player/_/id/4684793/kyle-filipowski,Team Roster,Roster
+Utah Jazz,utah,Keyonte George,G,21,"6' 4""",185 lbs,,Baylor,"$4,084,200",,,,https://www.espn.com/nba/player/_/id/4433627/keyonte-george,Team Roster,Roster
+Utah Jazz,utah,Elijah Harkless,G,25,"6' 3""",195 lbs,,UNLV,--,,,,https://www.espn.com/nba/player/_/id/4397449/elijah-harkless,Team Roster,Roster
+Utah Jazz,utah,Taylor Hendricks,F,21,"6' 9""",215 lbs,,UCF,"$5,848,680",,,,https://www.espn.com/nba/player/_/id/4684806/taylor-hendricks,Team Roster,Roster
+Utah Jazz,utah,Johnny Juzang,G,24,"6' 5""",226 lbs,,UCLA,"$3,087,519",,,,https://www.espn.com/nba/player/_/id/4432817/johnny-juzang,Team Roster,Roster
+Utah Jazz,utah,Walker Kessler,C,23,"7' 0""",245 lbs,,Auburn,"$2,965,920",,,,https://www.espn.com/nba/player/_/id/4433136/walker-kessler,Team Roster,Roster
+Utah Jazz,utah,Lauri Markkanen,PF,28,"7' 0""",240 lbs,,Arizona,"$42,176,400",,,,https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen,Team Roster,Roster
+Utah Jazz,utah,KJ Martin,F,24,"6' 6""",215 lbs,,--,"$7,975,000",,,,https://www.espn.com/nba/player/_/id/4431828/kj-martin,Team Roster,Roster
+Utah Jazz,utah,Svi Mykhailiuk,SG,28,"6' 7""",205 lbs,,Kansas,"$3,500,000",,,,https://www.espn.com/nba/player/_/id/3133602/svi-mykhailiuk,Team Roster,Roster
+Utah Jazz,utah,Micah Potter,C,27,"6' 9""",248 lbs,,Wisconsin,--,,,,https://www.espn.com/nba/player/_/id/4066399/micah-potter,Team Roster,Roster
+Utah Jazz,utah,Brice Sensabaugh,F,21,"6' 5""",235 lbs,,Ohio State,"$2,571,480",,,,https://www.espn.com/nba/player/_/id/5105839/brice-sensabaugh,Team Roster,Roster
+Utah Jazz,utah,Collin Sexton,PG,26,"6' 3""",190 lbs,,Alabama,"$18,350,000",,,,https://www.espn.com/nba/player/_/id/4277811/collin-sexton,Team Roster,Roster
+Utah Jazz,utah,Jaden Springer,G,22,"6' 4""",202 lbs,,Tennessee,"$634,437",,,,https://www.espn.com/nba/player/_/id/4432164/jaden-springer,Team Roster,Roster
+Utah Jazz,utah,Oscar Tshiebwe,C,25,"6' 8""",255 lbs,,Kentucky,--,,,,https://www.espn.com/nba/player/_/id/4432827/oscar-tshiebwe,Team Roster,Roster
+Utah Jazz,utah,Cody Williams,F,20,"6' 7""",190 lbs,,Colorado,"$5,485,080",,,,https://www.espn.com/nba/player/_/id/4895758/cody-williams,Team Roster,Roster
+Washington Wizards,wsh,Saddiq Bey,SF,26,"6' 7""",215 lbs,,Villanova,"$6,440,678",,,,https://www.espn.com/nba/player/_/id/4397136/saddiq-bey,Team Roster,Roster
+Washington Wizards,wsh,Malcolm Brogdon,PG,32,"6' 4""",229 lbs,,Virginia,"$22,500,000",,,,https://www.espn.com/nba/player/_/id/2566769/malcolm-brogdon,Team Roster,Roster
+Washington Wizards,wsh,Bub Carrington,G,19,"6' 4""",190 lbs,,Pittsburgh,"$4,454,880",,,,https://www.espn.com/nba/player/_/id/4845374/bub-carrington,Team Roster,Roster
+Washington Wizards,wsh,Justin Champagnie,SF,23,"6' 6""",206 lbs,,Pittsburgh,"$1,800,000",,,,https://www.espn.com/nba/player/_/id/4432907/justin-champagnie,Team Roster,Roster
+Washington Wizards,wsh,Bilal Coulibaly,SG,20,"6' 8""",195 lbs,,--,"$6,945,240",,,,https://www.espn.com/nba/player/_/id/5104155/bilal-coulibaly,Team Roster,Roster
+Washington Wizards,wsh,Kyshawn George,F,21,"6' 8""",200 lbs,,Miami,"$2,825,520",,,,https://www.espn.com/nba/player/_/id/5174563/kyshawn-george,Team Roster,Roster
+Washington Wizards,wsh,Anthony Gill,PF,32,"6' 8""",230 lbs,,Virginia,"$2,237,691",,,,https://www.espn.com/nba/player/_/id/2581184/anthony-gill,Team Roster,Roster
+Washington Wizards,wsh,Richaun Holmes,F,31,"6' 9""",235 lbs,,Bowling Green,"$12,648,321",,,,https://www.espn.com/nba/player/_/id/2993370/richaun-holmes,Team Roster,Roster
+Washington Wizards,wsh,AJ Johnson,G,20,"6' 5""",160 lbs,,--,"$2,795,294",,,,https://www.espn.com/nba/player/_/id/5170947/aj-johnson,Team Roster,Roster
+Washington Wizards,wsh,Colby Jones,G,23,"6' 6""",207 lbs,,Xavier,"$2,120,693",,,,https://www.espn.com/nba/player/_/id/4433378/colby-jones,Team Roster,Roster
+Washington Wizards,wsh,Corey Kispert,SF,26,"6' 6""",224 lbs,,Gonzaga,"$5,705,888",,,,https://www.espn.com/nba/player/_/id/4280151/corey-kispert,Team Roster,Roster
+Washington Wizards,wsh,Jaylen Martin,G,21,"6' 6""",216 lbs,,--,--,,,,https://www.espn.com/nba/player/_/id/4684737/jaylen-martin,Team Roster,Roster
+Washington Wizards,wsh,Khris Middleton,SF,33,"6' 7""",222 lbs,,Texas A&M,"$31,666,676",,,,https://www.espn.com/nba/player/_/id/6609/khris-middleton,Team Roster,Roster
+Washington Wizards,wsh,Jordan Poole,SG,26,"6' 4""",194 lbs,,Michigan,"$29,651,786",,,,https://www.espn.com/nba/player/_/id/4277956/jordan-poole,Team Roster,Roster
+Washington Wizards,wsh,Alex Sarr,PF,20,"7' 0""",205 lbs,,--,"$11,245,680",,,,https://www.espn.com/nba/player/_/id/5160992/alex-sarr,Team Roster,Roster
+Washington Wizards,wsh,Marcus Smart,PG,31,"6' 3""",220 lbs,,Oklahoma State,"$20,210,285",,,,https://www.espn.com/nba/player/_/id/2990992/marcus-smart,Team Roster,Roster
+Washington Wizards,wsh,Erik Stevenson,G,26,"6' 4""",205 lbs,,West Virginia,--,,,,https://www.espn.com/nba/player/_/id/4396679/erik-stevenson,Team Roster,Roster
+Washington Wizards,wsh,JT Thor,F,22,"6' 9""",203 lbs,,Auburn,"$1,988,598",,,,https://www.espn.com/nba/player/_/id/4702233/jt-thor,Team Roster,Roster
+Washington Wizards,wsh,Tristan Vukcevic,PF,22,"7' 0""",220 lbs,,--,"$2,424,892",,,,https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic,Team Roster,Roster
